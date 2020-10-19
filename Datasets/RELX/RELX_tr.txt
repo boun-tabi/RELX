@@ -1,0 +1,2008 @@
+17647	"<e1> Sacramento Heatwave </e1>, Sacramento <e2> California </e2> merkezli bir Amerikan Basketbol Birliği (ABB) takımıdır."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17650	"<e1> Viva </e1>, <e2> York Bölgesi </e2> Hızlı Transit Planının marka adıdır ve York Bölgesi Hızlı Transit Kuruluşu adı verilen bir Kamu-Özel Ortaklığı (P3) konsorsiyumu aracılığıyla finanse edilmiştir."
+org:alternate_names(e1,e2)
+
+
+17655	"<e1> Sydenham Yönetim Araştırmaları Enstitüsü </e1> Araştırma ve Girişimcilik Eğitimi (<e2> SYAEAGE </e2>), 1913 yılında Combe'nin Bombay Lord Sydenham valisi tarafından adı verilen Mumbai Üniversitesi'ne bağlı Yönetim Araştırmaları veren ülkenin Premiere Yönetim Enstitülerinden biridir."
+org:alternate_names(e2,e1)
+
+
+17674	"2001 <e1> Indiana Hoosiers </e1> futbol takımı, 2001 NCAA Division I-A futbol sezonunda <e2> Indiana Üniversitesi </e2> Bloomington'ı temsil etti."
+org:alternate_names(e1,e2)
+
+
+17680	"Osaka Üniversitesi'ndeki bazı personeller, Ulusal Ticaret Sendika Konseyi (<e1> Zenrokyo </e1>) üyesi olan <e2> Ulusal Genel İşçiler Sendikası </e2> 'nın (NUGW) bir üyesi olan İşçi Sendikası tarafından temsil ediliyorlar."
+org:members(e1,e2)
+
+
+17697	"<e1> Okullar </e1> <e2> 1974 </e2> 'te birleştirilince Haubstadt'daki öğrenci atletler Cep Atletik Konferansı'na katılmak zorunda kaldı."
+no_relation
+
+
+17699	"<e1> 1995 </e1> tarihinde TSB Grup Plc. ve Lloyds Bank'ın birleşmesi, Hill Samuel'in <e2> Lloyds TSB </e2>'nin bir yan kuruluşu olmasını sağladı."
+no_relation
+
+
+17705	"Eckington'da, ayrıca School caddesindeki Eckington Modern Ortaokulu vardı, 1957'de dilbilgisi okulu <e1> Derbyshire </e1>'ın ilk meslek okulu - Westfield Okulu - olduğunda, bu <e2> Eckington İlkokulu </e2> oldu."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+17706	"Günde üç haber programı yurtiçinde <e1> TVE1 </e1>'de ve uluslararası olarak <e2> TVE </e2> Internacional'da yayınlanmaktadır."
+org:alternate_names(e1,e2)
+
+
+17709	"<e1> msnbc.com </e1>'un ana kuruluşları olan <e2> NBC Universal </e2> ve Microsoft, msnbc.com'un adını, ABD'deki üçüncü en popüler haber sitesi için alışılmadık ve potansiyel olarak riskli bir çabayla, değiştirme konusunda üst düzey görüşmeler yapıyor."
+org:subsidiaries(e2,e1)
+
+
+17710	"Yerel gazeteler, <e1> Arizona </e1> Eyaleti Vakfından gelen fonların belgelenmemiş öğrencileri destekleyeceğini ve yardımın yönetiminde kamu fonlarının yer alabileceğini bildirdikten sonra Mr. <e2> Martin </e2>, ofisinin yaklaşık bir düzine üzgün üniversite bağışçısı da dahil olmak üzere yüzlerce çağrı ile dolduğunu söyledi."
+no_relation
+
+
+17711	"<e1> Spartans </e1> evinde oynadığı maçları Doğu Lansing <e2> Michigan </e2>'daki Spartan Stadyumu'nda oynadı."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+17713	"Kariyerinin çeşitli noktalarında The Statesman The Daily Telegraph'da <e1> Hindistan </e1>'daki The <e2> Times </e2>'ta, The Indian Express'te ve en son olarak 2003 yılına kadar Yönetici Editör olduğu India Today'de üst düzey editörlük görevlerinde bulundu."
+org:subsidiaries(e1,e2)
+
+
+17715	"DEVCO, 18 Aralık 2001 tarihinde uluslararası nakliye iskeleleri demiryolu hattı, demiryolu geçiş yolu lokomotifleri, vagonları, kömür depolama tesisi ve Victoria Kavşağı'ndaki lokomotif dükkanları dahil olmak üzere tüm yüzey varlıklarını <e1> Nova Scotia </e1> Power'ın ve Lingan Jeneratör İstasyonu operatörünün sahibi <e2> Emera </e2>'ya tamamen sahip olan iştiraki 510845 New Brunswick Incorporated'a sattı."
+org:subsidiaries(e2,e1)
+
+
+17727	"1980'lerde New York'a taşınmadan önce <e1> Boston </e1>'daki bu süre zarfında Tiger's Baku'de <e2> Mike Stern </e2>'ün yerini aldığı gibi kendi gruplarıyla da sahne aldı."
+per:cities_of_residence(e2,e1)
+
+
+17729	"<e1> Plumer </e1> daha sonra Demokratik Cumhuriyetçi oldu ve 1812-1813 ve 1816-1819'da <e2> New Hampshire </e2> Valisi olarak görev yaptı."
+per:employee_of(e1,e2)
+
+
+17735	"<e1> Tennessee </e1> 'de film çekimi halledildikten sonra <e2> Cyrus </e2>, eve dönmesine dair oldukça pozitif duygusunun üstesinden geldi ve şarkı yazarları Tamara Dunn ve Matthew Wilder'ın yardımıyla Back to Tennessee'yi yazdı."
+no_relation
+
+
+17739	"<e1> Berlusconi </e1>, kendisine boşanma davası açan ikinci eşi <e2> Veronica Lario </e2> ile arasında halka açık bir skandal yaratan Noemi Letizia ile olan ilişkisini açıklaması için ona baskı yapan büyük bir medya fırtınasının merkezindeydi."
+per:spouse(e1,e2)
+
+
+17743	"<e1> Sun Cellular </e1> olarak faaliyet gösteren Digitel Mobile Philippines Inc., <e2> Digital Telecommunications Philippines </e2>'in tamamen sahip olduğu bir iştirakidir ve Filipinler mobil telekomünikasyon şirketlerinden biridir."
+org:subsidiaries(e2,e1)
+
+
+17764	"1999 Garth Brooks'un <e1> Capitol </e1> Kayıt Şirketi Promo Sayfası . . <e2> Chris Gaines </e2> 'in Hayatı."
+no_relation
+
+
+17769	"<e1> Polydor </e1> 'un <e2> Sheridan </e2> 'a gelecekte bir yıldız olacağına inancı o kadar güçlüydü ki iki solo Beatle parçasını çok sonraya kadar sakladılar."
+no_relation
+
+
+17774	"<e1> Pathway Communications </e1>, Markham <e2> Ontario </e2> 'da bulunan bir Kanadalı İnternet servis sağlayıcısıdır (ISP)."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17775	"<e1> UHD </e1>, onu Teksas'taki 13. büyük devlet üniversitesi ve <e2> Houston </e2> bölgesindeki ikinci büyük üniversite haline getiren bir öğrenci kitlesine sahiptir."
+org:city_of_headquarters(e1,e2)
+
+
+17777	"<e1> 1957 </e1> 'de, her ikisinin de Valerie Carr gibi çeşitli sanatçılar için şarkılar yazdıkları ve <e2> Jimmie Rodgers </e2> için Honeycomb (Billboard # 1), Kisses Sweeter Than Wine (Billboard # 3), Oh-Oh I 'm Falling in Love Again ve Secretely gibi büyük sükse getiren şarkıları ürettikleri Roulette Records'ın müşterisi oldular."
+no_relation
+
+
+17778	"Aynı yıl İtalyan hükümeti, Todaro sınıfı olarak adlandırılan Muggiano tersanesinde <e1> Marina Militare </e1> (<e2> İtalyan Donanması </e2>) için Fincantieri tarafından inşa edilen iki U212A denizaltısı sipariş etti."
+org:alternate_names(e1,e2)
+
+
+17784	"Şu anda kız kardeşler <e1> La Grange Park </e1> Illinois'deki Katolik bir ortak eğitim lisesi olan <e2> Nazareth Academy </e2> 'e sponsor oluyorlar."
+org:city_of_headquarters(e2,e1)
+
+
+17785	"Şehgal 2004'te <e1> Basel </e1> İsviçre'de <e2> </e2> Sanat Ödülü'nü aldı."
+no_relation
+
+
+17791	"Üvey babası Morgan tarafından Piers Stefan Pughe-Morgan ismi verilen, yedi ila on üç yaşları arasında bağımsız okul Cumnor House'a ve daha sonra Lewes <e1> Doğu Sussex </e1> yakınlarındaki Chailey'de çok amaçlı bir ortaokul olan <e2> Chailey School </e2> 'a, ardından altıncı form için Lewes Priory School'a gitti."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+17794	"In Terrorem'e ayrıca, Andrews v <e1> Australia ve New Zealand Banking Group </e1> Ltd'nin 2012 davasında <e2> Avustralya </e2> Yüksek Mahkemesi tarafından atıfta bulunulmuştur."
+no_relation
+
+
+17805	"Bir silahlı adam Çarşamba günü <e1> Arkansas Demokrat Partisi </e1> başkanı <e2> Bill Gwatney </e2>'i partinin Little Rock merkezinde vurdu ve öldürdü."
+per:employee_of(e2,e1)
+
+
+17807	"Bu zamana kadar kampüslerin çoğu şehir isimleri ve yanında eyalet kelimesiyle (örn. <e1> San Jose </e1> <e2> Eyaleti </e2>, San Diego Eyaleti, San Francisco Eyaleti) tanımlanmaya başladı."
+no_relation
+
+
+17812	"Henry'nin sonunda Charles'ın kızı <e1> Catherine of Valois </e1> ile evlendiği ve Henry'nin mirasçılarının <e2> Fransa </e2> tahtını miras alacağı Troyes Antlaşması'nı imzaladılar."
+per:countries_of_residence(e1,e2)
+
+
+17813	"<e1> Yemenia </e1> <e2> Yemen </e2> Hava Yolları Boeing 727-2N8, Taiz-Al Janad Havaalanı Ta'izz'de mola vermek üzere Sana Uluslararası Havalimanı'ndan ayrıldı."
+org:alternate_names(e1,e2)
+
+
+17815	"<e1> Minnesota Üniversitesi </e1>, <e2> ABD </e2> 'de Siyaset Bilimi profesörüdür."
+org:country_of_headquarters(e1,e2)
+
+
+17839	"<e1> Meksika Bankası </e1> başkanı Agustin Carstens Çarşamba günü yaptığı basın toplantısında, <e2> Meksika </e2> pezosunun kısmen yükselmesinin sebebinin ABD'deki düşük faizlerin yatırımcıları Meksika'ya para yatırmaya teşvik etmesi olduğunu söyledi."
+org:country_of_headquarters(e1,e2)
+
+
+17847	"Aynı zamanda Ordu'nun kontgerilla hareketlere karşı nasıl savaşacağına dair yeni doktrinin yazarı olan Petraeus, son görev yıllarını Kombine Silahlar Merkezi ve <e1> Fort Leavenworth </e1> Kansas'taki <e2> Komuta ve Genelkurmay Koleji </e2> başkanı olarak geçirdi."
+org:city_of_headquarters(e2,e1)
+
+
+17851	"ABD'deki kırmızı ışık kamera tedarikçileri arasında şunlar yer almaktadır: <e1> Bağlı Bilgisayar Hizmetleri </e1> (ACS) Eyalet ve Yerel Çözümler <e2> Dallas </e2> Texas'daki bir Xerox şirketi; Goldman Sachs'ın 1/3'ünün sahibi olduğu Scottsdale Arizona'daki Amerikan Trafik Çözümleri; Hanover Maryland'den Brekford Uluslararası Şirketi; Latham New York'dan CMA Danışmanlık Hizmetleri Inc.; Beverly Massachusetts'den Gatso ABD; Ridgeland Güney Carolina'dan iTraffic Güvenlik LLC; Lanham Maryland'den Optotraffic; Avustralya'daki ana şirketi ile Phoenix Arizona'daki Redflex Trafik Sistemleri; Ana şirketi Worcestershire İngiltere'de bulunan Lombard Illinois'den RedSpeed-Illinois LLC; Chicago Illinois'den SafeSpeed LLC ve Miami Florida'dan SENSYS America Inc."
+org:city_of_headquarters(e1,e2)
+
+
+17874	"Cumhurbaşkanı <e1> Abdelaziz Bouteflika </e1>, söz konusu teröristlerin <e2> Fas </e2>'ta bir barınakta bulunduğunu ileri sürdü ancak daha sonra bu suçlamayı geri çekti."
+per:countries_of_residence(e1,e2)
+
+
+17876	"1970'lerde evli aktörler <e1> Jack Cassidy </e1> ve <e2> Shirley Jones </e2>, oğulları Shaun Cassidy ile birlikte Irvington'da bir süre yaşadılar (ancak o zamana kadar ailesiyle birlikte yaşamamış David Cassidy değil)."
+per:spouse(e2,e1)
+
+
+17895	"15 Kasım 2005'te <e1> Parti </e1>'nin altıncı lideri olarak seçilen Boisclair, % 30.6 kazanan en yakın rakibi <e2> Pauline Marois </e2> ile karşılaştırıldığında parti üyelik oyunun % 53.8'ini kazandı."
+per:employee_of(e2,e1)
+
+
+17906	"Birleşik Demokratik Cephe'ye (UDF) eski bir sadık olan ve 2004 yılında <e1> UDF </e1> parti programı altında göreve seçilen Mutharika, selefi eski başkan <e2> Bakili Muluzi </e2> ile düştükten sonra DPP'yi kurmak için partisini bıraktı."
+per:employee_of(e2,e1)
+
+
+17919	"<e1> Hybrid Ice </e1>, 1982 yılında Hybrid Ice albümünde çıkan ve o zamanlar radyoda hit haline gelen Magdelene şarkısıyla tanınan Danville <e2> Pennsylvania </e2>'dan bir rock grubudur."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+17921	"Dennison, 11 Kasım 2012 tarihinde North Canton <e1> Ohio </e1>'daki <e2> Walsh Üniversitesi </e2>'nden baş futbol antrenörü olarak emekli oldu."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+17923	"Ordudayken Onoja, <e1> Cameron Üniversitesi </e1> Oklahoma ve <e2> Oklahoma </e2> Eyalet Üniversitesi'nden Siyaset Bilim diplomasıyla mezun oldu."
+org:members(e2,e1)
+
+
+17931	"Son iki <e1> Seventeen </e1> dergi kapağını, <e2> Ann Shoket </e2>'yi gölgede bıraktığı ve etkilediği yerlerde denedi."
+org:top_members/employees(e1,e2)
+
+
+17950	"1993 yılının Ocak ayında <e1> Brown </e1>, Başkan Bill Clinton tarafından 1997 yılına kadar görev yapacağı <e2> Veterans Affairs </e2> Sekreterliğine seçildi."
+per:employee_of(e1,e2)
+
+
+17951	"<e1> The Used </e1> Vendetta Red <e2> Green </e2> Day Good Charlotte ve MxPx gibi gruplarda kısa bir süre davul ve bas gitar çaldı."
+no_relation
+
+
+17952	"Brand Nubian, New Rochelle New York'tan üç MC'den: <e1> Grand Puba </e1> (4 Mart 1966'da Maxwell Dixon doğumlu) Sadat X (eski adıyla Derek X, <e2> 29 Aralık 1968 </e2> Derek Murphy doğumlu) ve Lord Jamar (Lorenzo Dechalus 17 Eylül 1968 doğumlu) ve iki DJ'den : DJ Alamo ve DJ Sincere, oluşan bir Amerikan hip hop grubudur."
+no_relation
+
+
+17954	"Tipperary, Wexford'u 'ev' finalinde yendikten sonra, finalde <e1> New York </e1>'u 6-14'ten 2-5'e kadar yenerek <e2> ligi </e2> kazandı."
+no_relation
+
+
+17962	"Yurtdışındaki büyümeyi hızlandırmak için geçen ay Immelt, <e1> John G. Rice </e1>'ı, <e2> onun </e2> ABD dışındaki satış, pazarlama ve operasyonları denetleyeceği, Hong Kong'a başkan yardımcısı olarak atadı."
+per:alternate_names(e2,e1)
+
+
+17967	"İngilitere doğumlu Georgina Chapman ve Keren Craig, <e1> Londra </e1>'da <e2> Chelsea Sanat ve Tasarım Koleji </e2> 'nde tanıştılar"
+org:city_of_headquarters(e2,e1)
+
+
+17974	"Ertesi yıl <e1> Charles L. McNary </e1>'e karşı, Mayıs ayında ön seçimde kaybedilen ABD Senatosu'na <e2> Cumhuriyetçi </e2> adaylığı için yarıştı."
+per:employee_of(e1,e2)
+
+
+17976	"1974-1979 arasında <e1> İngiltere </e1>, Galler ve Kuzey İrlanda başsavcısı olarak İşçi Partisi başbakanları Harold Wilson ve <e2> James Callaghan </e2> altında görev aldı."
+per:countries_of_residence(e2,e1)
+
+
+17980	"<e1> TG4 </e1>, TV3 ve Sky News <e2> İrlanda </e2>'da haber spikeri olarak çalıştı."
+org:country_of_headquarters(e1,e2)
+
+
+17983	"Mareşal Prens Bhanurangsi Savangwongse Prens Banubandhu Vongsevoradej (11 Ocak 1859 13 Haziran 1928) (), Siam'dan HM Kralı <e1> Mongkut </e1>'un ve HM Kraliçesi <e2> Debsirindra </e2>'nın oğluydu."
+per:spouse(e1,e2)
+
+
+17984	"<e1> Hasland İlkokulu </e1>, Chesterfield <e2> Derbyshire </e2>'daki Hasland köyünde bulunan 339 öğrenciye hizmet veren orta ölçekli bir okuldur."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17991	"Telekomünikasyon sektöründe, Rusya'nın <e1> VimpelCom </e1> şirketi, Temmuz 2009 ortalarında Vietnam'ın <e2> Beeline </e2> mobil hizmetinin GTEL-Mobile aracılığıyla Vietnam'daki bir devlet şirketi ile ortak girişim ilan ettiğini duyurdu."
+org:subsidiaries(e1,e2)
+
+
+17993	"1996 <e1> Georgia Tech Yellow Jackets </e1> futbol takımı, 1996 NCAA Division I-A futbol sezonunda <e2> Georgia Teknoloji Enstitüsü </e2>'nü temsil etti."
+org:members(e2,e1)
+
+
+17995	"Şu anda Robinson, <e1> Livermore </e1> CA'daki <e2> Las Positas Koleji </e2>'nde ve Hayward CA'daki Cal State East Bay'de ders veriyor."
+org:city_of_headquarters(e2,e1)
+
+
+18002	"Adalet (Rtd) <e1> Khan Sahib HABIBULLAH Khan Marwat </e1>, Pakistan <e2> Senatosu </e2>'nun Birinci ve İkinci Başkanı olarak seçildi."
+per:employee_of(e1,e2)
+
+
+18005	"<e1> Ollivier </e1>, 1870 yılında genel aftan istisnaları kaldırdı ve Ledru-Rollin yirmi yıllık sürgünden sonra <e2> Fransa </e2>'ya döndü."
+per:countries_of_residence(e1,e2)
+
+
+18010	"Kanada Baş Yöneticiler Konseyi Yönetim Kurulu üyesi görevinde olan Ghosh, eski Hindistan Sanayi Konfederasyonu Ulusal Telekom Komitesi Başkanı, eski <e1> Hindistan </e1> Hücresel Operatörler Birliği Başkanı ve <e2> Hint Teknoloji Enstitüsü Delhi </e2>'nin seçkin bir mezunudur."
+org:country_of_headquarters(e2,e1)
+
+
+18028	"<e1> Humaira Begum </e1> (1918 27 Haziran 2002) Kral <e2> Muhammed Zahir Şah </e2>'ın karısı ve Afganistan'ın son hükümdar eşiydi."
+per:spouse(e2,e1)
+
+
+18031	"Bu kanal 1 Mayıs 2002'de çıkış yaptı ve başlangıcından Mayıs 2003'e kadar <e1> Nicktoons </e1> TV ve <e2> 2005 </e2>'ten Eylül 2009'a kadar Nicktoons Network olarak tanındı."
+org:founded(e1,e2)
+
+
+18040	"<e1> Pfizer </e1> CEO'su <e2> Ian Read </e2> hakkında biyografik bilgi"
+org:top_members/employees(e1,e2)
+
+
+18047	"Daha önce Patriciu, 13 ülkede faaliyet gösteren, merkezi <e1> Hollanda </e1>'da bulunan ve varlıklarının ve gelirlerinin çoğunluğu Romanya, Fransa ve Güneydoğu Avrupa'da bulunan, çok uluslu bir petrol şirketi olan <e2> Rompetrol </e2> Group NV'nin (TRG) Başkanı ve CEO'suydu."
+org:country_of_headquarters(e2,e1)
+
+
+18049	"Beşinci kat, Galler tarihi ve dili ile alakalı yayınları içeren <e1> Cardiff </e1> Galler Koleksiyonu'nun tarihi üzerine olan kitapların olduğu <e2> Cardiff </e2> Capital Koleksiyonu için kullanılır."
+org:alternate_names(e1,e2)
+
+
+18067	"En yakın South Shore Line istasyonu Gary şehir merkezinde yer alır ve <e1> GPTC </e1> Route <e2> 17 </e2> kullanılarak ulaşılabilir."
+org:subsidiaries(e1,e2)
+
+
+18068	"İktidardaki <e1> Ulusal Liberal Partisi </e1>'nin (PNL) kaynaklarının cumartesi günü söylediğine göre, Romanya Başbakanı Calin <e2> Popescu-Tariceanu </e2> Pazar günü bir hükümet değişikliğini açıklayabilir."
+org:top_members/employees(e1,e2)
+
+
+18069	"<e1> Nye </e1>, <e2> Nevada </e2>'nin en büyük ilçesidir ve Kaliforniya'daki San Bernardino ilçesinden ve Arizona'daki Coconino ilçesinden sonra kıta ABD'sindeki üçüncü büyük ilçedir."
+no_relation
+
+
+18078	"Ülkedeki ilk kapsamlı Bağırsak Kanseri Tarama Programı'nın sonuçları 27 Temmuz 2009'da <e1> Ulusal Çocuk </e1> Hastanesi <e2> Tallaght </e2>'i (AMNCH) içeren Adelaide ve Dublin Meath Hastanesi'nde sunuldu."
+org:city_of_headquarters(e1,e2)
+
+
+18094	"<e1> Boca Juniors </e1> basketbol bölümü, Buenos Aires Arjantin merkezli <e2> Club Boca Juniors </e2> çoklu spor kulübünün bir parçasıdır."
+org:subsidiaries(e2,e1)
+
+
+18098	"<e1> O </e1>, 1733'te Virginia Genel Kurulu'ndaki <e2> Vali </e2> Konseyine atanana kadar bu görevi üstlendi."
+per:employee_of(e1,e2)
+
+
+18102	"<e1> Grae </e1>, bir cazcının (Güney Afrikalı piyanist Abdullah İbrahim) çocuğudur ve 1996'dan beri <e2> New York </e2> hip-hop sahnesinde bir demirbaş olmuştur."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+18107	"Aralık 2004'te Manning, sıkıntılı dönemde Karayip ülkelerine verdiği destekten ötürü Orta Amerika Eylemi'nin Karayip Yıldızı Ödülü'nü aldı ve kamu hizmetindeki 36 yıllık kariyeri için New York City, <e1> Brooklyn </e1>'deki <e2> Medgar Evers College </e2> tarafından Eylül 2007'de Hukuk Doktoru derecesi Honoris Causa verildi."
+org:city_of_headquarters(e2,e1)
+
+
+18121	"<e1> Edinburgh </e1> 'ta doğan Chalmers , Londra'da şair Allan Ramsay'ın oğlu <e2> Allan Ramsay </e2>'ın altında ve daha sonra İtalya'da ustaların altında çalıştı."
+per:cities_of_residence(e2,e1)
+
+
+18129	"İki düzineden fazla acemi asker arasında ilk kadın doktor Elizabeth Blackwell; ve <e1> Amerika Birleşik Devletleri </e1>'nin iki eski Genel Cerrahı Antonia Novello ve <e2> Joycelyn Elders </e2> var."
+no_relation
+
+
+18135	"<e1> 28 </e1> Şubat 2012 tarihinde <e2> Apple </e2>, 7 Mart 2012'de Yerba Buena Center'da yapılması planlanan bir medya etkinliğini duyurdu."
+no_relation
+
+
+18140	"<e1> Rotherham </e1>, önde gelen üç ileri eğitim kurumuna sahiptir: <e2> Thomas Rotherham </e2> Koleji, Dearne Valley Koleji ve Rotherham Sanat ve Teknoloji Koleji."
+org:founded_by(e2,e1)
+
+
+18144	"Kampanya sırasında <e1> Kansas </e1> Demokrat Partisi, <e2> onun </e2> Engle ile olan ilişkisini eleştiren reklamlar yayınladı."
+no_relation
+
+
+18149	"Sheffield Hallam Üniversitesi (<e1> SHU </e1>), Sheffield'daki iki bölgeye dayanan <e2> Güney Yorkshire </e2> İngiltere'deki bir üniversitedir."
+org:city_of_headquarters(e1,e2)
+
+
+18151	"<e1> Northern Rock </e1> yönetim kurulu başkanı başkanı <e2> Ron Sandler </e2>, bugün rapor edilen kayıpların yeniden yapılandırma ilerledikçe devam edeceği ve kredi ortamı çetin kaldığı için, vakıfların özel mülkiyete bağlı olarak iyileşme ve geri dönüşü için iyi temellerin atıldığından eminim dedi."
+org:top_members/employees(e1,e2)
+
+
+18159	"Bir <e1> Pakistanlı </e1> televizyon kanalıyla yapılan röportajlarda <e2> Haider </e2>, kriketten emekli olma ve İngiltere'den sığınma talep etme konusunda çelişkili yorumlar yaptı."
+per:origin(e2,e1)
+
+
+18160	"<e1> Japonya </e1> 'daki <e2> Nippon Steel </e2> Corporation gibi çelik üreticileri, iç talebin durgun olması nedeniyle gelirlerinin yüzde 50'si için yabancı ülkelere güveniyor."
+org:country_of_headquarters(e2,e1)
+
+
+18161	"Tarihçi Ramon Rosa'ya göre; o <e1> Honduras </e1>'in okullardan yoksun olduğu, izolasyonun ve tamamen karanlığın o üzücü çağında doğma talihsizliğine sahipti ve bu nedenle <e2> Morazan </e2>, korkunç bir organizasyona sahip ve ebeveynlerin katkılarıyla sürdürülen özel okullarda eğitim almak zorunda kaldı."
+per:countries_of_residence(e2,e1)
+
+
+18166	"<e1> Reno Air </e1>, <e2> Reno </e2> Nevada'daki Reno / Tahoe Uluslararası Havaalanı ve San Jose California'daki San Jose Uluslararası Havaalanı'ndaki merkezlerinden, batı Amerika Birleşik Devletleri Kanada (Vancouver British Columbia ) ve sınırlı servisle ABD Doğu Yakası'na hizmet verdi."
+org:city_of_headquarters(e1,e2)
+
+
+18167	"<e1> John Singleton Copley </e1> onun öğrencisiydi ve Copley'nin üstün başarısının kıskandığı için sonunda <e2> Boston </e2>'daki stüdyosunu terk ettiği söyleniyor."
+per:cities_of_residence(e1,e2)
+
+
+18177	"NBF ve <e1> Tokio </e1> Marine ve <e2> Japonya </e2> Nichido Ateşi , eklenen AMF'nin yönetim kurulu koltuklarında yer almaya devam edecekler."
+org:country_of_headquarters(e1,e2)
+
+
+18193	"<e1> İçişleri Bakanı </e1> Hristiyan Demokrat <e2> Mario Scelba </e2>, ertesi gün meclise, şimdiye kadar polisin belirleyebildiği kadarıyla Portella della Ginestra'nın vurulmasının politik olmadığını bildirdi."
+per:employee_of(e2,e1)
+
+
+18194	"<e1> Wen </e1> ayrıca, <e2> Çin </e2>'in 50 Çin Afrika dostluk okulu kuracağını, Afrika ülkelerine okul müdürleri ve öğretmenler yetiştireceğini ve 2012 yılına kadar Afrika'ya Çin hükümet burslarının sayısını artıracağını belirtti."
+per:countries_of_residence(e1,e2)
+
+
+18195	"<e1> Arizona Federal Kredi Birliği </e1> (veya Arizona Federal), merkezi <e2> Phoenix </e2> Arizona'da Ulusal Kredi Birliği İdaresi (NCUA) yetkisi altında düzenlenen ve tanınan federal sigortalı 1.3 milyar dolarlık bir hakiki şahıs kredi birliğidir."
+org:city_of_headquarters(e1,e2)
+
+
+18210	"<e1> Danimarka Milli Futbol Takımı </e1> () Danimarka futbolunu temsil eder ve DBU kapsamında düzenlenen futbol kulüplerinin yönetim organı olan <e2> Danimarka Futbol Federasyonu </e2> (DBU) tarafından kontrol edilir."
+org:subsidiaries(e2,e1)
+
+
+18222	"Kızı Anna Earl Jenks, eyalet öncesi <e1> Minnesota </e1>'nın ilk bölge valisi ve Minnesota eyaletinin ikinci valisi olan <e2> Alexander Ramsey </e2> ile evlendi."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+18227	"Bugün <e1> Evergreen Grubu </e1>, Evergreen Denizcilik Şirketi, Evergreen Uluslararası Şirketi, <e2> EVA Air </e2>, Evergreen Havacılık Teknoloji Şirketi, Evergreen Hava Hizmetleri Şirketi, Evergreen Hava Kargo Hizmetleri Şirketi ve Evergreen Uluslararası Depolama ve Hizmetleri Şirketi'ni kapsamaktadır."
+org:subsidiaries(e1,e2)
+
+
+18230	"Mwikuta, 1967 yılında Emment Kapengwe ve Freddie Mwila ile birlikte Amerikan kulübü <e1> Atlanta Chiefs </e1>'e imza attığında yurtdışında profesyonel futbol oynayan ilk <e2> Zambiyalılar </e2>'dan biriydi."
+org:members(e1,e2)
+
+
+18232	"Ancak Liz Forgan, Miras Piyango Fonu - ve <e1> Guardian Media Group </e1>'un sahibi olan <e2> Scott Trust </e2>'ın başkanı - Gordon Brown'un ileri sürdüğü kimliğe dayalı değer temelli yaklaşımdaki gerçek zorluklar konusunda uyardı."
+org:subsidiaries(e2,e1)
+
+
+18241	"Takımın ilk 18 yılında ilk kez, Hoshino 50, <e1> Hanshin Tigers </e1>'ı 2003 yılında <e2> Merkez Ligi </e2> flamasına götürdü."
+org:members(e2,e1)
+
+
+18242	"Fresno Salinas, California State Üniversitesinde öğrenciyken, iyi satan ve ona hem Chicano şair olarak hem de <e1> Gary Soto </e1>, Ernesto Trejo, Leonard Adame ve diğerlerinin de olduğu <e2> Fresno </e2> Okulu'nun liderlerinden biri olarak ün kazandıran Crazy Gypsy adlı ilk kitabını yayınladı."
+per:employee_of(e1,e2)
+
+
+18243	"Makedon istihbarat servisi tarafından elde edilen bilgilere göre, saldırı, gece boyunca <e1> Kosova </e1>'daki Krivenik kasabasına Makedon sınırını geçerek gelen ve <e2> Kosova Koruma Birliği </e2>'ni oluşturan gönüllüler tarafından desteklenen 600'den fazla NLA isyancısı tarafından gerçekleştirildi."
+org:country_of_headquarters(e2,e1)
+
+
+18245	"Psycho Active, <e1> Sacramentolu </e1> rapçi <e2> X-Raided </e2>'nin ilk albümü."
+per:cities_of_residence(e2,e1)
+
+
+18254	"<e1> Houston </e1> Texas'taki Metodist DeBakey Kalp Merkezi'nde ve kardiyotorasik cerrahi profesörü olarak <e2> Baylor Tıp Fakültesi </e2>'nde çalıştı."
+no_relation
+
+
+18267	"Yetkililerinden biri Pazartesi günü, <e1> Endonezya </e1>'nın devlete ait petrol ve gaz şirketi <e2> Pertamina </e2>'nın, bu yıl Ekvador'da altı petrol arama projesi üstleneceğini söyledi."
+org:country_of_headquarters(e2,e1)
+
+
+18278	"Hafızullah Amin, Afganistan Başbakan Yardımcısı ve Mayıs 1979'dan itibaren Başbakanı olurken <e1> Nur Muhammad Taraki </e1>, <e2> Afganistan </e2>'ın hem Başkanı hem de Başbakanı oldu."
+per:employee_of(e1,e2)
+
+
+18296	"UMK'nın ilk 266 mezunu, Tarımsal Sanayi ve Doğal Kaynaklar Fakültesi'nden (42 kişi); Girişimcilik ve İşletme Fakültesi'nden (83 kişi) ve Yaratıcı Teknoloji ve Miras Fakültesi'nden (141 kişi), 19 Eylül 2011 tarihinde Kota Bharu <e1> Kelantan </e1>'da bir otelde düzenlenen <e2> UMK </e2>'in ilk davetinde fakültelerinin lisans derecelerini aldılar."
+org:country_of_headquarters(e2,e1)
+
+
+18300	"<e1> Graham </e1>, bir Cumhuriyetçi olarak <e2> Florida </e2> Yasama Meclisi'nin kuleleri kıyıya yaklaştırma planlarını zorlarken muhalefetini sürdürdü."
+per:employee_of(e1,e2)
+
+
+18305	"<e1> Capital Division </e1>, 20. Yüzyılda <e2> Kore Cumhuriyeti </e2> Ordusunun askeri bir oluşumuydu."
+org:subsidiaries(e2,e1)
+
+
+18320	"Amerikalı bir senarist yapımcı <e1> oyun yazarı </e1> ve film yönetmeni olan <e2> George Axelrod </e2> (9 Haziran 1922 21 Haziran 2003) Marilyn Monroe'nun oynadığı ve aynı adı taşıyan bir filme uyarlanmış olan Yedi Yıl Kaşıntısı (1952) oyunu ile tanındı."
+per:title(e2,e1)
+
+
+18328	"Pink Floyd'un gitaristi <e1> David Gilmour </e1>'un üvey evladı ve Girton College <e2> Cambridge </e2>'de öğrenci olan Charlie Gilmour'un, bazılarının etrafında toplandığı The Cenotaph anıtında İngiliz Birlik Bayrağı sallarken fotoğrafı çekildi; sonra orasının The Cenotaph olduğunu fark etmediğini iddia ederek özür diledi."
+per:cities_of_residence(e1,e2)
+
+
+18336	"1991 MCA derlemesinin o dönemini astar notlar üstünde yansıtan Track Record: The Guess Who Collection <e1> Burton Cummings </e1> yazdı: Kurt Winter, Brother'la birlikte olduğu sürede <e2> Winnipeg </e2>'de tüm zamanların en iyi grubuydu."
+no_relation
+
+
+18338	"Yenilikçi oyunların diğer örnekleri, amacı gazeteleri başarılı bir şekilde müşterilere teslim etmek olan <e1> Atari Games </e1>'in 1984'teki 'Paperboy'u ve amacı ekranın ortasında gösterilen şekli çoğaltmak olan <e2> Namco </e2>'nun Phozon'udur."
+no_relation
+
+
+18342	"<e1> Chain Reaction </e1>, 1995 yılında <e2> Basic Channel </e2> üyeleri Moritz Von Oswald ve Mark Ernestus tarafından kurulan bir Alman plak markasıydı."
+no_relation
+
+
+18356	"<e1> O </e1>, <e2> Arnavutluk </e2> İşçi Partisi'nin Anti-Revizyonist Marksist-Leninist ideolojisini reforme edip halefi Arnavutluk Sosyalist Partisi için sosyal demokrasiye dönüştürdü."
+no_relation
+
+
+18359	"İlk olarak Charles Wheeler tarafından sunuldu ve aslen Millbank'taki <e1> BBC </e1>'nin Westminster stüdyolarından, daha sonra da BBC Televizyon Merkezi Dateline London'dan yayınlandı, şimdi <e2> BBC News </e2> kanalının Broadcasting House'daki stüdyosundan geliyor."
+org:members(e1,e2)
+
+
+18361	"<e1> Pacific Hills Hristiyan Okulu </e1>, Sydney New South Wales Avustralya'nın Hills Bölgesi'ndeki <e2> Dural </e2> banliyösünde bulunan bağımsız bir ortak eğitimli gündüzlü okuldur."
+org:city_of_headquarters(e1,e2)
+
+
+18368	"Fransa Cumhurbaşkanı Nicolas Sarkozy'nin salı günü erken saatlerdeki açıklamalarına yanıt olarak, İçişleri Bakanı <e1> Giuliano Amato </e1>, <e2> İtalya </e2>'nın yasadışı göçmenlerin toplu olarak sınır dışı edilmelerini organize etmediğini söyledi."
+per:employee_of(e1,e2)
+
+
+18369	"Birincil odak noktasının ekonomik kalkınma ve politika olduğu <e1> Connecticut </e1> Senatörü <e2> Joe Liberman </e2> 'ın ofisinde görevli olarak hizmet ederken Capitol Hill'de de bir süre bulundu."
+per:employee_of(e2,e1)
+
+
+18385	"<e1> 1860 </e1>'da St. Stephen's Koleji olarak kurulan <e2> Bard Koleji </e2> , Annandale-on-Hudson New York'ta özel bir liberal sanat kolejidir."
+org:founded(e2,e1)
+
+
+18386	"The Spartan Squad, Associated Students tarafından yönetilir ve <e1> San Jose </e1> <e2> Eyalet </e2>'ine kayıtlı tüm lisans ve lisans üstü öğrencilerine açıktır."
+org:city_of_headquarters(e2,e1)
+
+
+18388	"Ailesi 1919'da Büyük Britanya'ya taşındı ve gençliği sırasında <e1> İngiltere </e1>'de (Somerset'teki <e2> Sidcot Okulu </e2>'nda) eğitim gördü."
+org:country_of_headquarters(e2,e1)
+
+
+18392	"<e1> Beyrut Amerikan Üniversitesi </e1>'nde siyaset bilimleri profesörü olan Hilal Khashan, eğer kendi başlarına bırakılırsa Lübnanlılar'ın <e2> Lübnan </e2>'ı yok edeceklerini söyledi."
+org:country_of_headquarters(e1,e2)
+
+
+18404	"<e1> VIII. Kral Henry Okulu </e1>, Coventry <e2> İngiltere </e2>'de bulunan, bir kıdemli okul (11 18 yaş) ve ilgili hazırlık okulunu (3 11 yaş) içeren karma bir bağımsız okuldur."
+org:country_of_headquarters(e1,e2)
+
+
+18406	"<e1> SpaceX </e1> CEO'su <e2> Elon Musk </e2> kapak açıldığında uzay taşımacılığında yeni bir dönem başlayacak dedi."
+org:top_members/employees(e1,e2)
+
+
+18408	"Oylamanın Cumartesi günü WADA Vakfı Yönetim Kurulu toplantısında yapılması planlanıyor ancak Perşembe günü Avrupa hükümetleri, Avustralyalı politikacı John Fahey'in <e1> Kanada </e1>'nın Dick <e2> Pound </e2>'unu devralabilecek tek aday olduğu konusunda mutsuz olduklarını söyledi."
+per:countries_of_residence(e2,e1)
+
+
+18410	"Nükleer Silahların Ortadan Kaldırılmasına İlişkin Canberra Komisyonu, nükleer silahların yayılması ve nükleer silah dünyasının nasıl ortadan kaldırılacağı konusunda müzakere etmek amacıyla Kasım 1995'te Avustralya Başbakanı <e1> Saygıdeğer </e1> <e2> Paul Keating </e2> tarafından başlatıldı."
+per:title(e2,e1)
+
+
+18413	"Uzaya giden ilk Kanadalı ve Kanada Uzay Ajansı'nın eski başkanı olan <e1> Marc Garneau </e1> Perşembe günü CTV'den <e2> Kanada </e2> AM'e hükümetin doğru kararı verdiğini söyledi."
+per:country_of_birth(e1,e2)
+
+
+18430	"<e1> Masiello </e1> ayrıca <e2> Alternatif Güzergah Kayıtları </e2> etiketine de sahiptir."
+per:employee_of(e1,e2)
+
+
+18453	"Zofia (Sofya) Mineyko'nun ve önde gelen <e1> Yunan </e1> liberal politikacı George Papandreou'nun oğlu <e2> Papandreou </e2>, Sakız Adası Yunanistan'da doğdu."
+per:origin(e2,e1)
+
+
+18456	"<e1> Loukas Kanakaris-Roufos </e1>'ın oğlu ve Sicilya'dan ve Güney <e2> İtalya </e2>'nin geri kalanından gelen ve Patras ve Achaea'da politikacı olan Rouphos ailesinin bir üyesiydi."
+per:countries_of_residence(e1,e2)
+
+
+18463	"Haber ajansları Başbakan <e1> Mikhail Fradkov </e1>'un, <e2> Rusya </e2>'nın Belarus'a olan petrol ihracat vergisini bir tonda 180 ABD dolarından 53 ABD dolarına düşüreceğini söylediğini aktardı."
+per:employee_of(e1,e2)
+
+
+18465	"<e1> Chelsea ve Westminster Hastanesi </e1>'nde doğan Belcher, <e2> Tadworth </e2> Surrey'de büyüdü ve Walton-on-the-Hill İlkokulu'na gitti."
+org:city_of_headquarters(e1,e2)
+
+
+18467	"Kabul edilmese de Mayıs 2010'da <e1> Başkan </e1> <e2> Lee Myung-bak </e2>'a istifasını sundu."
+per:title(e2,e1)
+
+
+18471	"<e1> The National </e1> Herald, 1997 yılında kurulan <e2> New York </e2>'da İngilizce bir Yunanca Amerikan haftalık gazetesidir."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+18472	"Rapçi Will Smith (The Fresh Prince), Batı <e1> Philadelphia </e1>'nın yerel hip hop sahnesinde isim yapmaya çalışırken <e2> DJ Jazzy Jeff </e2> ile tanıştı."
+per:cities_of_residence(e2,e1)
+
+
+18480	"Rabbi Marcus, <e1> Chicago </e1>'da eğitim alırken, <e2> Northeastern Illinois Üniversitesi </e2>'ne devam etti."
+org:city_of_headquarters(e2,e1)
+
+
+18497	"Sammy Kershaw, <e1> Eddy Raven </e1>, <e2> Jo-el Sonnier </e2> ve River Road grubu, Nashville'deki büyük müzik şirketleriyle ulusal ün kazanmaya ve milyonlarca kayıt satmaya devam eden Acadiana yerlileridir."
+no_relation
+
+
+18500	"<e1> DC Chaudhary </e1> hukuk eğitimine Minnesota Üniversitesi Hukuk Fakültesi <e2> Minneapolis </e2> Minnesota'da devam etti."
+per:cities_of_residence(e1,e2)
+
+
+18502	"7 Ekim'de Gambetta Paris'i sıcak hava balonu ile terk etti ve kendisi ve yardımcısı <e1> Charles de Freycinet </e1>'nın işgal edilmemiş <e2> Fransa </e2>'ya karşı savaşı yönettiği Tours şehrine geldi."
+per:countries_of_residence(e1,e2)
+
+
+18504	"<e1> 2. Fırka </e1>'nın 5. Tugay'ının bir parçası olarak Mart 1915'te Avustralya İmparatorluk Gücü (AIF) taburu olarak yetiştirilen 18. Tabur, Liverpool <e2> New South Wales </e2>'re kuruldu."
+org:city_of_headquarters(e1,e2)
+
+
+18508	"Not: <e1> Memphis Slim </e1>, aslında babasının adı olan <e2> Peter Chatman </e2> adı altında müzik besteledi; orijinal albümde bestecinin adı P. Chapman olarak yanlış yazıldı."
+per:alternate_names(e1,e2)
+
+
+18514	"<e1> Michelle Wright </e1>, Kanadalı country müzik sanatçısı Michelle Wright'ın ikinci stüdyo albümü ve 17 Temmuz 1990'da <e2> Savannah </e2> Records'ta piyasaya sürüldü."
+per:employee_of(e1,e2)
+
+
+18521	"<e1> Bailey Rae </e1>, Leeds West Yorkshire <e2> İngiltere </e2>'de, bir Kittitian baba ve bir İngiliz annenin, kardeşleri Candice Bailey ve aktris Rhea Bailey olmak üzere, üç kızının en büyüğü olarak dünyaya geldi."
+per:country_of_birth(e1,e2)
+
+
+18530	"<e1> Face to Face </e1>'in kökleri, şarkıcı/gitarist Trever Keith, basçı Matt Riddle ve davulcu Rob Kurth'un, yerel bir metal grubu olaran Zero Tolerance'ı kurduğu , <e2> 1988 </e2>'e kadar uzanıyor."
+org:founded(e1,e2)
+
+
+18531	"Balmaceda, <e1> Manuel Balmaceda </e1> ve Emilia de Toro Herrera'nın oğlu olarak <e2> Santiago </e2> Şili'de doğdu."
+per:cities_of_residence(e1,e2)
+
+
+18532	"<e1> Relient K </e1>'nin baş vokalisti <e2> Matt Thiessen </e2> ile yapılan LiveDaily röportajına göre Thiessen, Jack'in Mannequin albümüne yaklaşık dört şarkıda katkıda bulundu."
+per:employee_of(e2,e1)
+
+
+18535	"<e1> Team Losi </e1> (<e2> Losi </e2> Team, Losi Racing veya TLR olarak da bilinir), 1980'lerin sonunda Gil Losi tarafından kurulan ve Horizon Hobby'ye ait olan ABD merkezli bir radyo kontrollü otomobil üreticisidir."
+per:alternate_names(e1,e2)
+
+
+18558	"2013 yılının başlarında Bay Charoen Sirivadhanabhakdi, <e1> Singapur </e1>'daki yiyecek ve bira üretimi yapan <e2> Fraser ve Neave </e2> Limited'i ve yayıncılık endüstrisi holdingini içecek ve mülk imparatorluğuna ekledi."
+org:country_of_headquarters(e2,e1)
+
+
+18562	"Bu mektuplar öncelikle Thompson ve Random House'daki editörü Jim Silberman ile Oscar Zeta Acosta ve <e1> Rolling Stone </e1>'nin kurucusu <e2> Jann Wenner </e2> ile sürekli dalgalanan ilişkisi ile ilgili yazışmaları içeriyor."
+org:founded_by(e1,e2)
+
+
+18567	"Iowalılar <e1> onu </e1> ABD Senatosu'na 1990 1996 ve 2002'de tekrar getirerek onu dördüncü kez Senatoya giren ilk <e2> Iowa </e2> Demokratı yaptılar."
+per:employee_of(e1,e2)
+
+
+18584	"Bölge 1922 yılında oluşturuldu ve <e1> Avustralya </e1>'nın ilk Başbakanı Sir <e2> Edmund Barton </e2>'ın adı verildi."
+per:country_of_birth(e2,e1)
+
+
+18603	"<e1> O </e1>, zamanında Meksika'nın ana limanlarından biri olduğu için <e2> Veracruz </e2>'un altyapısını geliştirmek için yollar ve köprüler inşa etti."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+18627	"<e1> Sanders </e1>'ın hem <e2> NLF Network </e2> hem de News-Press üzerinden yapılan yorum talepleri başarılı olmadı."
+no_relation
+
+
+18636	"<e1> Harmony Gold </e1>'un Elandsrand madeninde yeraltında kalan 3000 maden işçisi, endüstri için bir uyandırma çağrısından ve Güney Afrika'daki <e2> maden işçileri </e2>'nin karşı karşıya olduğu daha geniş sorunların bir yansımasından daha fazlası."
+no_relation
+
+
+18642	"Li ayrıca Çin Halk Siyasi Danışma Konferansı (CPPCC) Ulusal Komitesi başkan yardımcısı, Türkiye Büyük Millet Meclisi meclis başkan vekili Nevzat Pakdil ve Kıbrıs Temsilcilerinin <e1> Meclisi </e1> sözcüsü <e2> Marios Garoyian </e2>'ın daveti üzerine ziyaret ediyor."
+per:employee_of(e2,e1)
+
+
+18646	"Yürütmenin diğer üyeleri arasında <e1> Donald Sangster </e1> Bayan Rose Leon Morris Cargill (hepsi <e2> Jamaika </e2>'dan) ve Bhadase Maraj (Trinidad) vardı."
+per:country_of_birth(e1,e2)
+
+
+18663	"Rusya'nın <e1> Komünist Partisi </e1>, darbenin planlayıcısı olan ve kısaca <e2> Mikhail Gorbachev </e2>'in yerine kendini Sovyetler Birliği'nin başkanı ilan eden Gennady Yanayev'in 73 yaşında öldüğünü söyledi."
+per:employee_of(e2,e1)
+
+
+18671	"Önceki PCB'yi sürekli eleştiren biriydi ve yakın zamanda <e1> Avustralya </e1>'nın aile bağlılığına atıfta bulunmasından sonra atılan eski teknik direktör <e2> Geoff Lawson </e2>'ın yerini alma teklifini reddetti."
+per:origin(e2,e1)
+
+
+18677	"Bu, <e1> Japonya </e1> Başbakanı <e2> Ryutaro Hashimoto </e2>'yu, Peru'yu, rehinelerin hayatını tehlikeye atabilecek gereksiz risklerden kaçınmak için açıkça uyarmaya teşvik etti."
+per:countries_of_residence(e2,e1)
+
+
+18689	"Muhalefetin önde gelenlerinden Tony Abbott, <e1> Howard </e1> 70'in Avustralya'daki Babalar Günü olan Pazar gününde <e2> Sydney </e2>'in Royal North Shore Hastanesi'nden taburcu edildiğini AAP'ye söyledi."
+per:cities_of_residence(e1,e2)
+
+
+18692	"2012 <e1> Jacksonville </e1> State Gamecocks futbol takımı, 2012 NCAA Division I FCS futbol sezonunda <e2> Jacksonville State Üniversitesi </e2>'ni temsil etti."
+org:city_of_headquarters(e2,e1)
+
+
+18693	"Ellen Johnson Sirleaf seçimleri kazandığında <e1> Dr. Korto </e1>, <e2> Eğitim </e2> bakanı olarak atandı ve Ocak 2006'da çıkar çatışmalarından kaçınmak için Vakıf'tan ayrılarak göreve başladı."
+per:employee_of(e1,e2)
+
+
+18702	"Girişim, Ürdün Üniversitesi <e1> Prenses Sumaya Teknoloji Üniversitesi </e1> (PSUT] <e2> Philadelphia Üniversitesi </e2> Kral Fahd Petrol ve Mineral Üniversitesi (KFUPM) ve Alman Ürdün Üniversitesi dahil olmak üzere üçüncü taraflarla ve eğitim kurumlarıyla ortaklıklar yoluyla geliştirilmiştir."
+no_relation
+
+
+18707	"1956 yılında <e1> Raul Fontaina </e1> tarafından kurulan <e2> Saeta TV </e2> Kanal 10 ilk Uruguay ve dördüncü Latin Amerika merkezli televizyon kanalıdır, kısaltma SAETA Sociedad de Emisoras de y Anexos anlamına gelir."
+org:founded_by(e2,e1)
+
+
+18726	"<e1> Ray Williams </e1> (d. 1947 Londra <e2> İngiltere </e2>) bir müzik yapımcısı / yayıncısıdır."
+per:country_of_birth(e1,e2)
+
+
+18727	"<e1> Viktor Yanukovych </e1>'in 2010 cumhurbaşkanlığı seçimindeki zaferinin ardından Azarov, Yanukovych'in <e2> Bölge Partisi </e2>'nin liderliğini devraldı ve Mart 2010'da tam teşekküllü Başbakan olarak atandı."
+per:employee_of(e1,e2)
+
+
+18731	"<e1> Birleşik Kilise </e1>, 1925 yılında dört Protestan mezhebinin birleşimi olarak kuruldu: Kanada Metodist Kilisesi, Ontario Cemaat Birliği, <e2> Kanada </e2>'daki Presbiteryen Kilisesi cemaatlerinin üçte ikisi olan Quebec ve ağırlıklı olarak kır temelli bir hareket olan Yerel Birlik Kiliseleri Birliği."
+org:country_of_headquarters(e1,e2)
+
+
+18734	"Ayrıca Korn <e1> davulcusu </e1> <e2> Ray Luzier </e2>'in ilk albümde davulları kaydettiğine de dikkat edilmelidir."
+per:title(e2,e1)
+
+
+18742	"Van Halen'in geleneksel bir şey yapamayacağı düşünüldüğünde, Van Halen sözcüklerinin birleşmesi tamamen doğru değildir, çünkü güya <e1> Hagar </e1> ile ortak olma ve tur yapma eğilimi yüzünden gruptan kovulan orijinal basçı Michael Anthony, Eddie'nin 16 yaşındaki oğlu Wolfgang Wolfie <e2> Van Halen </e2> ile değiştirilmişti."
+no_relation
+
+
+18744	"II. Dünya Savaşı gazisi ve eski <e1> 45. Piyade Tümeni </e1> üyesi Joseph E. Garland, Unknown Soldiers'ı sunar: Avrupa'da II. Dünya Savaşı'nı yeniden yaşamak, II. Dünya Savaşı'nı doğrudan <e2> Sicilya </e2> İtalya Fransa ve Almanya'daki Müttefik tarafının ön saflarında yer alan 45. Piyade Tümeni'nin gözünden portresini çizmek."
+no_relation
+
+
+18749	"Aynı zamanda küresel taşıyıcı <e1> Çin Nakliye Konteyner Hatları </e1>'nı da kontrol eden Şangay merkezli Çin Nakliye Grubunun bir parçası olan Çin Nakliye Terminalleri, APM terminalleri ile Bruges-Zeebrugge'da <e2> APM Terminalleri Zeebrugge </e2>'in % 24'lük bir bölümünü satın alma niyetini belirten bir Mutabakat Zaptı imzaladı."
+no_relation
+
+
+18754	"<e1> St. Augustine </e1> Yellow Jackets lise futbol takımında öne çıkan bir geri koşucu olduğu yer olan <e2> St. Augustine Lisesi </e2>'ne gitti."
+org:alternate_names(e2,e1)
+
+
+18758	"Gladio Operasyonunun varlığını ortaya çıkaran Amerikan Özgür Basını üyesi, eski İtalyan başbakanı <e1> Francesco Cossiga </e1>, <e2> İtalya </e2>'nın en eski ve en çok okunan gazetesine 9-11 terörist saldırılarının CIA ve Mossad tarafından yürütüldüğünü ve küresel istihbarat teşkilatları arasında bunun yaygın bir bilgi olduğunu söyledi."
+per:country_of_birth(e1,e2)
+
+
+18772	"CNN'in Anderson Cooper <e1> 360 </e1> programı, 6 Nisan 2010'da, Firehouse Subs'ın kurucuları Chris ve Robin Sorensen'in, Mt. Pleasant SC Yangın Departmanı'nın, geçen yıl Vakfın departmana bağışladığı ZOLL AutoPulse'u kullanarak kurtardığı rahip Francisco Tuttle ile, <e2> Firehouse Subs </e2> Halk Güvenliği Vakfı'nda buluştuklarını anlatan bir hikaye yayınladı."
+org:members(e1,e2)
+
+
+18774	"<e1> Kanada </e1> Çevre Bakanı <e2> John Baird </e2>, hükümetin sızıntılara karşılık vermek için Sahil Güvenlik'i daha iyi donatmasının iyi olacağını söyleyerek rapora yanıt verdi."
+per:countries_of_residence(e2,e1)
+
+
+18777	"Infante Don Carlos'un portresi, <e1> Diego </e1> tarafından Madrid'de kaldığı süre boyunca ürettiği ilk resimlerden biri olarak yapılan <e2> İspanya </e2>'daki Don Carlos'un (İspanya'daki Philip IV'ün kardeşi) 1626/27 yağlı boya tablosudur."
+per:countries_of_residence(e1,e2)
+
+
+18779	"<e1> İngiltere Kraliçesi Victoria </e1>'nın kraliyet torunları ve IX. Danimarka Kralı Christian, şu anda Belçika Danimarka Norveç İspanya İsveç ve <e2> İngiltere </e2>'nin tahtlarını işgal ediyor."
+per:countries_of_residence(e1,e2)
+
+
+18780	"<e1> Steel Pole Bath Tub </e1>, 1986 yılında Mike Morasky (gitar / vokal) ve Dale Flattum (bas / vokal) tarafından <e2> Bozeman </e2> Montana'da kurulan bir Amerikan rock grubuydu."
+no_relation
+
+
+18792	"Larry Moriarty (24 Nisan 1958'de Santa Barbara California'da doğdu), <e1> Houston </e1> Oilers ve Kansas City Chiefs'te altı sezon boyunca geriye kaçma poziyonunda oynayan, <e2> 1983 </e2> NFL draftında Housten Oliers tarafından 5. turda ( genelde 114. ) seçilen eski profesyonel bir Amerikan futbolu oyuncusudur."
+no_relation
+
+
+18794	"<e1> Bartholomew </e1>, Londra'da doğdu ve MGM'nin David Copperfield oyununda (1935) oyuna adını veren karakteri oynamak için seçildikten sonra 10 yaşında <e2> Amerika Birleşik Devletleri </e2>'ne göç etti."
+per:countries_of_residence(e1,e2)
+
+
+18804	"Anlaşma 2 Aralık 2004'te tamamlandı; <e1> Quebecor </e1>, CKXT karşılığında CHUM'a 46 milyon $ ( CAD ) ve <e2> Sun Media </e2>'nın CP24'teki % 29.9'luk hissesini verdi."
+no_relation
+
+
+18809	"İtalya <e1> Savunma </e1> Bakanı <e2> Arturo Parisi </e2>, Rai kamu televizyonunda iki İtalyan askerinin büyük olasılıkla bağımsız bir grup tarafından ele geçirildiğini söyledi."
+per:employee_of(e2,e1)
+
+
+18822	"<e1> Haksan Kültür Şirketi </e1> ve Seul Kültür Yayıncıları Daewon CI, <e2> Güney Kore </e2>'deki çizgi roman yayınlarının % 50'sinden fazlasından sorumludur."
+org:country_of_headquarters(e1,e2)
+
+
+18824	"<e1> Sweyn Forkbeard </e1>, <e2> Danimarka </e2>'daki kilisenin kontrolünü Kutsal Roma İmparatorluğu'ndan zorla uzak tutmaya çalıştı ve sonuç olarak gününün Alman tarihçileri tarafından karalandı."
+per:countries_of_residence(e1,e2)
+
+
+18826	"Aslen 1902 yılında Ticaret Okulu olarak kurulan, <e1> o </e1> İngiltere'deki en eski <e2> İşletme Okulu </e2>'dur."
+per:alternate_names(e1,e2)
+
+
+18827	"Eserleri, birkaçını söylemek gerekirse <e1> Meksika </e1> Galeria Clava'da, Paris Carrousel du Louvre'da, Meksika yıllık <e2> Clemente Orozco </e2> Sanat yarışmasında, ve New York Guggenheim müzesinde sergilendi."
+per:country_of_birth(e2,e1)
+
+
+18831	"Morris Meyerson ile evlenir ve sonunda bir kibutsta çalışmak için Filistin'e taşınırlar, ancak kısa sürede <e1> Golda </e1>'nın hayal kırıklığına çok şey bırakırlar ve <e2> Kudüs </e2>'e taşınırlar ve iki çocukları olur, ancak Golda'nın muazzam hırsı, 1951'deki ölümüne kadar evli kalsalar da. kısa zamanda onu ve Morris'i uzaklaştırır."
+per:cities_of_residence(e1,e2)
+
+
+18834	"<e1> Adlam </e1>, Amerikan Bağımsızlık Savaşı'nda orduda, <e2> 40. Piyade Alayı </e2>'nda kaptan olarak görev yaptı."
+org:top_members/employees(e2,e1)
+
+
+18836	"Esasen kuruluş zamanında merkez sol bir parti (sendikalarda hiçbir zaman gerçek güçleri olmamasına rağmen sosyal demokratik niyetleri olan) olan <e1> PSDB </e1>, <e2> Fernando Henrique Cardoso </e2> sağ kanatta olan Liberal Cephe Partisi ile ittifak kurup Brezilya Cumhurbaşkanı seçildikten sonra merkeze taşındı."
+per:employee_of(e2,e1)
+
+
+18837	"<e1> Amblin Entertainment </e1>, 1981 yılında yönetmen ve yapımcı Steven Spielberg ve film yapımcıları Kathleen Kennedy ve <e2> Frank Marshall </e2> tarafından kurulan bir Amerikan film ve televizyon yapım şirketidir."
+org:founded_by(e1,e2)
+
+
+18840	"Etkinlik, güneşli <e1> Bloomsbury </e1>'deki <e2> UCL </e2> Hukuk Fakültesi'nde (Bentham House) 17:00-18:00 saatleri arasında gerçekleşiyor."
+org:city_of_headquarters(e2,e1)
+
+
+18843	"<e1> Onun </e1> görev süresi 50 gün ile ona <e2> İsveç </e2> başbakanı olarak en kısa süre hizmet verme rekorunu kırdırdı."
+per:employee_of(e1,e2)
+
+
+18844	"<e1> Cooper Firearms of Montana </e1> 1990 yılında <e2> Dan Cooper </e2> ve diğer iki eski Kimber of Oregon çalışanı tarafından kuruldu."
+org:founded_by(e1,e2)
+
+
+18846	"Gilera kullanan <e1> İtalya </e1>'dan <e2> Marco Simoncelli </e2>, Pazar günü kaza sebebi ile bitişten altı tur önce durdurlan Avustralya 250cc Grand Prix'sini kazandı."
+per:country_of_birth(e2,e1)
+
+
+18859	"Temmuz 2005'te Solo Mobile (Bell) EckoRed'in sponsor olduğu <e1> Kanada </e1> alışveriş merkezi ve mekan turuna katıldı ve SPC, <e2> Chante </e2>'nin Kanada genelinde yaptığı, telefon danışmanlığı hizmeti Çocuk Yardım Telefonu için farkındalığı artırmaya yardımcı olan turlara sponsor oldu."
+per:countries_of_residence(e2,e1)
+
+
+18862	"<e1> Dorset </e1> 2. Marquessi Thomas Gray'in ve Margaret Wotton'un oğlu; baba tarafından <e2> İngiltere'nin IV. Edward </e2>'ının kraliçesi Elizabeth Woodville'in Sir John Grey of Groby ile ilk evliliğinden meydana gelen büyük torunuydu."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+18863	"<e1> Sean Combs </e1> ile <e2> Bad Boy </e2> Kayıtlarını kurdu ve orası Notorious B.I.G. Puffy Combs Mase 112 ve Faith Evans'ın evi oldu."
+per:employee_of(e1,e2)
+
+
+18868	"Groundlift Studios Reykjavik ve <e1> Los Angeles </e1>'da <e2> S. Husky </e2> tarafından New Soul'un mixi ve masterı yapıldı."
+per:cities_of_residence(e2,e1)
+
+
+18869	"Ekim 2010'da <e1> Oceanic Bank </e1>'ın eski başkanı <e2> Cecilia Ibru </e2>, dolandırıcılık suçundan on sekiz ay hapse mahkum edildi ve 1 milyar dolardan fazla para cezasına çarptırıldı."
+org:top_members/employees(e1,e2)
+
+
+18876	"<e1> LJMU </e1>, <e2> İngiltere </e2>'nin kuzeyindeki on bir üniversiteye ait bir eğitim kurumu olan Kuzey Konsorsiyumu'nun kurucu bir üyesidir."
+org:country_of_headquarters(e1,e2)
+
+
+18877	"<e1> O </e1> ayrıca, <e2> Karachi Üniversitesi </e2> Kadın Araştırmaları Mükemmeliyet Merkezi Direktörü olarak görevini sürdürmektedir."
+per:employee_of(e1,e2)
+
+
+18879	"Brion daha sonra Ocak 2005'te MTV News ile yaptığı bir röportajda albümün durumunu açıkladı: <e1> Epic </e1>'in <e2> Apple </e2>'ın ilk albümü Tidal (1996) damarında bir malzeme istediğini ancak Machine'in karşısına konduğunda kolayca satmanın o kadar bariz bir şekilde kolay olmadığını söyledi."
+no_relation
+
+
+18884	"Eski bir Milano sulh hakimi olan <e1> Altyapı ve Ulaşım </e1> Bakanı <e2> Antonio Di Pietro </e2>, Anayasa Mahkemesi'nin merkez sağ tarafından ele geçirilen birçok yasal noktadan birini onardığını söyledi."
+per:employee_of(e2,e1)
+
+
+18885	"<e1> Smith </e1>, Stu Hart yönetiminde eğitimini ilerletmek için Calgary Alberta <e2> Kanada </e2>'ya taşınmadan önce Winwick İngiltere'deki Ted Betley tarafından eğitildi."
+per:countries_of_residence(e1,e2)
+
+
+18888	"<e1> Gabrielle Chanel </e1>, son anlarını Ritz'teki zengin özel dairesinde geçirdiği <e2> Ocak 1971 </e2>'deki ölümüne kadar çalıştı."
+no_relation
+
+
+18907	"<e1> Winn-Dixie </e1> Anonim Mağazaları, <e2> Jacksonville </e2> Florida merkezli bir Amerikan süpermarket zinciridir."
+org:city_of_headquarters(e1,e2)
+
+
+18911	"L. J. <e1> Christen Orta Okulu </e1>, Laredo <e2> Texas </e2>'taki Laredo Bağımsız Okul Bölgesi'nde bulunan bir ortaokuldur."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+18914	"<e1> Çin </e1>, dönemin başbakanı <e2> Junichiro Koizumi </e2>'nın ölen savaş suçluları da dahil olmak üzere Japon savaşını öven Tokyo tapınağına yaptığı yıllık ziyaretlere duyduğu kızgınlıkla, 2006 yılına kadar beş yıl boyunca Japonya ile tüm üst düzey temasları reddetti."
+per:employee_of(e2,e1)
+
+
+18930	"De Kooning <e1> Akademi </e1>, uygulamalı bilimler üniversitesi olan Hogeschool <e2> Rotterdam </e2>'ın bir parçasıdır."
+org:subsidiaries(e2,e1)
+
+
+18931	"<e1> Dakota Power </e1>, nihayetinde <e2> Black Hills Corporation </e2> olan Black Hills Power and Light'ın bir parçası haline geldi."
+org:alternate_names(e2,e1)
+
+
+18939	"<e1> Nintendo </e1>'nun başkanı <e2> Satoru Iwata </e2>, konferanstan sonra Masahiro Sakurai'nin oyunun direktörü olmasını istedi."
+org:top_members/employees(e1,e2)
+
+
+18943	"Romney ayrıca, Bristol-Myers Squibb ve <e1> Procter Gamble </e1>'ın <e2> Gillette </e2> bölümü gibi çeşitli büyük işverenlerin eyalete çekilmesine ya da eyalet içinde kalmasına yardım etmek için kişisel olarak müdahale etti."
+org:subsidiaries(e1,e2)
+
+
+18959	"1998 yılında rakip <e1> Kansas City </e1> liseleri <e2> Mac Lethal </e2>'ın yerel MClerine karşı birçok rap savaşı kazandı."
+per:cities_of_residence(e2,e1)
+
+
+18968	"1999 sezonundan sonra her iki Kreklow da <e1> Cougars </e1>'den ayrıldı, ancak <e2> Wayne </e2>'nin Missouri Tigers'ın baş antrenörlük işini üstlendiği ve Susan'ın Mizzou'nun Voleybol Direktörü olduğu şehirdeki College Avenue'den iki mil aşağı bile gitmediler."
+no_relation
+
+
+18974	"Surat, aynı zamanda 5 dönem boyunca bu seçim bölgesinde milletvekili olan 7. <e1> Hindistan </e1> Başbakanı <e2> Morarji Desai </e2>'nin seçim bölgesiydi."
+per:origin(e2,e1)
+
+
+18982	"2001 yılında o ve <e1> Chiaki Ishikawa </e1>, <e2> See-Saw </e2> olarak tekrar bir araya geldi."
+per:employee_of(e1,e2)
+
+
+18983	"2004 yılında ebeveynlerinin ölümünden sonra <e1> Youngman </e1>, Long Beach California'ya döndü ve bas gitarda Steve Loria (Spirit) ve davulda Phil Cohen (The Heaters) ile <e2> Mutant Press </e2> albümü Idiots Rule'u çıkardı."
+per:employee_of(e1,e2)
+
+
+18984	"Paul Berenger, <e1> Mauritius </e1> Başbakan Yardımcısı olarak üç yıl görevde kaldı ve <e2> Anerood Jugnauth </e2> anlaşmasının ardından Eylül 2003'te, üç yıl görev yaptıktan sonra istifa etti."
+per:employee_of(e2,e1)
+
+
+18997	"Ayrıca 1957 yılında <e1> İbrahim İsmail Chundrigar </e1>'ın kısa ömürlü hükümetinde <e2> Pakistan </e2> Savunma Bakanı olarak görev yaptı."
+per:countries_of_residence(e1,e2)
+
+
+19003	"Hon Hai ve Quanta'ya ek olarak hali hazırda dünyanın en büyük bilgisayar bileşenleri üreticileri olan <e1> Compal Electronics </e1> gibi <e2> Tayvan </e2> şirketleri, uzmanlıklarını aynı ürünlerin çoğunu kullanan yeni pazarlara dalmak için kullandılar."
+org:country_of_headquarters(e1,e2)
+
+
+19015	"2008 Şampiyonu The Griffons, 10 Ekim 2008 tarihinde Potchefstroom'da Platin <e1> Leopards </e1>'a karşı Currie Cup Birinci Lig Finalini 31 26 kazanarak, ilk defa <e2> Currie Cup </e2> Birinci Lig kupasını kazandı."
+no_relation
+
+
+19027	"7 Mayıs'ta Milliyetçi muhalefet (şimdiye kadar John Latham tarafından yönetildi), altı İşçi muhalifi (<e1> Avustralya Ligi </e1> için All'u kuranlar) ve eski Avustralya Partili (1929'da Stanley Bruce'un Milliyetçi hükümetini devirdiği ve karşıt parti ile hareket ettiği için kovulmuş eski Milliyetçilerin bir grubu) Başbakan <e2> Billy Hughes </e2> UAP'yi oluşturmak için birleşti."
+no_relation
+
+
+19028	"O, daha sonra <e1> Tennessee </e1>'de ABD Senatörü olarak görev yapan ABD Temsilcisi Albert Gore Sr.'ın ile Vanderbilt Üniversitesi Hukuk Fakültesi'nden mezun olan ilk kadınlardan biri olan <e2> Pauline LaFon Gore </e2>'nin iki çocuğunun büyüğüydü."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+19030	"Vanderbilt Üniversitesi'nin tıp fakültesinde, o zamanlar Kuzey Carolina'daki Wake Forest Üniversitesi'nde Bowman Grey Tıp Fakültesi'nde ve bugün <e1> Dallas </e1> Texas'taki <e2> Texas Southwestern Üniversitesi Tıp Fakültesi </e2>'nde ders verdi."
+org:city_of_headquarters(e2,e1)
+
+
+19035	"ICI genel müdürü John McAdam, <e1> Akzo Nobel </e1>'in bugün ICI için <e2> ICI </e2>'nin gelecekteki güçlü büyüme beklentilerini ve stratejik fırsatlarını yansıtan tam değer sağlayan cazip bir teklif yaptığını söyledi."
+org:top_members/employees(e2,e1)
+
+
+19055	"<e1> Kleiner Perkins Caufield Byers </e1> (KPCB), Silikon Vadisi'ndeki <e2> Menlo Park </e2>'taki Sand Hill Yolu üzerinde bulunan bir risk sermayesi şirketidir."
+org:city_of_headquarters(e1,e2)
+
+
+19056	"<e1> Iron Horse Orta Okulu </e1>, 12601 Alcosta Blvd. ; <e2> San Ramon </e2> CA 34583'te bulunmaktadır."
+org:city_of_headquarters(e1,e2)
+
+
+19057	"Mazzantini, <e1> İtalya </e1> kadın milli ragbi birliği takımı ve Red Panthers Benetton Treviso'nun kadın takımında kanat oyuncusu olarak da oynayan veteriner cerrah <e2> Elisa </e2> Facchini ile evlidir."
+per:countries_of_residence(e2,e1)
+
+
+19061	"Bu sırada 2011'in sonlarında <e1> Ahmad Zia Massoud </e1> Haji Mohammad Mohaqiq ve Abdul Rashid Dostum, Taliban'ın iktidara geri dönmesine ve Karzai hükümetinden reform talep edilmesine karşı çıkmak üzere Birleşik Cephe'nin (Kuzey İttifakı) bir yeniden düzenlemesi olarak <e2> Afganistan </e2>'ın Ulusal Cephesi'ni oluşturdular."
+per:countries_of_residence(e1,e2)
+
+
+19062	"<e1> Keating </e1> ilk olarak 1969 seçimlerinde Temsilciler Meclisi'ne New South Wales'teki <e2> Blaxland </e2>'ın İşçi Üyesi olarak seçildi."
+per:cities_of_residence(e1,e2)
+
+
+19069	"Kıta ABD'sinde doğrulanan ilk <e1> Avrupa </e1> inişi, 1513'te <e2> onun </e2> La Florida'yı vaftiz ettiği yemyeşil bir kıyıya inen Juan Ponce de tarafından yapıldı."
+per:origin(e2,e1)
+
+
+19070	"<e1> San Francisco </e1>'daki <e2> Kaliforniya Enstitüsü İntegral Çalışmalar </e2>'da sunulan Eleştirel Psikoloji alanındaki bir yan dal ile Lisans Tamamlama Programı haricinde hiçbir eleştirel psikoloji bölümü yoktur, ancak geleneksel üniversitelerde bazen özellikle toplum psikolojisi programlarında eleştirel bakış açılarına rastlanmaktadır."
+org:city_of_headquarters(e2,e1)
+
+
+19073	"<e1> Westmoreland County </e1> Virginia'daki <e2> George Washington </e2> Doğum Yeri Ulusal Anıtı'nda ve Mount Vernon'da ziyaretçiler federal tatil hafta sonu boyunca ve 22 Şubat'a kadar doğum günü kutlamalarına tabi tutulur."
+no_relation
+
+
+19081	"<e1> Lani Misalucha </e1> ile bir dizi konser, 2009'da <e2> Manila </e2>'ya taşınmadan önce Eylül 2008'de ABD ve Kanada turu ile başladı."
+no_relation
+
+
+19084	"Yurtiçi federal vergilerinin çoğu, <e1> Hazine Bakanlığı </e1>'nın bir parçası olan <e2> İç Gelir Servisi </e2> tarafından yönetilmektedir."
+org:subsidiaries(e1,e2)
+
+
+19094	"Western Standard'ın 13 Şubat 2006 sayısında Ric Dolphin'in bir köşe yazısı, o (<e1> Colleen Klein </e1>) başbakanın karısı olmayı bıraktığında sıradan bir Hintli olmaya döndü diyerek <e2> Ralph Klein </e2>'in isimsiz bir balıkçılık arkadaşından alıntı yaptı."
+per:spouse(e2,e1)
+
+
+19096	"<e1> Homewood-Flossmoor Lisesi </e1>, <e2> 1959 </e2>'da kapılarını açtı."
+org:founded(e1,e2)
+
+
+19106	"- Demokratik Senatörler New York'tan Chuck Schumer, <e1> Louisiana </e1>'dan <e2> John Breaux </e2> veNew Mexico'dan Jeff Bingaman --Senato Enerji Komitesi başkanı -- , Enron'un siyasi bağışlarının en büyük faydalanıcıları arasında."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+19110	"Gizem, gerilim, drama ve korku filmleri; Last Tango in <e1> Paris </e1> ( 1972 ), Dressed to Kill ( 1980 ), Body Heat ( 1981 ), Angel Heart ( 1987 ), Basic <e2> Instinct </e2> ( 1992 ), Single White Female ( 1992 ), Color of Night ( 1994 ), Showgirls ( 1995 ), Leaving Las Vegas ( 1995 ), Different Strokes ( 1997 ), Wild Things ( 1998 ), Eyes Wide Shut ( 1999 ), ve In the Cut ( 2003 )'taki gibi güçlü hikaye ve ana fikre doğru kayıyorlar."
+no_relation
+
+
+19120	"1 Ekim 1993'te başlayan <e1> QVC </e1> ve 1 Ekim 1994'te başlayan VH1 dahil olmak üzere 1 Eylül <e2> 1993 </e2>'te bazı kanallar yayınlanmadı, ancak daha sonra eklendi."
+org:founded(e1,e2)
+
+
+19123	"<e1> Queen </e1>'den <e2> Brian May </e2> Guns N ' Roses ve Velvet Revolver'dan Slash, U2'dan The Edge, The Smiths'ten Johnny Marr'ın hepsi Gallagher'ın kendi müzikleri üzerinde büyük bir tesiri olduğunu söylerken, Clapton onu bluesa geri döndürmesine ona pay veriyor."
+org:founded_by(e1,e2)
+
+
+19135	"1980'lerde müzik şirketinin ayrıca, <e1> Doug E. Fresh </e1>'in ilk iki albümünü diğerleri arasında çıkaran <e2> Reality </e2> Records adlı bir hip-hop yan şirketi de vardı."
+per:employee_of(e1,e2)
+
+
+19140	"Mega başarılı erkek grubu <e1> Westlife </e1>'ın bir parçası olarak Avrupa ve Avustralya'da ün kazanan İrlandalı pop yıldızı <e2> Brian McFadden </e2> Demons şarkısını söyledi."
+per:employee_of(e2,e1)
+
+
+19142	"CNN Haber Grubu Başkanı <e1> Jim Walton </e1>, birkaç ay önce Pasadena Calif'te TV eleştirmenlerine; King'in, nefes aldığı sürece <e2> CNN </e2>'de devam edebileceğini söyledi."
+org:top_members/employees(e2,e1)
+
+
+19150	"1980'lerde <e1> Dublin </e1>'deki Hükümet Binalarının <e2> Taoiseach </e2> ofisinin yenilenmesine karar verildi."
+per:cities_of_residence(e2,e1)
+
+
+19152	"10 Temmuz 2012'de taşıyıcı ücretlerinin artması üzerine yapılan sözleşme görüşmeleri sırasında ABD uydu TV sağlayıcısı DirecTV yöneticileri <e1> Viacom </e1>'ın televizyon ağlarının 17'sini (Nickelodeon MTV Logo ve <e2> Comedy Central </e2> dahil) yayınlamaya devam etme isteği ile görüşmeler sırasında Viacom'a yeni bir teklifle yanaştı fakat cevap alamadı ve böylece Viacom DirecTV'nin 20 milyon abonesine aktarımını durdurdu."
+org:subsidiaries(e1,e2)
+
+
+19165	"<e1> Onun </e1> aracı, 16. bölgede bulunan <e2> Paris </e2>'teki evinin yakınına park edildi."
+per:cities_of_residence(e1,e2)
+
+
+19189	"Franks, Macon'daki Gürcistan Müzik Onur Listesi ve Müzesi'nin, Skillet Licker'daki kariyeri üzerine bir sergiyi, 1996-2007 yılları arasında dikkat çeken Alan Jackson <e1> Travis Tritt </e1> ve Trisha Yearwood'un yer aldığı diğer saygın <e2> Georgia </e2> seçkinlerinin yanında öne çıkarmasından onur duyduğunu söyledi."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19197	"Mezuniyet sonrası <e1> Walton </e1>, Wal-Mart'ı temsil eden Tulsa <e2> Oklahoma </e2>'daki Conner and Winters'taki hukuk bürosunun bir üyesi oldu."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19208	"Cumhurbaşkanı <e1> Michelle Bachelet </e1> tarafından Salı günü yayınlanan yeni sayılara göre <e2> Şili </e2>'yi vuran deprem ve tsunamide en az 795 kişi öldü."
+per:countries_of_residence(e1,e2)
+
+
+19228	"Eskiden <e1> James Monroe </e1> Seçkin Hukuk Profesörü, Tarih Profesörü ve Elizabeth D. ve <e2> Virginia </e2> Üniversitesi Hukuk Fakültesi'nde Richard A. Merrill Araştırma Profesörü idi."
+per:employee_of(e1,e2)
+
+
+19229	"21 Haziran 2012'de WMFE'nin sahipleri olan Community Communications, UCF'in kanal 24'ün Central <e1> Florida </e1>'nın PBS programı statüsünü sürdürmesini sağlamak için stüdyo tesisleri hariç tüm WMFE-TV varlıklarının <e2> UCF </e2>'e satılmasının planlandığını açıkladı."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+19262	"25 Haziran 2008 tarihine kadar <e1> Jean Charest </e1> hükümetinde <e2> Quebec </e2> Sağlık ve Sosyal Hizmetler Bakanı olarak görev yaptı."
+per:employee_of(e1,e2)
+
+
+19265	"Ancak nihayet Kasım 2005'te CKY'den Matt Deis ile Erica Beckmann ve Şubat 2007'de <e1> Bam Margera </e1> ile <e2> Melissa </e2> Rothstein için düğün törenleri düzenleyip yönetti."
+per:spouse(e1,e2)
+
+
+19266	"Ayrıca <e1> o </e1> 1964'te sekiz ay evli kaldığı <e2> Troy Donahue </e2> ile 1962 romantik drama Rome Adventure ve 1964 western A Distant Trumpet'te beraber oynadı."
+per:spouse(e1,e2)
+
+
+19268	"<e1> 2. Fırka </e1>, Ocak 1871'de yeni kurulmuş <e2> İmparatorluk Japon Ordusu </e2>'nda oluşturulan altı bölgesel komutadan biri olarak Sendai Miyagi'de kuruldu."
+org:subsidiaries(e2,e1)
+
+
+19283	"Erika Jo sahne adıyla tanınan <e1> Erika Jo </e1> Heriges ( 2 Kasım 1986, Angleton Texas doğumlu ) , <e2> Nashville Star </e2> televizyon programının 2005 sezonunun galibi olarak ilan edilen bir Amerikan country müzik stüdyo sanatçısıdır."
+per:employee_of(e1,e2)
+
+
+19289	"Ayrıca <e1> onun </e1> öldüğü gününe kadar <e2> San Juan </e2> Yardım Evi'nin yöneticisi oldu."
+per:cities_of_residence(e1,e2)
+
+
+19297	"<e1> John Fogerty </e1>'nin kaleme aldığı iki şarkı You Do n't Owe Me ve Back in the Hills (<e2> Fantasy </e2> F-710) idi."
+no_relation
+
+
+19335	"8 Haziran 1910'da <e1> Kral </e1> olan <e2> Birleşik Krallığın V. George </e2> 'u tarafından Kraliyet Viktorya Düzeni'nin onurlu Knight Grand Cross yapıldı."
+per:title(e2,e1)
+
+
+19339	"<e1> Wath Çok Amaçlı Okul </e1>: Dil Koleji, <e2> Rotherham </e2> Güney Yorkshire İngiltere'nin Büyükşehir İlçesinde Wath-upon-Dearne'de Sandygate'de karma eğitim veren bir ortaöğretim okuludur."
+org:city_of_headquarters(e1,e2)
+
+
+19343	"<e1> Spring Arbor Üniversitesi </e1> <e2> Spring Arbor </e2>'da bulunmaktadır."
+org:city_of_headquarters(e1,e2)
+
+
+19349	"<e1> Broadcom </e1>'ı kurmadan önce <e2> Henry Samueli </e2>, California Los Angeles Üniversitesi'nde mühendislik bölümünü yönetti ve çift, UCLA Mühendislik ve Uygulamalı Bilimler Okulu ile California Irvine Üniversitesi'ndeki Henry Samueli Mühendislik Okulu'nu desteklemeye devam ediyor."
+org:founded_by(e1,e2)
+
+
+19350	"CN'in ilk finansmanıyla <e1> 1968 </e1> yılında Beijiao Shunde'de şişe kapakları üreten bir atölye açarak başlayan şirketin kurucusu He Xiangjian, Midea'yı, 2011 yılında 22.2 milyar dolar olarak açıklanan tüm Grup'un satış geliri ile, Çin'deki en başarılı özel şirketlerden biri haline <e2> getirdi </e2>"
+org:founded(e2,e1)
+
+
+19364	"Gözden düşen İngiliz sürat koşucusu Dwain Chambers <e1> Hamburg Sea Devils </e1> takımı <e2> NFL Europa </e2>'ta oynamak üzere cumartesi günü sözleşme imzaladıktan sonra atletizme sırtını dönmeye hazır görünüyor."
+org:members(e2,e1)
+
+
+19379	"Belediye İşleri'nde Parti Komiseri ve PIP Genel Sekreteri olarak hizmet etmek için seçilmeden önce, o zamana kadar Senatör <e1> Manuel Orellana </e1> ve Fernando için Yasama Danışmanı olarak görev yaptığı <e2> Porto Riko Bağımsızlık Partisi </e2> (PIP) hiyerarşisinde hızla yükseldi."
+per:employee_of(e1,e2)
+
+
+19382	"Hillsborough, <e1> Amerika Birleşik Devletleri </e1>'nin 14. başkanı ve New Hampshire'dan çıkmış tek başkan olan <e2> Franklin Pierce </e2>'in 1804 yılında doğduğu yerdir."
+per:country_of_birth(e2,e1)
+
+
+19391	"Salı günü Çin ve <e1> Vanuatu </e1>, Vanuatu başkanı <e2> Kalkot Mataskelekele </e2>'nin Çin'e yaptığı ziyareti sırasında işbirliklerini genişletme sözü verdiler."
+per:employee_of(e2,e1)
+
+
+19399	"Bargheer 1935'te <e1> İsviçre </e1>'yi ziyaret etti ve orada <e2> Paul Klee </e2> ile tanıştı."
+per:countries_of_residence(e2,e1)
+
+
+19400	"Amerika Birleşik Devletleri Hava Kuvvetleri'nin <e1> 119. Komutanlık ve Kontrol Filosu </e1> (119 CACS), McGhee Tyson ANGB <e2> Tennessee </e2>'de bulunan bir uzay kontrol ünitesidir."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19402	"Edmonton, <e1> Toronto </e1>'nun batısındaki tek önemli Kanada bankaları merkezidir: <e2> Kanada Batı Bankası </e2>, ATB Financial ve aynı zamanda eyalet çapında tek kredi birliği Servus."
+org:city_of_headquarters(e2,e1)
+
+
+19406	"Sekiz yıl önce <e1> Seattle </e1>'a taşındığında, yetkililer çete suçlarında yeniden dirilişe dair uyarı veriyorlardı, ancak <e2> Brad </e2>, hangi çetelerin bu değişikliğe sebep olduğu konusunda çok az yerel bilgi bulabiliyordu."
+per:cities_of_residence(e2,e1)
+
+
+19431	"<e1> Clapton </e1>, gitar liderliğindeki blues etkilerini grubta ön plana çıkardı; blues'a konsantre olmak için <e2> Yardbirds </e2>'ten ayrıldı."
+per:employee_of(e1,e2)
+
+
+19433	"Şu an resmi olarak Rani <e1> Mangammal </e1> Mahal olarak bilinen <e2> Chokkanatha Nayak </e2> Sarayı, Madurai Nayak hükümdarları tarafından on yedinci yüzyılın ortalarında inşa edilmiş bir saraydır."
+per:alternate_names(e1,e2)
+
+
+19436	"Tolinski ayrıca Guitar Aficionado ve <e1> Revolver </e1>'ın da bulunduğu <e2> Future US </e2> müzik bölümünün Yazı İşleri Müdürüdür."
+org:subsidiaries(e2,e1)
+
+
+19441	"Mart 2008'de yapılan Fransız belediye seçimlerinde, Flosse-Temaru koalisyonunun üyesi olan birkaç önde gelen belediye başkanı, Fransız Polinezyası seçmenlerinin bir ay önce bölge seçimlerinde birinci sıraya koyduğu <e1> Gaston Tong Sang </e1> 'ın partisinin Flosse ve Temaru'nun partileri arasındaki son dakika ittifakıyla Fransız Polinezyası cumhurbaşkanı olmasının engellenmesi şeklinde yorumlanan <e2> Fransız Polinezyası </e2>'nın önemli belediyelerindeki ofislerini kaybetti."
+per:country_of_birth(e1,e2)
+
+
+19444	"<e1> Jerry Lewis </e1> (16 Mart 1926 doğumlu) Amerikalı komedyen <e2> aktör </e2> şarkıcı film yapımcısı senarist ve film yönetmenidir."
+per:title(e1,e2)
+
+
+19447	"<e1> Tulsa </e1> Daily World'ün 10 Mayıs 1953 sayısında <e2> McGuirk </e2>, büyük paralara uygulanan vergi dilimine girmek için iyi bir şansı olduğunu söyledi."
+no_relation
+
+
+19449	"Kariyeri boyunca Mason, Kelvinator Şirketi'nin (1928-1937) Başkanı ve CEO'su, Nash-Kelvinator Şirketi'nin (1937-1954) Başkanı ve CEO'su ve <e1> American Motors </e1> Şirketi'nin (<e2> 1954 </e2>) Başkanı ve CEO'su oldu."
+no_relation
+
+
+19470	"Buna rağmen CSN Philadelphia; Ocean County'deki New York DMA / ADI <e1> Comcast </e1> ve Verizon FiOS aboneleri, Monmouth County Comcast'in Hunterdon County'deki Lambertville kapsama alanında bulunan Allentown yakınlarındaki Cablevision müşterileri ve Warren County'deki Phillisburg kapsama alanındaki <e2> Service Electric </e2> müşterileri için kullanılabilir durumda."
+no_relation
+
+
+19476	"<e1> Fas </e1> Başbakanı <e2> Abbas El Fassi </e2> bu arada hafif bir uçakla geldi."
+per:employee_of(e2,e1)
+
+
+19479	"Birim, Shiloh Savaşı ve Bragg'in Kentucky Kampanyası sırasında ağır kayıplar verdikten sonra, savaşın geri kalanının çoğunu <e1> 6. Arkansas Piyade </e1> Alayı ile birleştirip 6. / 7. Arkansas <e2> Piyade </e2> Alayı'nı oluşturmak üzere geçirdi."
+org:members(e2,e1)
+
+
+19494	"Bu bölgeden gelen Kenya'nın ilk cumhurbaşkanı <e1> Jomo Kenyatta </e1> ile şimdi <e2> Kenya </e2>'nın 4. cumhurbaşkanı ve Gatundu Güney Anayasası'nı temsil eden eski Parlamento Üyesi olan oğlu biliniyor."
+per:country_of_birth(e1,e2)
+
+
+19503	"Ginx TV, Ağustos 2008'de <e1> Romanya </e1>'nın <e2> Boom TV </e2> uydu televizyon platformunda piyasaya sürüldü."
+org:country_of_headquarters(e2,e1)
+
+
+19515	"2004 yılında Newcom Grubu, Moğolistan'da yeni yurtiçi hava taşımacılığı hizmetlerinin başlatılması için fizibilite araştırması yaptı: Ocak <e1> 2006 </e1>'da tamamen sahip oldukları bir yan kuruluş olan <e2> Eznis Airways </e2>'i kurdular."
+org:founded(e2,e1)
+
+
+19516	"Ayrıca <e1> Enron </e1>'un kurucusu Kenneth Lay ve eski genel müdür <e2> Jeffrey Skilling </e2>'in sahtekarlık komplo ve diğer suçlamalardan mahkum edilmesiyle sonuçlandı."
+org:top_members/employees(e1,e2)
+
+
+19535	"<e1> Mary Louise Wilson </e1> (12 Kasım 1931 New Haven Connecticut doğumlu) Tony ve <e2> Drama Desk ödüllü </e2> Amerikalı sahne filmi ve televizyon oyuncusudur."
+per:title(e1,e2)
+
+
+19547	"Shahid Khudiram Metro İstasyonu, <e1> Kolkata </e1> Hindistan'ın güney mahallesindeki Garia'daki <e2> Kolkata Metro </e2>'nun bir istasyonudur."
+org:city_of_headquarters(e2,e1)
+
+
+19548	"Bunlar arasında New York Belediye Başkanı Fiorello La Guardia köşe yazarı Franklin Pierce Adams, oyuncu-yönetmen George M. Cohan, oyun yazarı-yönetmen George S. Kaufman, <e1> New York </e1> World editörü Herbert Bayard Swope, köşe yazarı Walter Winchell ve aktris <e2> Tallulah Bankhead </e2> vardı."
+per:employee_of(e2,e1)
+
+
+19583	"Bu, üst altıncı sınıfların <e1> William ve Mary </e1> Koleji'nde bir dönem çalışması ve bir William ve Mary mezununun bir yıl boyunca <e2> Kraliyet Hastane Okulu </e2>'nda öğretmenlik yapması içindir."
+no_relation
+
+
+19584	"Daha önce Roorkee Üniversitesi (1948-2001) ve Thomason İnşaat Mühendisliği Koleji (1853-1948) olan <e1> Hint Teknoloji Enstitüsü Roorkee </e1> (yaygın olarak IIT <e2> Roorkee </e2> veya IITR olarak bilinir), Roorkee Uttarakhand Hindistan'da bulunan bir devlet üniversitesidir."
+org:alternate_names(e1,e2)
+
+
+19594	"Jackson, 2000 yılında, 899 yard ve 8 sayıda 35 yakalama kaydettiği All-Conference oyuncusu olduğu <e1> California </e1>'daki <e2> Butte College </e2>'e katıldı."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+19595	"<e1> Çin CITIC Bank </e1> Şirketi, Çin'in en büyük yatırım şirketi <e2> CITIC Group </e2>'un ve Çin'deki büyük ticari kredi kuruluşlarından birinin banka koludur."
+org:subsidiaries(e2,e1)
+
+
+19598	"İki terminalli havaalanında 85'in üzerinde havayolu şirketi faaliyet göstermektedir ve <e1> Cathay Pacific </e1> Dragonair <e2> Air Hong Kong </e2> Hong Kong Havayolları ve Hong Kong Express'in ana merkezidir."
+no_relation
+
+
+19601	"Haziran ayında Ford Motor Co.'dan şirketi 2.3 milyar dolara satın aldıktan sonra, <e1> Tata Motors </e1>'ın <e2> Jaguar Land Rover </e2>'a ne kadar yönlendirildiğini söylemeyi reddetti."
+org:subsidiaries(e1,e2)
+
+
+19611	"Sunny Boy teklifi reddetti ve Gazza'nın uzun süredir arkadaşı olan <e1> The Dogg </e1>'un sahibi olduğu <e2> Mshasho </e2> Records ile imza atarak devam etti."
+org:members(e2,e1)
+
+
+19612	"<e1> Qureshi </e1> Pazartesi günü Dawn News televizyonuna <e2> Pakistan </e2>'ın terörist olarak gördüğü kişilerle pazarlık yapmayacağını söylüyor."
+per:countries_of_residence(e1,e2)
+
+
+19620	"Kanal, Prasar Bharati <e1> Broadcasting </e1> Şirketi'nin bir televizyon ağı olan <e2> Doordarshan </e2>'a ait olup, onun tarafından yönetiliyordur ve Yeni Delhi Hindistan'da bulunmaktadır."
+org:subsidiaries(e1,e2)
+
+
+19622	"<e1> Smith </e1>'in üç kız kardeşi vardı ve orijinal olarak <e2> Chicago </e2> Victory Gardens'ta sunulan otobiyografik oyunu Michael Margaret Pat ve Kate'in temelini oluşturuyorlardı."
+per:cities_of_residence(e1,e2)
+
+
+19625	"2012 Wagner <e1> Seahawks </e1> futbol takımı, 2012 NCAA Division I FCS futbol sezonunda <e2> Wagner College </e2>'i temsil etti."
+org:subsidiaries(e2,e1)
+
+
+19634	"Replicas (Tubeway Army adı altında) ile aynı yıl yayınlanan The Pleasure Principle, <e1> İngiltere </e1>'de de 1 numaraya yükseldi ve Ultravox <e2> The Human League </e2> Depeche Mode ve Orchestral Manoeuvres in the Dark gibi bir dizi synthpop akımının müzik listelerindeki başarısının önünü açtı."
+per:country_of_birth(e2,e1)
+
+
+19637	"Bunlar arasında Sudan Ulusal <e1> Umma Partisi </e1>'nin lideri <e2> Sadiq al-Mahdi </e2> de var."
+per:employee_of(e2,e1)
+
+
+19644	"54 uluslararası maçta 28 gol atan Van Nistelrooy, <e1> Hollanda </e1> için oynamadı çünkü <e2> Van Basten </e2>, Oranje'nin Almanya'daki Dünya Kupası'nı sona erdiren Portekiz'e karşı 1-0 yenilgisinde onu yedek kulübesinde bıraktı."
+per:countries_of_residence(e2,e1)
+
+
+19649	"Doğu <e1> İngiltere </e1>'deki <e2> Norfolk ve Norwich Üniversite Hastanesi </e2>'ndeki doktorlar, 683 yarayı kapatmak için naylon dikişlerin veya zımbaların kullanıldığı altı çalışmanın sonucuna baktı."
+org:country_of_headquarters(e2,e1)
+
+
+19653	"Fizik öğretmeni <e1> Ludwig Boltzmann </e1>'dan esinlenen Meitner, fizik okudu ve 1905'te <e2> Viyana Üniversitesi </e2>'nden fizik alanında doktora derecesi alan ikinci kadın oldu (im inhomogenen)."
+per:employee_of(e1,e2)
+
+
+19659	"Her ne kadar <e1> o </e1> yabancı bir dilde hiçbir zaman bir atılım yapmamış olsa da, zamanının neredeyse hepsini veya çoğunu yurt dışında geçirmesine rağmen <e2> Finlandiya </e2>'da saygı görmeye ve popüler olmaya devam etti."
+per:country_of_birth(e1,e2)
+
+
+19663	"Her zamanki vokalist topluluklarına ve perküsyon enstrümanlarına (trampet kirişi, tom tomlar, ziller, bira şişeleri tenekeleri vb.) ek olarak, grup piyanist Willie Tee ve <e1> gitarist </e1> <e2> Snooks Eaglin </e2> de dahil olmak üzere bir dizi yerel müzisyeni New Orleans Project adını verdikleri grupta bir araya getirdi."
+per:title(e2,e1)
+
+
+19664	"O zamandan beri ikisi, İsrail Başbakanı Ariel Sharon Avusturya Şansölyesi Alfred Gusenbauer <e1> Bulgaristan </e1> Başbakanı <e2> Sergey Stanishev </e2> Romanya Başbakanı C?lin Popescu-T?riceanu Kosova Başbakanı Hashim ve Sırbistan Başkanı Boris Tadic'in başarılı kampanyaları da dahil olmak üzere Avrupa ve Orta Doğu'daki kampanyaları yönetti ve danışmanlık yaptı."
+per:countries_of_residence(e2,e1)
+
+
+19673	"<e1> New York </e1> City polisi ve itfaiyecilerine fitness ve yüzme eğitimi veren New York City Üniversitesi <e2> John Jay Cezai Adalet Koleji </e2>'nde Beden Eğitimi ve Atletizm Bölümü'nde profesördür."
+org:city_of_headquarters(e2,e1)
+
+
+19683	"<e1> Caspar Weinberger </e1> başlangıçta bir <e2> San Francisco </e2> hukuk bürosunda çalıştı."
+per:cities_of_residence(e1,e2)
+
+
+19685	"Bayeux Goblen'in elle boyanmış tam boyutlu bir kopyası, <e1> West Georgia Üniversitesi </e1> <e2> Carrollton </e2> Georgia ABD'de bulunmaktadır."
+org:city_of_headquarters(e1,e2)
+
+
+19691	"<e1> Onun </e1> kızı Jackie Frazier-Lyde bir avukattır ve <e2> Pennsylvania </e2> arazi anlaşmasında borçlu olduğunu iddia ettikleri babası adına parayı takip ederek çalıştı."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19697	"Bu hamle, <e1> Norfolk </e1> İlçe Konseyi'nden uzaklaşan güçle beraber <e2> Notre Dame </e2>'a maliyet ve müfredat üzerinde daha fazla güç verecektir."
+org:members(e1,e2)
+
+
+19711	"<e1> O </e1> başlangıçta yirmi odalı bir ev inşa etmeyi planlamıştı, ancak <e2> Kentucky </e2>'nin merkezindeki diğer birkaç malikaneyi ziyaret ettikten sonra çok daha büyük bir ev inşa etmeye karar verdi."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19718	"Jacob'un markası İrlanda'daki Valeo Foods ve <e1> İngiltere </e1>'deki <e2> United Biscuits </e2>'e aittir."
+org:country_of_headquarters(e2,e1)
+
+
+19724	"<e1> Craitor </e1>, 2011 Ontario Seçimi'nde İlerici Muhafazakar aday George Lepp'i 551 oyla yenerek <e2> Niagara Şelalesi </e2> üyesi olarak üçüncü kez yeniden seçildi."
+per:cities_of_residence(e1,e2)
+
+
+19729	"2009'da <e1> Air Jamaica </e1>, <e2> Jamaica </e2> Turizm Kurulu'na unvan sponsorluğunu bıraktı ve festival Jamaika Caz ve Blues Festivali olarak tanınmaya başladı."
+no_relation
+
+
+19743	"Kfarshima <e1> Lübnan </e1>'da doğup büyüdü, müzik kariyerine 1970'lerin başında <e2> o </e2> 16 yaşında Liban'daki Studio El Fan'ın yetenek şovuna katılıp en iyi kadın şarkıcı olarak altın madalya kazandığı zaman başladı."
+per:country_of_birth(e2,e1)
+
+
+19748	"<e1> Bayer </e1> Giants <e2> Leverkusen </e2> basketbol takımına ev sahipliği yaptı."
+org:members(e2,e1)
+
+
+19765	"<e1> İç Gelir Servisi </e1> <e2> Dallas Bölge Danışmanı </e2> 1975 78 Baş Müşavirliği; Baltimore Bölge Danışmanı 1978 86; Uluslararası Baş Hukuk Müşaviri Ofisi 1986-94 işlerinde çalıştı."
+org:members(e1,e2)
+
+
+19772	"Temmuz 2008'de <e1> Navteq </e1>, Navteq'in halka arzı sırasında pay sahiplerine % 255 oranında olumlu bir getiri sağlayan <e2> Nokia </e2>'ya 8.1 milyar dolarlık brüt nakit satışı sağladı."
+org:subsidiaries(e2,e1)
+
+
+19777	"<e1> Shahn </e1>, <e2> sanatçı </e2> olma kariyerine taşbasmacı olarak eğitim gördüğü New York'ta başladı."
+per:title(e1,e2)
+
+
+19778	"26 Ekim <e1> 2004 </e1>'te <e2> Wireless </e2>, Cingular Wireless tarafından SBC Communications ve BellSouth'un ortak girişimi olarak o zaman Amerika Birleşik Devletleri'ndeki en büyük kablosuz ağı oluşturmak üzere satın alındı."
+no_relation
+
+
+19786	"The Models grubu <e1> Mushroom Records </e1>'a imza attı ve <e2> Freud </e2>, müzisyene pay ödeyen müzik şirketi patronu Michael Gudinski'nin yakın bir aile dostu oldu."
+per:employee_of(e2,e1)
+
+
+19792	"7 Mart 1995'te BN'nin <e1> Sabah </e1>'ta iktidara gelmesinden bir yıl sonra <e2> Musa </e2>, Sabah yasal organı olan Sabah Vakfı'nın (Yayasan Sabah) direktörü oldu."
+per:employee_of(e2,e1)
+
+
+19796	"John Lewis Gaddis ve Paul Kennedy'nin Yale Üniversitesi'nde Büyük Strateji Programından esinlenen Hertog, <e1> CUNY </e1>'deki Duke Üniversitesi <e2> William E. Macaulay Honors College </e2>'de ve başka yerlerde benzer programları finanse etti."
+org:subsidiaries(e1,e2)
+
+
+19805	"<e1> YTL Corporation </e1> (YTL Corp), Tan Sri Dato ' Seri (Dr.) <e2> Yeoh Tiong Lay </e2> tarafından 1955 yılında kuruldu."
+org:founded_by(e1,e2)
+
+
+19814	"Resmi Muhalefet önce <e1> Stockwell Day </e1> liderliğindeki <e2> Kanada İttifakı </e2> tarafından, daha sonra Stephen Harper tarafından ve ardından yine Harper önderliğindeki halef parti Muhafazakar Parti tarafından kuruldu."
+org:members(e2,e1)
+
+
+19815	"-- <e1> Louisiana </e1>'lı Cumhuriyetçi ABD Senatörü <e2> David Vitter </e2> Temmuz ayında Washington telefon numarasının birkaç yıl önce eskort servisi tarafından arananlar arasında olduğunu kabul etti."
+per:employee_of(e2,e1)
+
+
+19830	"US Airways Group, tamamen sahip olduğu ancak US Airways Express markası altında pazarlanan bağlı kuruluşları <e1> PSA Airlines </e1> Inc. ve Piedmont Airlines Inc. şirketleriyle birlikte <e2> US </e2> Airways şirketini işletmektedir."
+org:subsidiaries(e2,e1)
+
+
+19831	"<e1> Florida </e1> Atlantic Üniversitesi, 18 Kasım 1988'de yerel II. Küme okulu <e2> Palm Beach Atlantic Üniversitesi </e2>'ne karşı ilk üniversiteler arası basketbol yarışmasını oynadı."
+no_relation
+
+
+19833	"Pekin'deki <e1> 2008 </e1> Olimpiyatları'nın öncülüğünde, belki de ABD'nin ürettiği en iyi <e2> sprinter </e2> olmaya hazırlanıyor."
+no_relation
+
+
+19842	"1987'de Birleşmiş Milletler <e1> Burma </e1>'yı En Az Gelişmiş Ülke olarak ilan ettikten sonra, <e2> Ne Win </e2>, 23 Temmuz 1988'de tek parti kuralına karşı ayaklanmanın zirvesinde iktidardaki Burma Sosyalist Program Partisi başkanı olarak istifa etti."
+per:employee_of(e2,e1)
+
+
+19852	"28 yaşındaki Belçikalı Jerome Clevers, Batı <e1> Hollanda </e1>'da bulunan Noordwijk'teki <e2> Avrupa Uzay Ajansı </e2>'nın (ESA) ofislerinde yaptığı izolasyon çalışmasının bir parçası olan görevinde bilgi seviyemizi geliştirerek insanlığın bir adım atmasına yardımcı olmak istiyorum dedi."
+org:country_of_headquarters(e2,e1)
+
+
+19855	"Dört ayrı geriden gelen kayıptan, iki IBF elenmesinden ve bir yarışma kaybından sonra Cornelius Bundrage, eski Undisputed Welterweight Şampiyonu ve ardından mevcut IBF Hafif Orta Ağırlık Şampiyonu <e1> Cory Spinks </e1> ile 7 Ağustos 2010 tarihinde Scottrade Center Saint Louis <e2> Missouri </e2> Amerika Birleşik Devletleri'ndeki maçla beraber tartışmalı ünvanını geri aldı."
+no_relation
+
+
+19857	"<e1> Liberty </e1> Mutual, 1911'de işverenlerin çalışanlarını işçi tazminat sigortası ile korumasını gerektiren bir <e2> Massachusetts </e2> eyalet yasasının kabul edilmesinin ardından Massachusetts Çalışan Sigorta Birliği (MEIA) olarak 1912 yılında kurulmuştur."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19861	"<e1> Utah Ordusu Ulusal Muhafız </e1>, <e2> ABD </e2> Ordusu ve ABD Ulusal Muhafızlarının bir bileşenidir."
+org:members(e2,e1)
+
+
+19864	"Gable birkaç ikinci sınıf tiyatro şirketi ile iş buldu ve böylece Midwest'ten daha sonra <e1> Meier Frank </e1> mağazasında kravat satıcısı olarak çalışacağı Portland <e2> Oregon </e2>'a kadar gitti."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19867	"Batı Afrika'da Fransız <e1> du travail </e1>'in (<e2> CGT </e2>) lideri Bassirou, Afrika sendikacılarının kendilerini Fransız merkezlerinden bağımsız hale getirmeleri gerektiği fikrini desteklemeye başlamıştı."
+org:alternate_names(e1,e2)
+
+
+19873	"<e1> Omni Air International </e1> Inc. genel merkezi Tulsa <e2> Oklahoma </e2> ABD'deki Tulsa Uluslararası Havaalanı'ndaki Hangar 19'da bulunan bir ABD tarifesiz havayoludur."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19900	"Bunny Livingston ve Jah B olarak da sevgiyle bilinen Bunny Wailer (Neville O'Riley Livingston olarak 10 Nisan 1947 Jamaika doğumlu) şarkıcı söz yazarı ve perküsyonisttir ve Bob Marley ve <e1> Peter Tosh </e1> ile birlikte reggae grubu <e2> The Wailers </e2>'ın asıl bir üyesidir."
+per:employee_of(e1,e2)
+
+
+19907	"Kramer'ın kızı Rona E. Kramer, 2003-2011 yılları arasında Eyalet Senatosu'nda <e1> Maryland </e1>'in 14. Bölgesini ve oğlu <e2> Benjamin F. Kramer </e2>, 2007'den bu yana Maryland'in 19. Bölgesini Delegeler Meclisi'nde temsil etti."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+19926	"Jack Rapke, 2000 yapımı <e1> Robert Zemeckis </e1> filmi Cast Away gibi filmler yapan bir Amerikan film <e2> yapımcısı </e2>'dır."
+per:title(e1,e2)
+
+
+19930	"<e1> Sierra Leone </e1>'in şu anki Başkanı <e2> Ernest Bai Koroma </e2>'dır."
+per:origin(e2,e1)
+
+
+19944	"<e1> O </e1> 1992'de kendi markası <e2> Fie </e2>'yi kurdu!"
+per:employee_of(e1,e2)
+
+
+19956	"<e1> Hastane </e1>, <e2> Tayland </e2>'ın alt kuzey bölgesinde birinci sınıf üçüncü basamak sağlık merkezi olarak tasarlanmıştır."
+per:countries_of_residence(e1,e2)
+
+
+19960	"Ayrıca erken İsveç doğal koruma ve ekoloji hareketlerinde öncü olmuş <e1> Lennart von Post </e1> tarafından daha sonra geliştirilecek olan palinoloji çalışmasının kurucularından <e2> biri </e2> idi."
+per:alternate_names(e1,e2)
+
+
+19961	"Stony Brook Üniversitesi Pisti, <e1> Stony Brook Seawolves </e1> erkek ve kadın Atletizm Alanı <e2> Bölüm I </e2> programının ev sahibi olarak hizmet veren Stony Brook Üniversitesi'ndeki atletizm alanıdır/pistidir."
+org:members(e2,e1)
+
+
+19975	"(Ayrıca yolculukta <e1> Ted Danson </e1> ve eşi <e2> Mary Steenburgen </e2> vardı.)"
+per:spouse(e2,e1)
+
+
+19990	"Ayrıca hard rock ve heavy metalin ilk günlerinde güney Kaliforniya'da çok popüler bir grup olan Riff Raff'te vokalist Rudy Torres ve davulcu <e1> Audie Desbrow </e1> (<e2> Great White </e2>) ile çaldı."
+per:employee_of(e1,e2)
+
+
+19993	"Schumann'ın % 22.4'lük oyu Mayo'daki küçük bir parti adayı için en iyi sonuçtu ve Mayo'yu <e1> Avustralya </e1>'daki daha marjinal seçmenlerden oluşan bir yere dönüştürmek için tercih edilen iki parti temelinde olan <e2> Downer </e2>'a %1.7 ile kaybetti."
+per:countries_of_residence(e2,e1)
+
+
+19998	"2006 yılında Johnson, <e1> NSWRL </e1> Premier League'de <e2> North Sydney Bears </e2> için oynadı."
+org:members(e1,e2)
+
+
+19999	"21 Ekim'de <e1> Minnesota </e1>'lı Cumhuriyetçi <e2> Rod Grams </e2>, Senato'da yeni tasarlanan bir dolar madeni parasının basılmasını isteyen bir tasarıyı tanıttı."
+per:employee_of(e2,e1)
+
+
+20000	"Çocukluk yıllarının çoğunu geçirdiği Almanya'da doğdu ve daha sonra Sommer <e1> Atina Alman Okulu </e1>'na gittiği <e2> Yunanistan </e2>'a taşındı."
+org:country_of_headquarters(e1,e2)
+
+
+20011	"<e1> Ghost Box Music </e1> kayıt şirketindeki Belbury Poly ve <e2> The Focus Group </e2> gibi bazı sanatçılar Machen'e büyük ilgi gösteriyor."
+org:members(e1,e2)
+
+
+20016	"Bu alandaki önemli firmalardan biri olarak tanınan <e1> Canadian Tire </e1>, <e2> 1922 </e2> yılında Toronto'da faaliyetlerine başladı ve Kanada'nın en büyük perakendecilerinden biri haline geldi."
+org:founded(e1,e2)
+
+
+20019	"Cumartesi sabahı <e1> Nasr </e1> Şehrinin doğu <e2> Kahire </e2> banliyösüne yakın El-Deweiqa bölgesindeki gerçekleşen büyük heyelan, fakir semtteki gecekonduların bir kısmını yıktı."
+org:subsidiaries(e2,e1)
+
+
+20021	"Scranton West Scranton <e1> Scranton Prep </e1> ve Holy Cross'un tamamı, <e2> Pennsylvania </e2> Okullar Arası Atletizm Derneği'nin 2.Bölgesinin bir parçası olan Pennsylvania Lackawanna Ligi'nde atletik olarak yarışıyor."
+no_relation
+
+
+20023	"Singapur'daki sivil idareyi yeniden kuran <e1> Gimson </e1> <e2> 1946'dan 1952'ye kadar Singapur </e2>'un ilk Valisiydi."
+per:countries_of_residence(e1,e2)
+
+
+20028	"<e1> Liverpool </e1>, 1950'lerde geleneksel pop yıldızları Frankie Vaughan ve <e2> Lita Roza </e2> ve Billy Fury'deki en başarılı İngiliz rock and roll yıldızlarından biri de dahil olmak üzere ulusal ve uluslararası alanda başarılı bir dizi popüler şarkıcı çıkardı."
+no_relation
+
+
+20054	"Bu klipte <e1> o </e1> sörf bu kadar moda olmadan önce 1950'lerde genç bir adam olarak <e2> Los Angeles </e2>'e geldikten sonra Gunsmoke yıldızı James Arness ve Hammerhead gibi takma adlarla anılan adamlarla San Onofre'de sörf yaptığından bahsetti."
+per:cities_of_residence(e1,e2)
+
+
+20056	"Eski Başbakan <e1> Khaleda Zia </e1> liderliğindeki Bangladeş Milliyetçi Partisi üyesi Aminul Huq, son yıllarda bombalama yapan Jumatul Mujahedeen <e2> Bangladeş </e2> grubuna yardım etmekten suçlu bulundu."
+per:country_of_birth(e1,e2)
+
+
+20063	"STRAC, 1958'de <e1> Fort Bragg </e1> North Carolina'daki <e2> XVIII Airborne Corps </e2>'a verilen bir isimdir."
+org:city_of_headquarters(e2,e1)
+
+
+20065	"15 Eylül 2007'de yeni bir programlama bloğu: <e1> KEWLopolis </e1>, DIC CBS ve <e2> American Greetings </e2> arasında bir ortak girişim kurdu."
+org:subsidiaries(e2,e1)
+
+
+20067	"Ulusal İleri Araştırmalar Enstitüsü Bangalore <e1> Hindistan </e1>'daki Profesör <e2> Sharada </e2> Srinivasan, sanat arkeoloji arkeometalurjisi ve kültüründe disiplinler arası bilimsel çalışmalar alanında çalışmaktadır ve aynı zamanda klasik Bharata Natyam dansının kabul görmüş bir temsilcisidir."
+per:countries_of_residence(e2,e1)
+
+
+20072	"İlk iki projeyle <e1> Arizona </e1>'da her şeyi yaptım, bu da <e2> benim </e2> stüdyoda fiyatları düşürmemi çok uygun hale getirdi."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+20073	"Nihayetinde Radle en iyi 1969'da Eric Clapton ile başlattığı Delaney and Bonnie ve Friends ve 1970'de davulcu <e1> Jim Gordon </e1> gitarist Duane Allman ve klavyeci Bobby Whitlock ile kayıt yaptığı <e2> Derek and Dominos </e2>'la olan yaşam boyu ilişkisi ile tanındı."
+per:employee_of(e1,e2)
+
+
+20075	"Temiz Hava Ağı (<e1> CAN </e1>), özel olarak <e2> Hong Kong </e2>'daki hava kirliliği konusuna odaklanan bağımsız bir sivil toplum kuruluşudur."
+no_relation
+
+
+20082	"<e1> Fianna </e1>'nın ELDR'ye ve onun uzantısı ALDE'ye katıldığı zamana kadar oturduğu Avrupa Parlamentosu'ndaki <e2> Avrupa Milletler Birliği </e2> grubunun eş başkanlığını yapmıştır."
+org:members(e2,e1)
+
+
+20084	"Denemeler, Joseph'in metinde anonim olarak sadece 'büyük ve iyi bir adam' olarak andığı ilk Hazine Lordu ve <e1> Maliye </e1> Bakanı <e2> Henry Pelham </e2>'a yazdığı önceki brifing notlarından doğdu."
+per:employee_of(e2,e1)
+
+
+20092	"Pakistan Dışişleri Bakanı <e1> Shah Mehmood Qureshi </e1>'nin eş başkanlığında düzenlenen ortak basın toplantısına hitap ederken, Walter ülkesinin <e2> Pakistan </e2> ile ikili ilişkilerini güçlendirmek istediğini söyledi."
+per:employee_of(e1,e2)
+
+
+20115	"Howard Hampton, Haziran 2008'de Ontario <e1> Yeni Demokrat Parti </e1>'nin lideri olarak istifa ettiğini duyurduğunda DiNovo, 2009 Ontario NDP liderlik sözleşmesinde parti içerisindeki kişiler tarafından isimleri potansiyel adaylar olarak önerilen Michael Prue Peter Tabuns ve <e2> Andrea Horwath </e2> ile birlikte dört MPP'den biriydi."
+per:employee_of(e2,e1)
+
+
+20122	"Ressam olma isteğiyle <e1> Tokyo </e1>'ya geldi ve ünlü Fujishima Takeji ve <e2> Kuroda Seiki </e2>'nin altında çalıştı, ancak babasının ani ölümü nedeniyle sanatsal bir kariyerden vazgeçmek zorunda kaldı."
+per:cities_of_residence(e2,e1)
+
+
+20124	"Da REAList, Amerikalı rapçi <e1> Plies </e1>'in <e2> Atlantic Records </e2> tarafından 16 Aralık 2008 tarihinde Kuzey Amerika'da yayınlanan üçüncü stüdyo albümüdür."
+per:employee_of(e1,e2)
+
+
+20129	"Brown, <e1> Norfolk </e1> Virginia'daki <e2> Granby Lisesi </e2>'ne gitti ve öğrenci ve futbol ve basketbolda lettermandı."
+org:city_of_headquarters(e2,e1)
+
+
+20139	"Ulusal Bilim Vakfı, bu yaklaşımı desteklemek ve <e1> Washington </e1> eyaletindeki diğer topluluk ve teknik kolejlerdeki benzer programları geliştirmek için <e2> Bellevue College </e2>'e toplam 1 milyon dolardan fazla eden iki burs verdi."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20152	"<e1> Arkansas </e1>'da herhangi iş teklifi almamıştı ve sadece Fayetteville'deki <e2> Arkansas Üniversitesi </e2> Hukuk Fakültesi tarafından işe alındı çünkü Bill zaten orada ders veriyordu."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20159	"Filmin müzikleri ayrıca Japon müzisyen ve aktör <e1> Gackt </e1>'ın Longing ve Redemption şarkılarını da içeriyor ve sanatçının eski müzik şirketi <e2> Nippon Crown </e2> aracılığıyla piyasaya sürüldü."
+per:employee_of(e1,e2)
+
+
+20161	"<e1> KVCC </e1>'nin <e2> Kalamazoo </e2> şehir merkezindeki Arcadia Commons Kampüsü, Anna Whitten Hall Yeni Medya Merkezi ve Kalamazoo Valley Müzesi'ni içermektedir."
+org:city_of_headquarters(e1,e2)
+
+
+20174	"<e1> Crosby </e1>, <e2> Decca </e2> Records için Johnny Mercer ile eski şarkıyı düet olarak kaydetti."
+per:employee_of(e1,e2)
+
+
+20190	"33 yaşındaki Alberto Gutierrez, atandığı <e1> San Fernando Lisesi </e1>'nin müdürünün, <e2> Gutierrez </e2> öğrencilerden ABD'nin Irak Savaşı'ndaki rolü hakkında eleştirel düşünmelerini istediğinde, kendisine misilleme yaptığını söyleyerek Los Angeles Birleşik Okul Bölgesi'ne dava açtı."
+org:top_members/employees(e1,e2)
+
+
+20192	"<e1> Essendon </e1>'ın 1924 Premiership başarısının önde gelen iştirakçileri arasında defansif kale önü oyuncusu <e2> Clyde Donaldson </e2> takipçi Norm Beckton yan savunmacı Roy Laing takipçi Charlie May ve top taşıyıcı Charlie Hardy de vardı."
+per:employee_of(e2,e1)
+
+
+20193	"Üniversitenin kökeni <e1> Anhui Üniversitesi </e1>'nin kurulduğu tarih olan <e2> 1928 </e2>'e dayanmaktadır."
+org:founded(e1,e2)
+
+
+20194	"İlk Ulivist grupları 1995 1996'da <e1> Romano Prodi </e1>'nin <e2> The Olive Tree </e2>'nin herhangi bir partisine üye olmayan yakın taraftarları tarafından 1996 genel seçimleri için yapılan kampanya sırasında kuruldu."
+no_relation
+
+
+20195	"Paul Ginsborg Marcello Flores Sergio Luzzato Claudio Pavone Enzo Traverso vb. ile birlikte Ginzburg, Ocak 2002'de <e1> Adalet </e1> Bakanı <e2> Clemente Mastella </e2> tarafından Holokost inkârını özellikle cezalandıracak bir yasa projesine karşı bir çağrı imzaladı."
+per:title(e2,e1)
+
+
+20199	"<e1> Samuel Prentiss </e1> (31 Mart 1782 15 Ocak 1857), <e2> Vermont </e2>'dan ABD Senatörüydü ve daha sonraları ise ABD federal yargıcıydı."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20209	"<e1> Karakas Menkul Kıymetler Borsası </e1> veya Bolsa de Valores de <e2> Karacas </e2> (BVC), Karakas Venezuela'da bulunan bir borsadır."
+org:alternate_names(e1,e2)
+
+
+20211	"Ancak filmin finali (aslında sıkı bütçe nedeniyle ilk önce çekildi) sebebiyle son versiyonu hazır olmadığından, Previte ve Capelli'nin çok daha hafif ve genç versiyonu destek pisti olarak kullanıldı, böylece oyuncular <e1> Patrick Swayze </e1> ve Jennifer Gray ve dansçıların dans etmek için bir şeyleri oldu (<e2> Swayze </e2>, daha sonra yapılan tüm yeni çekimleri bile dahil ettiğinde bunun en sevdiği versiyon olduğunu belirtti)."
+per:alternate_names(e1,e2)
+
+
+20220	"Zuiko Yonchome İstasyonu'yla beraber o, <e1> Osaka </e1> Belediye Metro Imazatosuji Hattı üzerindeki <e2> Osaka Ekonomi Üniversitesi </e2>'ne en yakın iki istasyondan biridir."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20224	"( Geçen sonbaharda Alexandra Robbins, <e1> Bethesda </e1> Md'daki <e2> Walt Whitman Lisesi </e2>'ndeki öğrencileri izleyerek geçirdiği yıla göre oluşturulan bir kitap olan The Overachievers'daki benzer bir fenomeni tarihe geçirdi.)"
+org:city_of_headquarters(e2,e1)
+
+
+20225	"Çevre grupları, önlemi Kerry'nin <e1> Oregon </e1> Demokrat Senatörü <e2> Ron Wyden </e2>'ın sponsorluğunda yasadışı ağaç kesimi ile mücadelede dönüm noktası olarak nitelendirdi."
+per:employee_of(e2,e1)
+
+
+20227	"Şu anda <e1> Waterloo Üniversitesi </e1>'nde Kanada Tarihi, Amerika'nın <e2> Kanada </e2> üzerindeki etkisi ve Kanada'nın 20. yüzyıldaki dış ekonomi politikasını öğretmektedir.."
+no_relation
+
+
+20237	"Kweller, bir Avustralya dergisinde <e1> ATO </e1> ile yollarını yakın zamanda ayırdığını ve <e2> onun </e2> yakında çıkacak olan LP'sini sadece The Noise Co. üzerinden yayınlama planları olduğunu belirtti."
+per:employee_of(e2,e1)
+
+
+20239	"Kişisel favorileri Take It There (<e1> D12 </e1>'den <e2> Proof </e2>'u öne çıkaran) ve kızlarına bir aşk mektubu olan Baby Girls, ana fikir ve genel müzisyenlikte yüksek bir seviye sergiliyor."
+org:members(e2,e1)
+
+
+20261	"Kraliyet Stuart Society gazetesi, <e1> Louisa Maria </e1>'yı başka hiçbir meşru kızı olmayan Jacobite taklitçilerinin Su üzerindeki Kral üzerinden koydukları gayriresmi ünvan için bir ima anlamında Su üzerindeki <e2> Prenses </e2> olarak adlandırıyor."
+per:title(e1,e2)
+
+
+20264	"DVD yorumuna göre, ne kredi verilmemiş bir ortak yapımcı olan <e1> Roger Moore </e1>'un, ne de kredi verilmiş <e2> yapımcı </e2> Robert S. Baker'ın Lew Grade ile bir el sıkışma dışında bir sözleşmesi yoktu."
+per:employee_of(e1,e2)
+
+
+20268	"1996'da <e1> Aftermath </e1> Entertainment'ı kurduktan sonra Dr. Dre, yapımcı <e2> Mel-Man </e2>'i ortak yapımcı olarak aldı ve müziğini, daha az vokal örnekleri kullanarak daha sentez tabanlı müzik haline çevirdi. (örneğin Lil 'Ghetto Boy ve Let Me Ride on the Chronic'de kullandığı gibi)."
+per:employee_of(e2,e1)
+
+
+20277	"Reagan'ın ölümünden sonra <e1> ABD </e1> Posta Servisi 2005 yılında Başkan <e2> Ronald Reagan </e2> anısına posta pulu çıkardı."
+per:country_of_birth(e2,e1)
+
+
+20285	"2007 seçimlerinde <e1> İşçi </e1> Partisi lideri <e2> Kevin Rudd </e2>'ın zamanımızın en büyük ahlaki mücadelesiyle başa çıkacağına dair verdiği söz ona zafer kazandırdı."
+per:employee_of(e2,e1)
+
+
+20292	"Eskiden Northside Yetenek Merkezi olarak bilinen <e1> A. Philip Randolph Teknoloji Akademileri </e1>, Duval County'nin MAGNET programlarının gelişmiş müfredat ve beceri eğitimini sunan<e2> Jacksonville </e2> Florida'da bulunan on iki liseden biridir (Duval County Devlet Okulları ağındaki on dokuz okul arasında)."
+org:city_of_headquarters(e1,e2)
+
+
+20294	"İlk başta çift, <e1> Frida Kahlo </e1>'nun <e2> Mexico </e2> City'nin bir ilçesinde bulunan La Casa Azul (Mavi Ev) adlı aile evinde yaşıyordu."
+per:cities_of_residence(e1,e2)
+
+
+20296	"<e1> Adrian College </e1> Adrian <e2> MI </e2> ABD'de yapılan antislavery etkinliğinde Profesör David Batstone, kölelik ve insan ticareti ile ilgili bir konuşma yapacak ve A Concert End to Slavery filminden klipler gösterecek."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20297	"Mayıs 2011'de, Disney Channel'da (ABD'de) yayınlanan My Babysitter's a Vampire'ın ilk sezon bölümünden önce ve Teletoon/T'de (<e1> Canada </e1>'da) belirli bölümlerin ön gösterimlerinden sonra; Bell Broadcast ve New Media Fund'ın desteğiyle Secret Location, <e2> Teletoon </e2> ve MBAV için 3D olarak Humans vs. Vampires adlı bir video oyunu geliştirmeye başladı."
+org:country_of_headquarters(e2,e1)
+
+
+20301	"Mimari yazarı Walt Lockley'e göre <e1> Wright </e1>, 1924 yılında Chicago'da bir Pazar öğleden sonra bir arkadaşıyla operaya gitmemiş ve koyu saçlı Karadağlı <e2> dansçı </e2>'nın yanına oturmamış olsaydı, The Foundation and the Fellowship herhangi bir şekilde mevcut olmayacaktı."
+no_relation
+
+
+20306	"Lima ve Tokyo arasındaki ilişkiler, Peru'nun eski başkanı <e1> Alberto Fujimori </e1>'nin <e2> Japonya </e2>'daki yedi yıllık sürgünü sona erdirdiği 2007'den beri ısınıyor."
+per:countries_of_residence(e1,e2)
+
+
+20311	"2012 <e1> Connecticut Huskies </e1> futbol takımı, 2012 NCAA <e2> Division I FBS </e2> futbol sezonunda Büyük Doğu Konferansı üyesi olarak Connecticut Üniversitesi'ni temsil etti."
+org:members(e2,e1)
+
+
+20319	"<e1> Mitsuda </e1>, 21 Ocak 1972'de Shunan Yamaguchi <e2> Japonya </e2>'da doğdu ve Kumage Bölgesi'nde büyüdü."
+per:country_of_birth(e1,e2)
+
+
+20328	"Ocak 1928'de Skelly, <e1> Tulsa </e1> Mid-Continent Aircraft Şirketi'ni satın aldı ve adını <e2> Spartan Aircraft Şirketi </e2> olarak değiştirdi."
+org:alternate_names(e2,e1)
+
+
+20347	"Daha sonra <e1> Tim Armstrong </e1>'un yeni Epitaph üyesi <e2> Hellcat </e2> Records'ta 4 şarkılık bir anlaşma için ilk grup olarak seçildiler."
+per:employee_of(e1,e2)
+
+
+20353	"<e1> Robert E. Lee Lisesi </e1>, Montgomery <e2> Alabama </e2> ABD'de 9. - 12. sınıflara hizmet veren bir devlet lisesidir."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20357	"Hammond daha sonra Robert Shelton'a hiç geciktirmeden <e1> Dylan </e1>'la imza atmaya karar verdiğini ve onu daha resmi bir seçme kaydı için <e2> Columbia </e2> ofislerine davet ettiğini söyledi."
+per:employee_of(e1,e2)
+
+
+20361	"1974: Yokluğunda başkana vekalet eden Chiang Kai-shek, Başkan Vekili <e1> Yen Chia-kan </e1>, Tümgeneral Ismael D. Lapus'un Filipinler'in Çin <e2> Cumhuriyeti </e2> büyükelçisi olmasını onayladılar."
+no_relation
+
+
+20365	"<e1> 2000 </e1>'de federal seçimlerde aday olan federal <e2> Bloc Pot </e2> Esrar Partisi'nin eşdeğerini oluşturdu."
+org:founded(e2,e1)
+
+
+20371	"Sigorta yöneticisi <e1> Tom Petway </e1> ve geliştirici John Rood'un beğenisini kazandıktan sonra <e2> Florida </e2>'da eyalet çapında bir kampanya başlatabilir ve kampanyaya katkı olarak milyonlarca dolar kullanabilir."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20375	"24 Haziran 2010'da Julia Gillard, Avustralya Başbakanı ve <e1> Kevin Rudd </e1>'ın istifasının ardından İşçi Partisinin <e2> Lideri </e2> olduğunda, Swan İşçi Partisi'nin Başkan Yardımcısı olarak rakipsiz bir şekilde seçildi ve daha sonra 14. Başbakan Yardımcısı olarak yemin etti."
+per:title(e1,e2)
+
+
+20381	"RK <e1> Podravka </e1> <e2> Koprivnica </e2> takımı için oynuyor."
+org:alternate_names(e1,e2)
+
+
+20389	"Bununla birlikte, Sherman'a eşlik etmek yerine, kendisi ve askerleri, Kasım ve Aralık 1864'te Franklin-Nashville Savaşı için Tümgeneral <e1> George H. Thomas </e1>'ın <e2> Cumberland Ordusuna </e2> bağlandı."
+org:top_members/employees(e2,e1)
+
+
+20394	"Ve Birliklerine saygı ile <e1> Ulusal Postacılar Birliği </e1> 30 Ağustos <e2> 1889 </e2>'da Plankinton Bulvarı üzerindeki alanda kuruldu."
+org:founded(e1,e2)
+
+
+20409	"Kökleri 1920'lere kadar uzanan atletizm tarihi boyunca Towson <e1> takımlarını </e1> ve bireysel öğrenci sporcularını beyzbol, basketbol, Amerikan futbolu, golf, jimnastik, lakros, futbol, yüzme, atletizm ve voleybolda sezon sonrası <e2> NCAA </e2> yarışmasına gönderdi."
+org:members(e2,e1)
+
+
+20410	"<e1> 1982 </e1>'de Leonard Fairclough Son ile birleşerek <e2> AMEC </e2>'i oluşturdu."
+org:founded(e2,e1)
+
+
+20411	"Kohlrausch <e1> Üniversitesi </e1>'nde, <e2> onun </e2> pratik deneylerinin kayıtlara geçirilmesi 1870 yılında Almanya'da türünün ilk kitabı olarak yayınlanan Leitfaden der praktischen Physik ( Pratik Fizik Rehberi) kitabıyla sonuçlandı."
+per:employee_of(e2,e1)
+
+
+20415	"Altı Cumhuriyetçi ve bir <e1> Oregon </e1> Demokrat'ı <e2> Jeff Merkley </e2> karşı çıktılar."
+per:employee_of(e2,e1)
+
+
+20416	"Kanada Avam Kamarası'nda <e1> Muhafazakar </e1> Parti Milletvekilleri Dick Harris ve <e2> Jay Hill </e2> tarafından temsil ediliyorlar."
+per:employee_of(e2,e1)
+
+
+20417	"ABD Dışişleri Bakanlığı'nın 2 numaralı resmi yetkilisi olmadan önce <e1> Negroponte </e1>, ABD'nin <e2> Birleşmiş Milletler </e2> ve Irak Büyükelçisi idi."
+per:employee_of(e1,e2)
+
+
+20422	"Yonhap haber ajansı ve diğer medya organları daha önce, holdingin amiral gemisi olan <e1> Samsung Electronics </e1> Co.'da yönetici olarak görev yapan genç Lee'nin, <e2> grubu </e2>'nun kurumsal yapısını içeren karanlık iş ilişkileri hakkında sorgulanacağını bildirdi."
+org:alternate_names(e2,e1)
+
+
+20439	"14 Kasım 2007'de <e1> Lothian ve Sınırlar Polisi </e1>, <e2> Margate </e2>'deki bir ev olan 50 Irvine Drive'ın arka bahçesinde bulunan insan kalıntılarının 1991'de Tobin tarafından işgal edilen Vicky Hamilton'a ait olduğunu doğruladı."
+org:city_of_headquarters(e1,e2)
+
+
+20444	"İnsan Güvenliğinin Sürdürülmesi üzerine Uluslararası Kalkınma Çalışmaları Konferansı için <e1> Bangkok </e1> Tayland'da toplandık: Asya'nın Katkısı 4-5 Ekim 2007 tarihleri arasında <e2> Chulalongkorn Üniversitesi </e2>'nde düzenlendi."
+org:city_of_headquarters(e2,e1)
+
+
+20455	"Wonder, Positivity şarkısında <e1> şarkıcı </e1> <e2> Minnie Riperton </e2>'a kısa bir referansta bulunuyor."
+per:title(e2,e1)
+
+
+20461	"Cuma günü Güney Sudan, <e1> Kenya </e1>'nın eski cumhurbaşkanı <e2> Daniel arap Moi </e2>'ye barış anlaşmasının kendine düşen şartlarını yerine getirmediği için Hartum'u suçlayarak bir anlaşma bulmaktan kaçınması ve bu olaya müdahele etmesi konusunda baskı yaptı."
+no_relation
+
+
+20466	"John Wood, <e1> Fairport Convention </e1> John Martyn Cat Stevens <e2> Sandy Denny </e2> Nick Drake the Incredible String Band Pink Floyd Nico ve Squeeze ile çalışmalarıyla tanınan bir İngiliz ses mühendisi ve yapımcısıdır."
+no_relation
+
+
+20468	"Eşi <e1> Muriel Humphrey </e1>, Amerikan Senatosu'nda özel bir seçimle yeri doldurulana kadar hizmet eden <e2> Minnesota </e2> valisi Rudy Perpich ile görüştü."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20475	"Bunlardan en belirgin olanı <e1> Asom'ın Birleşik Kurtuluş Cephesi </e1>'dir (<e2> ABKC </e2>)."
+org:alternate_names(e1,e2)
+
+
+20477	"<e1> Sun Caged </e1>, Hollandalı progresif metal grubu Sun Caged'in 22 Ekim 2003 tarihinde <e2> Lion Music </e2> tarafından yayınlanan ilk ondan fazla şarkıdan oluşan stüdyo albümü."
+org:members(e2,e1)
+
+
+20482	"(Tarihsiz) - <e1> St. Joe Şirketi </e1>'ni kağıt üreticisinden yer yapımcısına dönüşmesine öncülük eden Peter S. Rummell, Mayıs ayı ortasında <e2> Jacksonville </e2> şirketinin genel müdürü olarak istifa ediyor."
+org:city_of_headquarters(e1,e2)
+
+
+20504	"2000 yılında Fransız erkek grubu 2Be3 ile çalışıyordu ve Paris'te albümleri için bir tanıtım yaparken grup arkadaşlarından biri onu house müzisyeni ve <e1> yapımcı </e1> <e2> David Guetta </e2> ile tanıştırdı."
+per:title(e2,e1)
+
+
+20509	"1986'dan 1993'e kadar Mountain <e1> Bike </e1> Action Dergisi'nin editörüydü ve sonrasında 2004'te kovulana kadar Rodale's Mountain <e2> Bike dergisi </e2>'ne geçti."
+no_relation
+
+
+20513	"Üç yıl kaldıktan sonra <e1> Antwerp </e1>'e dönmesi üzerine, 1620 yılına kadar <e2> Peter Paul Rubens </e2> ile sık sık işbirliği yaptı."
+per:cities_of_residence(e2,e1)
+
+
+20514	"Başlangıçta 1753'te New Chester ismi verilen kasaba, 1836'dan 1839'a kadar <e1> New Hampshire </e1> valisi olarak görev yapan <e2> Isaac Hill </e2> onuruna 1837'de Hill adını aldı."
+per:employee_of(e2,e1)
+
+
+20520	"<e1> Bernard Makuza </e1> (30 Eylül 1961 doğumlu), 8 Mart 2000 ile 6 Ekim 2011 tarihleri arasında Ruanda'nın <e2> Başbakanı </e2> olan Ruandalı bir siyasetçidir."
+per:title(e1,e2)
+
+
+20522	"New Jersey'deki <e1> Kean Koleji </e1>, Başkan Ronald L. Applbaum yönetiminde <e2> 1997 </e2>'de bir üniversite haline geldiğinde, kurum daha yüksek bir akademik tanınırlık ve halk tanınırlığı elde etmişti."
+org:founded(e1,e2)
+
+
+20526	"Kız kardeşi <e1> Susie </e1>, Rothesay <e2> New Brunswick </e2>'deki Netherwood Kız Okulu'nun mal sahibi ve müdürüydü."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20538	"<e1> McFadden </e1>, Dublin <e2> İrlanda </e2>'da doğdu ve Katolik olarak büyütüldü."
+per:country_of_birth(e1,e2)
+
+
+20542	"Özelleştirme programı ayrıca Viana do Castelo tersanelerine özel sermayenin girişini, sanayi ve savunma sektörlerindeki şirketlerin sermayesinin satışını, <e1> TAP Portugal </e1> havayolu şirketinin açılmasını ve Aeroports du <e2> Portugal </e2>'ın satışını da kapsıyor."
+org:country_of_headquarters(e1,e2)
+
+
+20550	"Ertesi gün Avustralyalılar tarafından Helen ve <e1> Sadie </e1> adlı <e2> iki tepe </e2>'de bulunan Japon mevkilerine saldırı başlattılar."
+no_relation
+
+
+20553	"Asper'in istasyonları (Vancouver Saskatchewan istasyonlarındaki CKVU-TV, CFRE-TV / Regina, CFSK-TV / Saskatoon, <e1> Winnipeg </e1>'deki CKND-TV ve Halifax'teki CIHF-TV dahil), nihayetinde günümüzün Global'ine dönüşen <e2> Canwest </e2> Global Sistemi olarak bilinen yıllarca kullanılan bir mini ağ oluşturdu ve tüm istasyonlar 1997'de Global markasını (CIII'e ek olarak) kullanmaya başladı."
+org:city_of_headquarters(e2,e1)
+
+
+20557	"<e1> Simon Fraser Üniversitesi </e1>, Burnaby City'e <e2> Burnaby </e2> Dağ Koruma Alanı'nın iki katından fazla büyüklükte olan üniversite arazisindeki 320 hektardan fazla alanın transfer edilmesinin kabul edilmesi ile başlayacak bu ilk planın uygulanması öncesinde bir 30 yıl daha geçti."
+no_relation
+
+
+20570	"<e1> Quebec </e1>'de Couche-Tard Provi-Soir and 7 jour (<e2> Metro Inc. </e2>'den satın alınmıştır) adı altında 581 kurumsal mağaza ve Tabatou gibi 298 bağlı mağaza bulunmaktadır."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20571	"<e1> Kolej </e1>, on altı ila on dokuz yaşındaki öğrenciler için üç kampüse sahiptir: <e2> Eastbourne </e2> Meslek Parkı ve Lewes 6. Sınıf Koleji."
+org:subsidiaries(e1,e2)
+
+
+20580	"Uluslararası Çalışmalar Profesörü olarak görev yaptığı <e1> Yeni Delhi </e1>'deki <e2> Jawaharlal Nehru Üniversitesi </e2>'nden izinlidir."
+org:city_of_headquarters(e2,e1)
+
+
+20587	"Perşembe günü <e1> Bağdat </e1>'daki ulaştırma bakanlığı, <e2> Irak Hava Yolları </e2>'nın başkanı Kifah Hassan'ın seyahat belgesinin, 1,2 milyar dolar borçlu olduğunu söyleyen Kuveyt Havayolları'nın avukatları tebliğ ettikten sonra alındığını doğruladı."
+org:city_of_headquarters(e2,e1)
+
+
+20590	"<e1> Wynonna </e1> ve Naomi kısaca, Kmart perakende zinciri için bir reklam için tekrar bir araya gelerek Changing For the Better adlı şarkıyı <e2> Judds </e2> olarak söylediler."
+per:employee_of(e1,e2)
+
+
+20591	"Bu Amerikalı şarkıcı-söz yazarı <e1> aktris </e1> yönetmen dansçı ve girişimci <e2> Madonna </e2>'nın tribute albümlerinin bir listesidir."
+per:title(e2,e1)
+
+
+20599	"<e1> O </e1> geçen Çarşamba günü Taylor'ın <e2> Liberya </e2>'daki iktidara yükselişi ve rejimi ile Libya hükümeti arasındaki bağlantıları hakkında ifade vermeye başladı."
+per:countries_of_residence(e1,e2)
+
+
+20604	"<e1> Osmanlı İmparatorluğu </e1>'ndan Enver Paşa, yeni kurulan <e2> İslam </e2> Ordusu ile ilerlemeye başladı."
+org:country_of_headquarters(e2,e1)
+
+
+20622	"1873'ten 1874'e kadar ABD <e1> Hazine </e1> Sekreteri olan <e2> William Adams Richardson </e2>'ın amcasıydı."
+per:title(e2,e1)
+
+
+20630	"COLOR OF SOUL olarak stilize edilen Color of Soul, Japon şarkıcısı <e1> Kumi Koda </e1>'nın <e2> Japonya </e2>'daki üçüncü single'ı olarak yayınlanan bir şarkısıdır."
+per:countries_of_residence(e1,e2)
+
+
+20633	"Steger ayrıca istifa etmeyeceğini söyledi ve Salı günkü basın toplantısında <e1> Virginia </e1> kamu güvenliği sekreteri <e2> John Marshall </e2>, Steger'in tarafına geçti."
+per:employee_of(e2,e1)
+
+
+20643	"Andrew <e1> John Lees </e1> (1947'de Merseyside <e2> İngiltere </e2>'de doğdu) bir İngiliz nörologdur."
+per:country_of_birth(e1,e2)
+
+
+20652	"Bu, Abraham Lincoln'ün, Amerika <e1> Konfedere Devletleri </e1> Başkanı <e2> Jefferson Davis </e2> 'i İç Savaş'ın katliamından kaçınmak için Amerika Birleşik Devletleri başkanı olmaya davet etmesi doğrultusunda şaşırtıcı bir öneriydi."
+per:employee_of(e2,e1)
+
+
+20659	"Kökenleri Doğu-Pakistan Suhrawardy'dendi ve orada doğdu, <e1> Müslüman Birliği </e1> akranlarının çoğu gibi Calcutta Üniversitesi ve Oxford Üniversitesi'nden eğitim aldı ve <e2> onun </e2> Hindistan'a dönüşü 1921 yılında gerçekleşti."
+org:members(e1,e2)
+
+
+20674	"<e1> Stanley McDonald </e1> tarafından 1966 yılında kurulan Kuzey Amerika kruvaziyer hattı <e2> Princess </e2> Cruises 1974 yılında satın alındı."
+org:founded_by(e2,e1)
+
+
+20677	"<e1> Jim Talent </e1>'in <e2> Missouri </e2>'deki özel seçim zaferinden kaynaklanan Cumhuriyetçi çoğunluğa rağmen Demokratlar 25 Kasım 2002'den sonra görevde kalmaya devam ettiler."
+per:employee_of(e1,e2)
+
+
+20683	"<e1> Burberry </e1>, yıldızlarla süslenmiş <e2> Londra </e2> gösterisi için hazırlandı."
+per:cities_of_residence(e1,e2)
+
+
+20686	"Belediye başkanı Atienza'nın partisi, belediye başkanlığı için Senatör Alfredo Lim Atienza'nın belediye başkanı olan selefi tarafından yenilen oğlu Ali Atienza'yı aday gösterdiği için dördüncü muhafazakar dönemi yürütmesi engellendi (Lim, Senato koltuğundan istifa etti ve <e1> Atienza </e1> daha sonra Başkan Gloria Macapagal-Arroyo tarafından <e2> Çevre ve Doğal Kaynaklar </e2> Sekreteri olarak atandı)."
+per:employee_of(e1,e2)
+
+
+20694	"Sonuçlar tüm dünyayı etkileyecekti: Başbakan de Sir <e1> Anerood Jugnauth </e1> yönetimindeki küçük <e2> Mauritius </e2> ekonomik bir mucize gerçekleştirdi."
+per:countries_of_residence(e1,e2)
+
+
+20721	"Springbok'ların Yeni Zelanda'daki All Blacks tarafından iki hezimete uğratılmasının ardından iki maça da hakemlik yapan İrlandalı Alan Lewis ve Alain Rolland de Villiers 21 Temmuz'da <e1> Avustralya </e1>'daki <e2> Fox Sports </e2> '' Rugby Club ' programında, kararlarını sorguladılar."
+org:country_of_headquarters(e2,e1)
+
+
+20727	"<e1> Raleigh </e1> Kuzey Carolina'daki <e2> Meredith College </e2>'deki tarih doçenti Dan Fountain, o şekilde ve ortaya çıkarılan arsa gibi yorumlar, bölge hala geçmişiyle mücadele ederken kaçınılmazdır dedi."
+org:city_of_headquarters(e2,e1)
+
+
+20734	"Sir Peter Hugh Morrison PC (2 Haziran 1944 13 Temmuz 1995) 1974-1992 yılları arasında <e1> İngiliz </e1> Muhafazakâr politikacı olarak Chester milletvekili ve Başbakan <e2> Margaret Thatcher </e2> Parlamento Özel Sekreteri (PPS) idi."
+per:origin(e2,e1)
+
+
+20747	"Philadelphia'daki Instituto Superior de de Instituto Nacional Superior Saint Joseph's Üniversitesi'ne ve <e1> Orange </e1> County Kaliforniya'daki <e2> Chapman Üniversitesi </e2>'ne gitti."
+org:city_of_headquarters(e2,e1)
+
+
+20749	"Daha önce yeni Polonya başbakanı Kazimierz Marcinkiewicz ve <e1> Litvanya </e1> başkanı <e2> Valdas Adamkus </e2> ile tanışmıştı."
+per:origin(e2,e1)
+
+
+20755	"ABD Başkanları Franklin D. Roosevelt Dwight D. Eisenhower ve John F. Kennedy Kimball'da kaldı - bazıları 1940'lardaki <e1> Sheraton Hotels and Resorts </e1> tarafından işletilen Sheraton-Kimball <e2> Otel </e2>'e geçiş olmadan önce, bazıları ise sonra."
+org:alternate_names(e1,e2)
+
+
+20766	"Toronto FC, Toronto Maple Leafs, Toronto Raptors ve <e1> Toronto Marlies </e1>'a da sahip olan ve işleten <e2> Maple Leaf Sports Entertainment </e2> Ltd. tarafından Leafs TV NBA TV Canada ve GolTV Canada gibi spor girişimleriyle beraber işletilmektedir."
+org:subsidiaries(e2,e1)
+
+
+20775	"1990'lı yılların başında kürek takımının koçluğunu ve öğretmenlik yaptığı Hammersmith'teki <e1> Latymer Üst Orta Okulu </e1> 'nun olduğu<e2> İngiltere </e2>'ye taşındı."
+org:country_of_headquarters(e1,e2)
+
+
+20780	"ABD Enerji Bakanlığı, 2002 yılından bu yana toplam 60 milyon dolardan fazla hibeyle önde gelen endüstriyel biyoteknoloji şirketi Genencor ve <e1> DuPont </e1> tabanlı Wilmington <e2> Delaware </e2>'in çabalarını desteklediğini belirtti."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20789	"Antik <e1> Tibet </e1> kralı, kutsal lider Papa Hazretleri <e2> Sakya Trizin </e2>'i takip etmek antik bir emirdir."
+no_relation
+
+
+20795	"Bölgede ayrımcılık etkiliydi ve <e1> Marshall </e1> Texas'taki <e2> Wiley College </e2>'ta üniversiteye gidene kadar herkesin siyahi olduğu bir okula gitti."
+org:city_of_headquarters(e2,e1)
+
+
+20807	"Avustralya'daki Who's Who'ya göre Power, <e1> Hornsby </e1>'de bir Anglikan Kilisesi okulu olan <e2> Barker College </e2>'da eğitim gördü."
+org:city_of_headquarters(e2,e1)
+
+
+20832	"Looking for Love, şimdi The <e1> Carpenters </e1> olarak bilinen grubun ilk piyasaya çıkışı olarak kabul edilen <e2> Karen Carpenter </e2>'ın adı altında yayınlanmış bir şarkıdır."
+per:employee_of(e2,e1)
+
+
+20843	"Academie Ny Antsika'dan Ocak 2008'de ayrıldı ve Tayland Division 1 League'de Mueang Thong NongJork United'a taşındıktan 6 ay sonra Temmuz'da Tayland'dan ayrıldı ve <e1> Fransa </e1> <e2> championnat National </e2>'da SO Romorantin'e taşındı."
+org:country_of_headquarters(e2,e1)
+
+
+20849	"<e1> Ulusal Film ve Televizyon Okulu </e1> (NFTS) 1971 yılında kurulmuştur ve Beaconsfield <e2> Buckinghamshire </e2>'deki Beaconsfield Stüdyoları merkezlidir ve Pinewood Stüdyolarına yakın konumlanmıştır."
+org:city_of_headquarters(e1,e2)
+
+
+20851	"O zamanki sarrafların en büyüğü (merhum Şeyh Salem Bin Mahfouz) sonunda <e1> Suudi Arabistan </e1>'in ilk bankası <e2> Ulusal Ticaret Bankası </e2>'nı (NCB) kurdu."
+org:country_of_headquarters(e2,e1)
+
+
+20876	"The Senator lakaplı Eugene Joseph Wright (29 Mayıs 1923 doğumlu), özellikle grubun <e1> piyanisti </e1> Brubeck, davulcu Joe Morello ve saksofoncu Paul Desmond ile beraber çıkardıkları Time Out ( 1959 ) albümünün en ünlü albümleri olduğu <e2> Dave Brubeck </e2> Quartet'in bir üyesi olarak yaptığı çalışmalarıyla tanınan Amerikalı bir caz basçısı."
+per:title(e2,e1)
+
+
+20882	"SingTel, <e1> Pakistan </e1>'daki <e2> Warid Telecom </e2>'den % 30 hisse alacak."
+org:country_of_headquarters(e2,e1)
+
+
+20892	"4 Eylül 2009'da Ashton, <e1> Manitoba </e1> NDP'nin lideri olarak <e2> Gary Doer </e2>'in yerine geçmeye aday olduğunu açıkladı."
+per:employee_of(e2,e1)
+
+
+20901	"Rüzgarın <e1> Kanatları </e1>: <e2> Kanada </e2>'dan Şiirler ve Loon'un Kolyesi adlı iki kitabı Amelia Frances Howard-Gibbon Illustrator'ın Kanada çocuk edebiyatındaki olağanüstü illüstrasyonlar ödülüne layık görüldü."
+no_relation
+
+
+20910	"Carole <e1> King </e1> ve Brother Brother tarafından bir hit olan Sweet Sesons a No.9 ve It's Going to Take Some Time (The Carpenters tarafından <e2> ABD </e2> No.12) gibi şarkıları içerir."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20916	"<e1> Serneholt </e1>, grupların mentörü olduğu <e2> İsveç </e2>'teki X factor'de jüriydi."
+per:countries_of_residence(e1,e2)
+
+
+20927	"<e1> Academy </e1>, <e2> 1907 </e2>'de kuruldu; misyonu, Hıristiyan değerlere dayalı korumacı bir topluluk içinde genç erkekleri ve kadınları eğitmektir."
+org:founded(e1,e2)
+
+
+20934	"<e1> Hosley </e1>'de <e2> BMC </e2> ile on yılda satışlar bir milyon dolardan 100 milyon doların üstüne çıktı ve iki çalışandan (Hosley ve Moores) 500'ün üstünde çalışana yükseldi."
+org:founded_by(e2,e1)
+
+
+20966	"<e1> Hoyte </e1>, <e2> Guyana </e2>'nın başkenti Georgetown'da doğdu."
+per:country_of_birth(e1,e2)
+
+
+20968	"Rutelli partiyi <e1> 14 Ekim 2007 </e1>'de <e2> Demokrat Parti </e2> ile birleşene kadar yönetti."
+org:founded(e2,e1)
+
+
+20975	"Hastane <e1> Macquarie Üniversitesi </e1> içinde yer almaktadır ve <e2> Avustralya </e2>'daki bir üniversite kampüsünde yer alan ilk özel hastanedir."
+org:country_of_headquarters(e1,e2)
+
+
+20978	"<e1> Pakistan </e1> Halk Partisi'nin (PPP) bir üyesi ve Pervez Musharraf'in Başbakanı <e2> Muhammed Mian Soomro </e2>'nun geçici kabinesinde bakan olarak da görev yaptı."
+no_relation
+
+
+20994	"Bir Şilili yargıç, yolsuzluk ve insan hakları suçlamasıyla karşı karşıya olan eski Peru cumhurbaşkanı <e1> Alberto Fujimori </e1>'nin Lima tarafından yapılan <e2> Peru </e2>'ya iade talebini Çarşamba günü reddetti."
+no_relation
+
+
+21000	"Square <e1> Enix </e1>, video oyunu geliştiricisi Square ve yayıncı Enix'in <e2> 1 Nisan 2003 </e2>'teki birleşmesinden doğan bir Japon video oyun geliştirme ve yayıncılık şirketidir."
+org:founded(e1,e2)
+
+
+21006	"Douglass Park ve Toplum Merkezi'nin bir başka dikkat çeken destekçisi, <e1> Memphis </e1> Park Komisyonu çalışanı, <e2> Douglass High </e2> mezunu, annesi ve çok sayıda kardeşiyle eski Douglass sakini olan Maurice Goode Sr.'dir."
+org:city_of_headquarters(e2,e1)
+
+
+21008	"Başkanlık ofisi <e1> Michigan </e1> senatörü bir Cumhuriyetçi <e2> Thomas W. Ferry </e2> tarafından kullanıldığından için bu yöntem Hayes'in işine yarardı."
+per:employee_of(e2,e1)
+
+
+21009	"<e1> Manmohan Singh </e1>, Rajya Sabha üyesi olabilir ve bu nedenle esasen Hiteswar Saikia'nın <e2> Guwahati </e2>'deki evinin bir sakini olduğunu yalanla iddia ederek başbakan olabilir."
+per:cities_of_residence(e1,e2)
+
+
+21024	"<e1> Onun </e1> paleontoloji ve Jeolojiye olan ilgisi, <e2> Vernal </e2> Utah'a taşınmasını sağladı."
+per:cities_of_residence(e1,e2)
+
+
+21032	"Fransız lider, her zaman Avrupa'da uzlaşma arayan ve <e1> Birleşik Krallık </e1>'ı Avrupa'ya sokan <e2> Blair </e2>'in gidişinden dolayı çok üzgünüm diye ekledi."
+per:employee_of(e2,e1)
+
+
+21033	"Aralık 1992'de <e1> Continental Micronesia </e1> ile uçuş paylaşımı ortağı oldu ve <e2> Guam </e2> Rota ve Saipan'a uçuşları devraldı."
+org:subsidiaries(e2,e1)
+
+
+21040	"2005 yılında <e1> Matt Ellis </e1>, Avustralya'dan en son albümü ile ayrıldı ve Vancouver Hornby Denman Adaları ve Kuzey tarafından Toronto'daki Kuzeydoğu (NxNE) Festivali'nde gösteriler içeren Kanada ve <e2> ABD </e2> turuna başladı."
+per:countries_of_residence(e1,e2)
+
+
+21041	"Ancak Salı, <e1> UMass </e1> atletik direktör yardımcısı Bill Strickland'ın kardiyovasküler tıp <e2> merkezinde </e2> yönetici olan Dr. Joel Gore'un, Minutemen'in koçu John Calipari'ye Camby'nin oynayabileceğini söylediğini iletti."
+no_relation
+
+
+21043	"<e1> NAZA </e1> FC ile <e2> Malezya </e2> Premier League 2007-08 şampiyonluğunu kazandı."
+org:members(e2,e1)
+
+

@@ -1,0 +1,2007 @@
+17647	"The <e1> Sacramento Heatwave </e1> is an American Basketball Association ( ABA ) team based in Sacramento <e2> California </e2>."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17650	"<e1> Viva </e1> is the brand name for the <e2> York Region </e2> Rapid Transit Plan and was funded through a Public-Private Partnership ( P3 ) consortium called the York Region Rapid Transit Corporation."
+org:alternate_names(e1,e2)
+
+
+17655	"<e1> Sydenham Institute of Management Studies </e1> Research and Entrepreneurship Education ( <e2> SIMSREE </e2> ) is one of the Premiere Management Institute of the country imparting Management Studies under University of Mumbai named after the then governor of Bombay Lord Sydenham of Combe in 1913."
+org:alternate_names(e2,e1)
+
+
+17674	"The 2001 <e1> Indiana Hoosiers </e1> football team represented <e2> Indiana University </e2> Bloomington during the 2001 NCAA Division I-A football season."
+org:alternate_names(e1,e2)
+
+
+17680	"Some staff at Osaka University are represented by the General Union a member of the <e1> National Union of General Workers </e1> ( NUGW ) which is itself a member of the National Trade Union Council ( <e2> Zenrokyo </e2> )."
+org:members(e2,e1)
+
+
+17697	"When the <e1> schools </e1> were consolidated in <e2> 1974 </e2> Haubstadt student athletes had to participate in the Pocket Athletic Conference."
+no_relation
+
+
+17699	"By <e1> 1995 </e1> the merger of TSB Group Plc. and Lloyds Bank led Hill Samuel to become a subsidiary of <e2> Lloyds TSB </e2>."
+no_relation
+
+
+17705	"In Eckington was also the Eckington Secondary Modern School on School Street ; when the grammar school became <e1> Derbyshire </e1> 's first comprehensive school - the Westfield School - in 1957 this became <e2> Eckington Junior School </e2>."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+17706	"Three news programmes a day are broadcast domestically on <e1> TVE1 </e1> and internationally on <e2> TVE </e2> Internacional."
+org:alternate_names(e1,e2)
+
+
+17709	"<e1> NBC Universal </e1> and Microsoft the parents of <e2> msnbc.com </e2> are holding high-level talks about changing its name an unusual and potentially risky endeavor for the third most popular news website in the United States."
+org:subsidiaries(e1,e2)
+
+
+17710	"After local newspapers reported that funds from <e1> Arizona </e1> State's foundation were going to support undocumented students and that public funds may have been involved in administering the aid Mr. <e2> Martin </e2> says his office was flooded with hundreds of calls including about a dozen from donors to the university who were very upset."
+no_relation
+
+
+17711	"The <e1> Spartans </e1> played their home games at Spartan Stadium in East Lansing <e2> Michigan </e2>."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+17713	"At various points in his career he has held senior editorial posts at The Statesman The Daily Telegraph The <e1> Times </e1> of <e2> India </e2> The Indian Express and most recently India Today where he was Managing Editor till 2003."
+org:subsidiaries(e2,e1)
+
+
+17715	"On December 18 2001 DEVCO sold all surface assets including the international shipping piers railway track railway rights-of-way locomotives and rolling stock and a coal storage facility and locomotive shops at Victoria Junction to 510845 New Brunswick Incorporated a wholly owned subsidiary of <e1> Emera </e1> the holding company which owns <e2> Nova Scotia </e2> Power and operator of the Lingan Generating Station."
+org:subsidiaries(e1,e2)
+
+
+17727	"During that time in <e1> Boston </e1> he performed with his own groups as well as Tiger's Baku replacing <e2> Mike Stern </e2> in that group before moving to New York around 1980."
+per:cities_of_residence(e2,e1)
+
+
+17729	"<e1> Plumer </e1> later became a Democratic-Republican and served as Governor of <e2> New Hampshire </e2> 1812 1813 and 1816 1819."
+per:employee_of(e1,e2)
+
+
+17735	"Once filming in <e1> Tennessee </e1> was settled <e2> Cyrus </e2> was overcome with a very positive emotion of coming back home and wrote Back to Tennessee with the aid of songwriters Tamara Dunn and Matthew Wilder."
+no_relation
+
+
+17739	"<e1> Berlusconi </e1> has been at the centre of a media storm pressuring him to explain his relationship with Noemi Letizia a scandal that sparked a public row between him and second wife <e2> Veronica Lario </e2> who has filed for divorce."
+per:spouse(e1,e2)
+
+
+17743	"Digitel Mobile Philippines Inc. doing business as <e1> Sun Cellular </e1> is a wholly owned subsidiary of <e2> Digital Telecommunications Philippines </e2> and is one of the Philippines mobile telecommunications companies."
+org:subsidiaries(e2,e1)
+
+
+17764	"+ 1999 <e1> Capitol </e1> Record Company Promo Sheet of Garth Brooks . . The Life Of <e2> Chris Gaines </e2>."
+no_relation
+
+
+17769	"<e1> Polydor </e1> 's beliefs in <e2> Sheridan </e2> 's coming stardom were so strong that they buried the two solo Beatle tracks until much later."
+no_relation
+
+
+17774	"<e1> Pathway Communications </e1> is a Canadian Internet service provider ( ISP ) located in Markham <e2> Ontario </e2>."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17775	"<e1> UHD </e1> has an enrollment of students making it the 13th largest public university in Texas and the second-largest university in the <e2> Houston </e2> area."
+org:city_of_headquarters(e1,e2)
+
+
+17777	"In <e1> 1957 </e1> they bought into Roulette Records where they both wrote songs for various artists such as Valerie Carr and produced major hits for <e2> Jimmie Rodgers </e2> including Honeycomb ( Billboard # 1 ) and Kisses Sweeter Than Wine ( Billboard # 3 ) and Oh-Oh I 'm Falling in Love Again and Secretly."
+no_relation
+
+
+17778	"In the same year the Italian government placed an order of two U212A submarines built by Fincantieri for the <e1> Marina Militare </e1> ( <e2> Italian Navy </e2> ) at Muggiano shipyard designated as the Todaro class."
+org:alternate_names(e1,e2)
+
+
+17784	"Currently the sisters sponsor <e1> Nazareth Academy </e1> a Catholic co-educational high school in <e2> La Grange Park </e2> Illinois."
+org:city_of_headquarters(e1,e2)
+
+
+17785	"Sehgal received the <e1> </e1> Prize at Art <e2> Basel </e2> Switzerland in 2004."
+no_relation
+
+
+17791	"Named Piers Stefan Pughe-Morgan by his stepfather Morgan attended the independent school Cumnor House from the ages of seven to thirteen and then <e1> Chailey School </e1> a comprehensive secondary school in Chailey near Lewes <e2> East Sussex </e2> followed by Lewes Priory School for sixth form."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17794	"In Terrorem has also been referred to by the High Court of <e1> Australia </e1> in the 2012 case of Andrews v <e2> Australia and New Zealand Banking Group </e2> Ltd."
+no_relation
+
+
+17805	"A gunman Wednesday shot and killed <e1> Bill Gwatney </e1> the chair of the <e2> Arkansas Democratic Party </e2> at the party's Little Rock headquarters."
+per:employee_of(e1,e2)
+
+
+17807	"By this time most of the campuses started to become identified by their city names plus the word state ( e.g. <e1> San Jose </e1> <e2> State </e2> San Diego State San Francisco State )."
+no_relation
+
+
+17812	"They signed the Treaty of Troyes by which Henry finally married Charles ' daughter <e1> Catherine of Valois </e1> and Henry's heirs would inherit the throne of <e2> France </e2>."
+per:countries_of_residence(e1,e2)
+
+
+17813	"The <e1> Yemenia </e1> <e2> Yemen </e2> Airways Boeing 727-2N8 departed Sana'a International Airport bound for a stop-over at Taiz-Al Janad Airport Ta'izz."
+org:alternate_names(e1,e2)
+
+
+17815	"He is Professor of Political Science at the <e1> University of Minnesota </e1> <e2> USA </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+17839	"Agustin Carstens chief of the <e1> Bank of Mexico </e1> told a press conference Wednesday that <e2> Mexico </e2> 's peso was rising in part because low rates in the United States are encouraging investors to put their money in Mexico."
+org:country_of_headquarters(e1,e2)
+
+
+17847	"Petraeus is also an author of the Army's new doctrine on how to fight a counterinsurgency developed during his stint last year as head of the Combined Arms Center and the <e1> Command and General Staff College </e1> at <e2> Fort Leavenworth </e2> Kansas."
+org:city_of_headquarters(e1,e2)
+
+
+17851	"Suppliers of red-light cameras in the US include : <e1> Affiliated Computer Services </e1> ( ACS ) State and Local Solutions a Xerox company of <e2> Dallas </e2> Texas ; American Traffic Solutions of Scottsdale Arizona 1/3 owned by Goldman Sachs ; Brekford International Corp. of Hanover Maryland ; CMA Consulting Services Inc. of Latham New York ; Gatso USA of Beverly Massachusetts ; iTraffic Safety LLC of Ridgeland South Carolina ; Optotraffic of Lanham Maryland ; Redflex Traffic Systems of Phoenix Arizona with its parent company in Australia ; RedSpeed-Illinois LLC of Lombard Illinois whose parent company is in Worcestershire England ; SafeSpeed LLC of Chicago Illinois and SENSYS America Inc. of Miami Florida."
+org:city_of_headquarters(e1,e2)
+
+
+17874	"President <e1> Abdelaziz Bouteflika </e1> suggested that the terrorists in question had found shelter in <e2> Morocco </e2> but later retracted the accusation."
+per:countries_of_residence(e1,e2)
+
+
+17876	"In the 1970s actors <e1> Jack Cassidy </e1> and <e2> Shirley Jones </e2> who were married lived for a time in Irvington along with their son Shaun Cassidy ( but not David Cassidy who no longer lived with the family by then )."
+per:spouse(e2,e1)
+
+
+17895	"Elected as the sixth leader of the <e1> Parti </e1> on November 15 2005 Boisclair earned 53.8 % of the party membership vote as compared to his closest rival <e2> Pauline Marois </e2> who garnered 30.6 %."
+per:employee_of(e2,e1)
+
+
+17906	"Mutharika a former loyalist to the United Democratic Front ( UDF ) and elected into office under <e1> UDF </e1> tickets in 2004 dumped the party to form the DPP after falling out with his predecessor former president <e2> Bakili Muluzi </e2>."
+per:employee_of(e2,e1)
+
+
+17919	"<e1> Hybrid Ice </e1> is a rock band from Danville <e2> Pennsylvania </e2> most notable for its song Magdelene released on the album Hybrid Ice in 1982 which became a radio hit at the time."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+17921	"On November 11 2012 Dennison retired as the head football coach at <e1> Walsh University </e1> in North Canton <e2> Ohio </e2>."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17923	"While in the army Onoja attended <e1> Cameron University </e1> Oklahoma and <e2> Oklahoma </e2> State University earning a degree in Political Science."
+org:members(e2,e1)
+
+
+17931	"The final two shot their <e1> Seventeen </e1> magazine cover tries where they both excelled and impressed <e2> Ann Shoket </e2>."
+org:top_members/employees(e1,e2)
+
+
+17950	"In January 1993 <e1> Brown </e1> was selected by President Bill Clinton to the post of Secretary of <e2> Veterans Affairs </e2> serving until 1997."
+per:employee_of(e1,e2)
+
+
+17951	"He has briefly played the drums and bass guitar for bands such as <e1> The Used </e1> Vendetta Red <e2> Green </e2> Day Good Charlotte and MxPx."
+no_relation
+
+
+17952	"Brand Nubian is an American hip hop group from New Rochelle New York consisting of three MC's : <e1> Grand Puba </e1> ( born Maxwell Dixon on March 4 1966 ) Sadat X ( formerly Derek X born Derek Murphy on <e2> December 29 1968 </e2> ) and Lord Jamar ( born Lorenzo Dechalus on September 17 1968 ) and two DJs : DJ Alamo and DJ Sincere."
+no_relation
+
+
+17954	"Tipperary won the <e1> league </e1> beating <e2> New York </e2> by 6-14 to 2-5 in the final after beating Wexford in the ' home ' final."
+no_relation
+
+
+17962	"To accelerate the growth abroad Immelt last month reassigned <e1> John G. Rice </e1> a vice chairman to Hong Kong where <e2> he </e2> will oversee sales marketing and operations outside the United States."
+per:alternate_names(e2,e1)
+
+
+17967	"British born Georgina Chapman and Keren Craig met at <e1> Chelsea College of Art and Design </e1> in <e2> London </e2>."
+org:city_of_headquarters(e1,e2)
+
+
+17974	"The next year he ran against <e1> Charles L. McNary </e1> for the <e2> Republican </e2> nomination to the U.S. Senate losing in the May primary."
+per:employee_of(e1,e2)
+
+
+17976	"From 1974 to 1979 he served as Attorney General for <e1> England </e1> and Wales and Northern Ireland under Labour Prime Ministers Harold Wilson and <e2> James Callaghan </e2>."
+per:countries_of_residence(e2,e1)
+
+
+17980	"She has worked as a news anchor on <e1> TG4 </e1> TV3 and Sky News <e2> Ireland </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+17983	"Field Marshal Prince Bhanurangsi Savangwongse The Prince Banubandhu Vongsevoradej ( 11 January 1859 13 June 1928 ) ( ) was a son of HM King <e1> Mongkut </e1> of Siam and HM Queen <e2> Debsirindra </e2>."
+per:spouse(e1,e2)
+
+
+17984	"<e1> Hasland Junior School </e1> is a medium-sized school catering for 339 pupils located in the village of Hasland in Chesterfield <e2> Derbyshire </e2>."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+17991	"In the telecommunications sector Russia's <e1> VimpelCom </e1> on mid-July 2009 announced the commercial launch in Vietnam of its <e2> Beeline </e2> mobile service through GTEL-Mobile a joint venture with a Vietnamese state-owned company."
+org:subsidiaries(e1,e2)
+
+
+17993	"The 1996 <e1> Georgia Tech Yellow Jackets </e1> football team represented the <e2> Georgia Institute of Technology </e2> in the 1996 NCAA Division I-A football season."
+org:members(e2,e1)
+
+
+17995	"Currently Robinson teaches at <e1> Las Positas College </e1> in <e2> Livermore </e2> CA and Cal State East Bay in Hayward CA."
+org:city_of_headquarters(e1,e2)
+
+
+18002	"Justice ( Rtd ) <e1> Khan Sahib HABIBULLAH Khan Marwat </e1> was elected as a First ever and Second Chairman <e2> Senate </e2> of Pakistan."
+per:employee_of(e1,e2)
+
+
+18005	"<e1> Ollivier </e1> removed the exceptions from the general amnesty in 1870 and Ledru-Rollin returned to <e2> France </e2> after twenty years of exile."
+per:countries_of_residence(e1,e2)
+
+
+18010	"Ghosh sits on the Board of the Canadian Council of Chief Executives former Chairman of the National Telecom Committee of the Confederation of Indian Industry former Chairman of the Cellular Operators Association of <e1> India </e1> and a distinguished alumnus of the <e2> Indian Institute of Technology Delhi </e2>."
+org:country_of_headquarters(e2,e1)
+
+
+18028	"<e1> Humaira Begum </e1> ( 1918 27 June 2002 ) was the wife of King <e2> Mohammed Zahir Shah </e2> and the last Queen consort of Afghanistan."
+per:spouse(e2,e1)
+
+
+18031	"This channel debuted on May 1 2002 and was known as <e1> Nicktoons </e1> TV from its launch until May 2003 and as Nicktoons Network from <e2> 2005 </e2> until September 2009."
+org:founded(e1,e2)
+
+
+18040	"Biographical information on <e1> Pfizer </e1> CEO <e2> Ian Read </e2>."
+org:top_members/employees(e1,e2)
+
+
+18047	"Previously Patriciu was Chairman and CEO of The <e1> Rompetrol </e1> Group NV ( TRG ) a multinational petroleum company headquartered in the <e2> Netherlands </e2> operating in 13 countries and with the majority of its assets and income located in Romania France and South Eastern Europe."
+org:country_of_headquarters(e1,e2)
+
+
+18049	"The fifth floor is used for the <e1> Cardiff </e1> Capital Collection with books on the history of <e2> Cardiff </e2> the Wales Collection with books on the history of Wales and Welsh-language publications."
+org:alternate_names(e2,e1)
+
+
+18067	"The closest South Shore Line station is located in downtown Gary and can be reached using <e1> GPTC </e1> Route <e2> 17 </e2>."
+org:subsidiaries(e1,e2)
+
+
+18068	"Romanian Prime Minister Calin <e1> Popescu-Tariceanu </e1> could announce a government reshuffle on Sunday sources from the ruling <e2> National Liberal Party </e2> ( PNL ) said on Saturday."
+org:top_members/employees(e2,e1)
+
+
+18069	"<e1> Nye </e1> is the largest county in <e2> Nevada </e2> and is the third largest county in the continental United States after San Bernardino County in California and Coconino County in Arizona."
+no_relation
+
+
+18078	"Results from the first comprehensive Bowel Cancer Screening Programme in the country were launched recently on 27th July 2009 in the Adelaide and Meath Hospital Dublin Incorporating the <e1> National Children </e1> Hospital <e2> Tallaght </e2> ( AMNCH )."
+org:city_of_headquarters(e1,e2)
+
+
+18094	"<e1> Boca Juniors </e1> basketball section is part of the <e2> Club Boca Juniors </e2> multi-sports club based in Buenos Aires Argentina."
+org:subsidiaries(e2,e1)
+
+
+18098	"<e1> He </e1> held this office until he was appointed to the <e2> Governor </e2> 's Council in the Virginia General Assembly in 1733."
+per:employee_of(e1,e2)
+
+
+18102	"<e1> Grae </e1> is the child of a jazzman ( South African pianist Abdullah Ibrahim ) and has been a fixture on <e2> New York </e2> 's hip-hop scene since 1996."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+18107	"In December 2004 Manning was awarded Star of the Caribbean Award of the Central American Action for his support to the Caribbean countries during the time of distress and given the Doctor of Laws degree Honoris Causa by the <e1> Medgar Evers College </e1> of <e2> Brooklyn </e2> in New York City in September 2007 for his 36-year career in the public service."
+org:city_of_headquarters(e1,e2)
+
+
+18121	"Chalmers born in <e1> Edinburgh </e1> studied in London under <e2> Allan Ramsay </e2> son of Allan Ramsay the poet and later under masters in Italy."
+per:cities_of_residence(e2,e1)
+
+
+18129	"The more than two dozen inductees include the first woman physician Elizabeth Blackwell ; and two former Surgeon Generals of the <e1> United States </e1> Antonia Novello and <e2> Joycelyn Elders </e2>."
+no_relation
+
+
+18135	"On February <e1> 28 </e1> 2012 <e2> Apple </e2> announced a media event scheduled for March 7 2012 at the Yerba Buena Center."
+no_relation
+
+
+18140	"<e1> Rotherham </e1> has three leading further education institutions <e2> Thomas Rotherham </e2> College Dearne Valley College and the Rotherham College of Arts and Technology."
+org:founded_by(e2,e1)
+
+
+18144	"During the campaign the <e1> Kansas </e1> Democratic Party ran ads criticizing <e2> his </e2> association with Engle."
+no_relation
+
+
+18149	"Sheffield Hallam University ( <e1> SHU </e1> ) is a university in <e2> South Yorkshire </e2> England based on two sites in Sheffield."
+org:city_of_headquarters(e1,e2)
+
+
+18151	"While the losses reported today are likely to continue as the restructuring proceeds and as the credit environment remains difficult I am confident that the foundations have been well laid for recovery and return in due course to private ownership said <e1> Northern Rock </e1> executive chairman <e2> Ron Sandler </e2>."
+org:top_members/employees(e1,e2)
+
+
+18159	"In interviews with a <e1> Pakistani </e1> television station <e2> Haider </e2> has since made conflicting comments about retiring from cricket and seeking asylum in Britain."
+per:origin(e2,e1)
+
+
+18160	"Steelmakers in <e1> Japan </e1> like <e2> Nippon Steel </e2> Corporation rely on foreign countries for 50 percent of their revenue as domestic demand remains sluggish."
+org:country_of_headquarters(e2,e1)
+
+
+18161	"According to historian Ramon Rosa ; he had the misfortune of being born . . in that sad era of isolation and total darkness in which <e1> Honduras </e1> lacked schools . . therefore <e2> Morazan </e2> had to learn in private schools with an awful organization and sustained by parents ' contributions."
+per:countries_of_residence(e2,e1)
+
+
+18166	"<e1> Reno Air </e1> provided service from its hubs at Reno/Tahoe International Airport in <e2> Reno </e2> Nevada and San Jose International Airport in San Jose California to destinations throughout the western United States Canada ( Vancouver British Columbia ) and with limited service to the US east coast."
+org:city_of_headquarters(e1,e2)
+
+
+18167	"<e1> John Singleton Copley </e1> was his pupil and it is said that he finally left his studio in <e2> Boston </e2> through jealousy of Copley's superior success."
+per:cities_of_residence(e1,e2)
+
+
+18177	"NBF and <e1> Tokio </e1> Marine and Nichido Fire of <e2> Japan </e2> will continue to have seats of AMF's board it added."
+org:country_of_headquarters(e1,e2)
+
+
+18193	"The Minister of the <e1> Interior </e1> the Christian Democrat <e2> Mario Scelba </e2> reported to Parliament the next day that so far as the police could determine the Portella della Ginestra shooting was non-political."
+per:employee_of(e2,e1)
+
+
+18194	"<e1> Wen </e1> further stated that <e2> China </e2> will build 50 China Africa friendship schools and train school principals and teachers for African countries and increase the number of Chinese government scholarships to Africa to by 2012."
+per:countries_of_residence(e1,e2)
+
+
+18195	"<e1> Arizona Federal Credit Union </e1> ( or Arizona Federal ) is a federally insured $ 1.3 billion member natural person credit union headquartered in <e2> Phoenix </e2> Arizona chartered and regulated under the authority of the National Credit Union Administration ( NCUA )."
+org:city_of_headquarters(e1,e2)
+
+
+18210	"The <e1> Denmark national football team </e1> ( ) represents Denmark in association football and is controlled by the <e2> Danish Football Association </e2> ( DBU ) the governing body for the football clubs which are organized under DBU."
+org:subsidiaries(e2,e1)
+
+
+18222	"His daughter Anna Earl Jenks was married to <e1> Alexander Ramsey </e1> first territorial governor of <e2> Minnesota </e2> and second governor of the state of Minnesota."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+18227	"Today the <e1> Evergreen Group </e1> encompasses the Evergreen Marine Corporation Evergreen International Corporation <e2> EVA Air </e2> Evergreen Aviation Technologies Corporation Evergreen Air Services Corporation Evergreen Air Cargo Services Corporation and Evergreen International Storage and Services Corporation."
+org:subsidiaries(e1,e2)
+
+
+18230	"Mwikuta was one of the first <e1> Zambians </e1> to play professional football abroad when he signed for American club <e2> Atlanta Chiefs </e2> in 1967 together with Emment Kapengwe and Freddie Mwila."
+org:members(e2,e1)
+
+
+18232	"But Liz Forgan chair of the Heritage Lottery Fund - and of the <e1> Scott Trust </e1> which owns the <e2> Guardian Media Group </e2> - warned of real difficulties in the values-based approach to identity which Gordon Brown had put forward."
+org:subsidiaries(e1,e2)
+
+
+18241	"Hoshino 50 led the <e1> Hanshin Tigers </e1> to the <e2> Central League </e2> pennant -- the team's first in 18 years -- in 2003."
+org:members(e2,e1)
+
+
+18242	"While a student at California State University Fresno Salinas published his first book Crazy Gypsy which sold well and earned him a reputation as both a Chicano poet and as one of the leaders of the ' <e1> Fresno </e1> School ' of poets which included <e2> Gary Soto </e2> Ernesto Trejo Leonard Adame and others."
+per:employee_of(e2,e1)
+
+
+18243	"According to information obtained by the Macedonian intelligence service the attack was conducted by more than 600 NLA insurgents supported by volunteers from the <e1> Kosovo Protection Corps </e1> which during the night from the town of Krivenik in <e2> Kosovo </e2> crossed the Macedonian border into."
+org:country_of_headquarters(e1,e2)
+
+
+18245	"Psycho Active is the debut album by <e1> Sacramento </e1> rapper <e2> X-Raided </e2>."
+per:cities_of_residence(e2,e1)
+
+
+18254	"He was employed at the Methodist DeBakey Heart Center in <e1> Houston </e1> Texas and a professor of cardiothoracic surgery at the <e2> Baylor College of Medicine </e2>."
+no_relation
+
+
+18267	"<e1> Indonesia </e1> 's state-owned oil and gas company <e2> Pertamina </e2> will this year undertake six oil exploration projects in Ecuador one of its executives said Monday."
+org:country_of_headquarters(e2,e1)
+
+
+18278	"<e1> Nur Muhammad Taraki </e1> became both President and Prime Minister of <e2> Afghanistan </e2> while Hafizullah Amin became the Deputy Prime Minister of Afghanistan and from May 1979 Prime Minister."
+per:employee_of(e1,e2)
+
+
+18296	"266 first graduates of UMK from the Faculty of Agro Industry and Natural Resources ( 42 people ) ; Faculty of Entrepreneurship and Business ( 83 persons ) and the Faculty of Creative Technology and Heritage ( 141 people ) received a Bachelor degree of their faculties at the First Convocation of <e1> UMK </e1> which was held at a hotel in Kota Bharu <e2> Kelantan </e2> on 19 September 2011."
+org:country_of_headquarters(e1,e2)
+
+
+18300	"<e1> Graham </e1> kept up his opposition as Republican members of the <e2> Florida </e2> Legislature were pushing plans to bring rigs closer to the shore."
+per:employee_of(e1,e2)
+
+
+18305	"The <e1> Capital Division </e1> was a military formation of the <e2> Republic of Korea </e2> Army during the 20th Century."
+org:subsidiaries(e2,e1)
+
+
+18320	"<e1> George Axelrod </e1> ( June 9 1922 June 21 2003 ) was an American screenwriter producer <e2> playwright </e2> and film director best known for his play The Seven Year Itch ( 1952 ) which was adapted into a movie of the same name starring Marilyn Monroe."
+per:title(e1,e2)
+
+
+18328	"Some were separately kettled around The Cenotaph where Charlie Gilmour the adopted son of Pink Floyd guitarist <e1> David Gilmour </e1> and a student at Girton College <e2> Cambridge </e2> was pictured swinging from a Union Flag on the memorial ; he later apologised claiming that he did not realise it was the Cenotaph."
+per:cities_of_residence(e1,e2)
+
+
+18336	"Reflecting on this era in the liner notes to the 1991 MCA compilation Track Record : The Guess Who Collection <e1> Burton Cummings </e1> wrote : Kurt Winter is with Brother the all-time best band that EVER WAS in <e2> Winnipeg </e2>."
+no_relation
+
+
+18338	"Other examples of innovative games are <e1> Atari Games </e1> ' Paperboy in 1984 where the goal is to successfully deliver newspapers to customers and <e2> Namco </e2> 's Phozon where the object is to duplicate a shape shown in the middle of the screen."
+no_relation
+
+
+18342	"<e1> Chain Reaction </e1> was a German record label founded in 1995 by <e2> Basic Channel </e2> members Moritz Von Oswald and Mark Ernestus."
+no_relation
+
+
+18356	"<e1> He </e1> reformed the Anti-Revisionist Marxist-Leninist ideology of Labor Party of <e2> Albania </e2> into social democracy for its successor the Socialist Party of Albania."
+no_relation
+
+
+18359	"First presented by Charles Wheeler and originally broadcast from the <e1> BBC </e1> 's Westminster studios at Millbank and then BBC Television Centre Dateline London now comes from the <e2> BBC News </e2> channel's studio at Broadcasting House."
+org:members(e1,e2)
+
+
+18361	"<e1> Pacific Hills Christian School </e1> is an independent co-educational day school located in the suburb of <e2> Dural </e2> in the Hills District of Sydney New South Wales Australia."
+org:city_of_headquarters(e1,e2)
+
+
+18368	"<e1> Italy </e1> does not organise collective expulsions of illegal immigrants said Interior Minister <e2> Giuliano Amato </e2> in response to comments earlier Tuesday by French President Nicolas Sarkozy."
+per:employee_of(e2,e1)
+
+
+18369	"He also spent time on Capitol Hill serving as a fellow in the office of <e1> Connecticut </e1> Senator <e2> Joe Lieberman </e2> where his primary focus was on economic development and policy."
+per:employee_of(e2,e1)
+
+
+18385	"<e1> Bard College </e1> founded in <e2> 1860 </e2> as St. Stephen's College is a private liberal arts college in Annandale-on-Hudson New York."
+org:founded(e1,e2)
+
+
+18386	"The Spartan Squad is run by the Associated Students and is open to all undergraduate and graduate students enrolled at <e1> San Jose </e1> <e2> State </e2>."
+org:city_of_headquarters(e2,e1)
+
+
+18388	"His family moved to Great Britain in 1919 and he was educated in <e1> England </e1> ( at <e2> Sidcot School </e2> in Somerset ) during his youth."
+org:country_of_headquarters(e2,e1)
+
+
+18392	"If left to their own means the Lebanese would destroy <e1> Lebanon </e1> said Hilal Khashan professor of political sciences at the <e2> American University of Beirut </e2>."
+org:country_of_headquarters(e2,e1)
+
+
+18404	"<e1> King Henry VIII School </e1> is a coeducational independent school located in Coventry <e2> England </e2> comprising a senior school ( ages 11 18 ) and associated preparatory school ( ages 3 11 )."
+org:country_of_headquarters(e1,e2)
+
+
+18406	"When the hatch opens a new era in space transportation will begin said <e1> Elon Musk </e1> CEO of <e2> SpaceX </e2>."
+org:top_members/employees(e2,e1)
+
+
+18408	"Voting is scheduled to take place at the WADA Foundation Board meeting on Saturday but on Thursday European governments said they were unhappy that Australian politician John Fahey is the only candidate to take over from <e1> Canada </e1> 's Dick <e2> Pound </e2>."
+per:countries_of_residence(e2,e1)
+
+
+18410	"The Canberra Commission on the Elimination of Nuclear Weapons was initiated by the Prime Minister of Australia the <e1> Honourable </e1> <e2> Paul Keating </e2> in November 1995 to deliberate on issues of nuclear proliferation and how to eliminate the world of nuclear weapons."
+per:title(e2,e1)
+
+
+18413	"<e1> Marc Garneau </e1> the first Canadian in space and former head of the Canadian Space Agency told CTV's <e2> Canada </e2> AM on Thursday that the government made the right decision."
+per:country_of_birth(e1,e2)
+
+
+18430	"<e1> Masiello </e1> also heads label <e2> Alternative Route Recordings </e2>."
+per:employee_of(e1,e2)
+
+
+18453	"<e1> Papandreou </e1> was born on the island of Chios Greece the son of Zofia ( Sofia ) Mineyko and the leading <e2> Greek </e2> liberal politician George Papandreou."
+per:origin(e1,e2)
+
+
+18456	"He was the son of <e1> Loukas Kanakaris-Roufos </e1> and a member of the Rouphos family that descended from Sicily and the rest of southern <e2> Italy </e2> and were politicians from Patras and Achaea."
+per:countries_of_residence(e1,e2)
+
+
+18463	"News agencies cite Prime Minister <e1> Mikhail Fradkov </e1> as saying <e2> Russia </e2> will cut its duty on oil exports to Belarus to US$ 53 a ton down from US$ 180."
+per:employee_of(e1,e2)
+
+
+18465	"Born at the <e1> Chelsea and Westminster Hospital </e1> Belcher grew up in <e2> Tadworth </e2> Surrey and attended Walton-on-the-Hill Primary School."
+org:city_of_headquarters(e1,e2)
+
+
+18467	"On May 2010 he offered his resignation to <e1> President </e1> <e2> Lee Myung-bak </e2> although it was n't accepted."
+per:title(e2,e1)
+
+
+18471	"<e1> The National </e1> Herald is an English-language Greek American weekly newspaper in <e2> New York </e2> that was founded in 1997."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+18472	"Rapper Will Smith ( The Fresh Prince ) met <e1> DJ Jazzy Jeff </e1> while trying to make a name for himself in West <e2> Philadelphia </e2> 's local hip hop scene."
+per:cities_of_residence(e1,e2)
+
+
+18480	"While learning in <e1> Chicago </e1> Rabbi Marcus attended <e2> Northeastern Illinois University </e2>."
+org:city_of_headquarters(e2,e1)
+
+
+18497	"Sammy Kershaw <e1> Eddy Raven </e1> <e2> Jo-el Sonnier </e2> and the band River Road are all Acadiana natives who went on to score national fame and sell millions of records via the major labels in Nashville."
+no_relation
+
+
+18500	"<e1> DC Chaudhary </e1> continued his studies in law at the University of Minnesota Law School <e2> Minneapolis </e2> Minnesota."
+per:cities_of_residence(e1,e2)
+
+
+18502	"On October 7 Gambetta left Paris by hot air balloon and arrived in the city of Tours from which he and his deputy <e1> Charles de Freycinet </e1> directed the war across unoccupied <e2> France </e2>."
+per:countries_of_residence(e1,e2)
+
+
+18504	"Raised as an Australian Imperial Force ( AIF ) battalion in March 1915 as part of the 5th Brigade of the <e1> 2nd Division </e1> the 18th Battalion was formed at Liverpool <e2> New South Wales </e2>."
+org:city_of_headquarters(e1,e2)
+
+
+18508	"Note : <e1> Memphis Slim </e1> composed music under the name of <e2> Peter Chatman </e2> which was actually his father's name ; on the original album the composer credit is misprinted as P. Chapman."
+per:alternate_names(e1,e2)
+
+
+18514	"<e1> Michelle Wright </e1> is the second studio album by Canadian country music artist Michelle Wright and was released on July 17 1990 on <e2> Savannah </e2> Records."
+per:employee_of(e1,e2)
+
+
+18521	"<e1> Bailey Rae </e1> was born in Leeds West Yorkshire <e2> England </e2> to a Kittitian father and an English mother as the oldest of three daughters including her siblings Candice Bailey and actress Rhea Bailey."
+per:country_of_birth(e1,e2)
+
+
+18530	"<e1> Face to Face </e1> traces its beginnings back to <e2> 1988 </e2> when singer/guitarist Trever Keith bassist Matt Riddle and drummer Rob Kurth formed a local metal band called Zero Tolerance."
+org:founded(e1,e2)
+
+
+18531	"Balmaceda was born in <e1> Santiago </e1> Chile the son of <e2> Manuel Balmaceda </e2> and of Emilia de Toro Herrera."
+per:cities_of_residence(e2,e1)
+
+
+18532	"According to a LiveDaily interview with <e1> Relient K </e1> 's lead vocalist <e2> Matt Thiessen </e2> Thiessen contributed around four songs or so to this Jack's Mannequin album."
+per:employee_of(e2,e1)
+
+
+18535	"<e1> Team Losi </e1> ( also referred to as <e2> Losi </e2> Team Losi Racing or TLR ) is a USA based radio-controlled car manufacturer founded by Gil Losi in the late-1980s and is owned by Horizon Hobby."
+per:alternate_names(e1,e2)
+
+
+18558	"Mr Charoen Sirivadhanabhakdi in early 2013 added <e1> Fraser and Neave </e1> Limited a food and beverage brewing property and publishing industries conglomerate in <e2> Singapore </e2> to his drinks and property empire."
+org:country_of_headquarters(e1,e2)
+
+
+18562	"These letters deal primarily with Thompson and his editor at Random House Jim Silberman his correspondence with Oscar Zeta Acosta and his perpetually fluctuating relationship with <e1> Jann Wenner </e1> the founder of <e2> Rolling Stone </e2>."
+org:founded_by(e2,e1)
+
+
+18567	"Iowans returned <e1> him </e1> to the U.S. Senate in 1990 1996 and again in 2002 making him the first <e2> Iowa </e2> Democrat ever to earn a fourth Senate term."
+per:employee_of(e1,e2)
+
+
+18584	"The division was created in 1922 and is named for Sir <e1> Edmund Barton </e1> the first Prime Minister of <e2> Australia </e2>."
+per:country_of_birth(e1,e2)
+
+
+18603	"<e1> He </e1> built roads and bridges to develop <e2> Veracruz </e2> 's infrastructure since it was one of the main ports of Mexico at that time."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+18627	"Requests for comment from <e1> Sanders </e1> made through both the <e2> NFL Network </e2> and the News-Press were not successful."
+no_relation
+
+
+18636	"The 3000 mineworkers who were caught underground at <e1> Harmony Gold </e1> 's Elandsrand mine is more than a wake up call for the industry and a reflection of the broader problems facing <e2> mineworkers </e2> in South Africa."
+no_relation
+
+
+18642	"Li also vice chairman of the National Committee of the Chinese People's Political Consultative Conference ( CPPCC ) is visiting at the invitation of Nevzat Pakdil deputy speaker of Grand National Assembly of Turkey and <e1> Marios Garoyian </e1> speaker of the <e2> House </e2> of Representatives of Cyprus."
+per:employee_of(e1,e2)
+
+
+18646	"Other members of the executive included <e1> Donald Sangster </e1> Mrs. Rose Leon Morris Cargill ( all from <e2> Jamaica </e2> ) and Bhadase Maraj ( Trinidad )."
+per:country_of_birth(e1,e2)
+
+
+18663	"Russia's <e1> Communist Party </e1> says Gennady Yanayev a coup plotter who briefly declared himself president of the Soviet Union replacing <e2> Mikhail Gorbachev </e2> has died at age 73."
+per:employee_of(e2,e1)
+
+
+18671	"He was a persistent critic of the previous PCB and had recently turned down the offer to replace former coach <e1> Geoff Lawson </e1> after the <e2> Australian </e2> was sacked citing family commitments."
+per:origin(e1,e2)
+
+
+18677	"This prompted the Prime Minister of <e1> Japan </e1> <e2> Ryutaro Hashimoto </e2> to publicly urge Peru to refrain from taking any unnecessary risks that could endanger the hostages ' lives."
+per:countries_of_residence(e2,e1)
+
+
+18689	"Opposition front-bencher Tony Abbott told AAP that <e1> Howard </e1> 70 was discharged from <e2> Sydney </e2> 's Royal North Shore Hospital on Sunday which is Father's Day in Australia."
+per:cities_of_residence(e1,e2)
+
+
+18692	"The 2012 <e1> Jacksonville </e1> State Gamecocks football team represented <e2> Jacksonville State University </e2> in the 2012 NCAA Division I FCS football season."
+org:city_of_headquarters(e2,e1)
+
+
+18693	"When Ellen Johnson Sirleaf won the elections <e1> Dr. Korto </e1> was appointed minister of <e2> Education </e2> and took office in January 2006 leaving the Foundation to avoid a conflict of interests."
+per:employee_of(e1,e2)
+
+
+18702	"The iniative was developed through partnerships with third parties and educational institutions including the University of Jordan <e1> Princess Sumaya University for Technology </e1> ( PSUT ] <e2> Philadelphia University </e2> King Fahd University of Petroleum and Minerals ( KFUPM ) and German Jordanian University."
+no_relation
+
+
+18707	"<e1> Saeta TV </e1> Channel 10 founded in 1956 by <e2> Raul Fontaina </e2> is the first Uruguayan television channel and the fourth based on Latin America the acronym means SAETA Sociedad de Emisoras de y Anexos."
+org:founded_by(e1,e2)
+
+
+18726	"<e1> Ray Williams </e1> ( born 1947 London <e2> England </e2> ) is an music producer/publisher."
+per:country_of_birth(e1,e2)
+
+
+18727	"Following the victory of <e1> Viktor Yanukovych </e1> in the 2010 presidential election Azarov succeeded Yanukovych as leader of the <e2> Party of Regions </e2> and he was appointed as a fully fledged Prime Minister in March 2010."
+per:employee_of(e1,e2)
+
+
+18731	"The <e1> United Church </e1> was founded in 1925 as a merger of four Protestant denominations : the Methodist Church of Canada the Congregational Union of Ontario and Quebec two-thirds of the congregations of the Presbyterian Church in <e2> Canada </e2> and the Association of Local Union Churches a predominantly prairie-based movement."
+org:country_of_headquarters(e1,e2)
+
+
+18734	"It should also be noted that Korn <e1> drummer </e1> <e2> Ray Luzier </e2> has been recording drums on the debut album."
+per:title(e2,e1)
+
+
+18742	"Considering Van Halen appears unable to do anything in a conventional manner the words Van Halen reunion are n't altogether accurate because original bassist Michael Anthony supposedly banished from the group for his penchant to associate and tour with <e1> Hagar </e1> has been replaced by Eddie's 16-year-old son Wolfgang Wolfie <e2> Van Halen </e2>."
+no_relation
+
+
+18744	"World War II veteran and former <e1> 45th Infantry Division </e1> member Joseph E. Garland presents Unknown Soldiers : Reliving World War II in Europe a portrayal of World War II directly through the eyes of the 45th Infantry Division - which served on the front lines of Allied campaigns in <e2> Sicily </e2> Italy France and Germany."
+no_relation
+
+
+18749	"China Shipping Terminals part of the Shanghai-based China Shipping Group which also controls global carrier <e1> China Shipping Container Lines </e1> signed a Memorandum of Understanding with APM terminals stating the intention of purchasing a 24 % share of <e2> APM Terminals Zeebrugge </e2> at the Port of Bruges-Zeebrugge."
+no_relation
+
+
+18754	"He attended <e1> St. Augustine High School </e1> where he was a standout running back for the <e2> St. Augustine </e2> Yellow Jackets high school football team."
+org:alternate_names(e1,e2)
+
+
+18758	"By the Staff of American Free Press Former Italian President <e1> Francesco Cossiga </e1> who revealed the existence of Operation Gladio has told <e2> Italy </e2> 's oldest and most widely read newspaper that the 9-11 terrorist attacks were run by the CIA and Mossad and that this was common knowledge among global intelligence agencies."
+per:country_of_birth(e1,e2)
+
+
+18772	"CNN's Anderson Cooper <e1> 360 </e1> featured a story on April 6 2010 about the <e2> Firehouse Subs </e2> Public Safety Foundation in which Firehouse Subs founders Chris and Robin Sorensen met with Francisco Tuttle a father who was saved by the Mt. Pleasant SC Fire Department using a ZOLL AutoPulse which the Foundation donated to the department last year."
+org:members(e1,e2)
+
+
+18774	"<e1> Canada </e1> 's Environment Minister <e2> John Baird </e2> responded to the report saying the government would better equip the Coast Guard to respond to spills."
+per:countries_of_residence(e2,e1)
+
+
+18777	"Portrait of the Infante Don Carlos is a 1626/27 oil painting of Don Carlos of <e1> Spain </e1> ( brother to Philip IV of Spain ) produced by <e2> Diego </e2> as one of the first paintings he produced during his stay in Madrid."
+per:countries_of_residence(e2,e1)
+
+
+18779	"The royal descendants of Queen <e1> Victoria of the United Kingdom </e1> and King Christian IX of Denmark currently occupy the thrones of Belgium Denmark Norway Spain Sweden and the <e2> United Kingdom </e2>."
+per:countries_of_residence(e1,e2)
+
+
+18780	"<e1> Steel Pole Bath Tub </e1> was an American rock band formed in 1986 in <e2> Bozeman </e2> Montana by Mike Morasky ( guitar/vocals ) and Dale Flattum ( bass/vocals )."
+no_relation
+
+
+18792	"Larry Moriarty ( born April 24 1958 in Santa Barbara California ) is a former professional American football player who played running back for six seasons for the <e1> Houston </e1> Oilers and Kansas City Chiefs he was drafted by the Houston Oilers in the 5th round ( 114th overall ) of the <e2> 1983 </e2> NFL Draft."
+no_relation
+
+
+18794	"<e1> Bartholomew </e1> was born in London and emigrated to the <e2> United States </e2> at the age of 10 after being selected to play the title role in MGM's David Copperfield ( 1935 )."
+per:countries_of_residence(e1,e2)
+
+
+18804	"The deal was completed on December 2 2004 ; <e1> Quebecor </e1> gave CHUM $ 46 million ( CAD ) and <e2> Sun Media </e2> 's 29.9 % share in CP24 for CKXT."
+no_relation
+
+
+18809	"Italian <e1> Defence </e1> Minister <e2> Arturo Parisi </e2> said on Rai public television that the two Italian soldiers were most probably seized by an independent group."
+per:employee_of(e2,e1)
+
+
+18822	"With <e1> Haksan Culture Company </e1> and Seoul Cultural Publishers Daewon C.I. accounts for more than 50 % of comics publications in <e2> South Korea </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+18824	"<e1> Sweyn Forkbeard </e1> tried to wrest control of the church in <e2> Denmark </e2> away from the Holy Roman Empire and as a result was slandered by German historians of his day."
+per:countries_of_residence(e1,e2)
+
+
+18826	"Originally established as the School of Commerce in 1902 <e1> it </e1> is the oldest <e2> Business School </e2> in England."
+per:alternate_names(e1,e2)
+
+
+18827	"His work has been exhibited in <e1> Mexico </e1> Galeria Clava Paris Carrousel du Louvre Mexico annual <e2> Clemente Orozco </e2> Art competition and New York Guggenheim museum to name a few."
+per:country_of_birth(e2,e1)
+
+
+18831	"She marries Morris Meyerson and they eventually move to Palestine to work in a kibbutz although they soon end up leaving much to <e1> Golda </e1> 's disappointment and they move to <e2> Jerusalem </e2> and have two children but Golda's tremendous ambition soon drives her and Morris apart although they remain married until his death in 1951."
+per:cities_of_residence(e1,e2)
+
+
+18834	"<e1> Adlam </e1> served in the American War of Independence as a captain in the army in the <e2> 40th Regiment of Foot </e2>."
+org:top_members/employees(e2,e1)
+
+
+18836	"Originally a centre-left party ( with social-democratic intentions though they never held any actual strength in the unions ) at the time of its foundation <e1> PSDB </e1> moved to the centre after <e2> Fernando Henrique Cardoso </e2> forged an alliance with the right-wing Liberal Front Party and was elected President of Brazil."
+per:employee_of(e2,e1)
+
+
+18837	"<e1> Amblin Entertainment </e1> is an American film and television production company founded by director and producer Steven Spielberg and film producers Kathleen Kennedy and <e2> Frank Marshall </e2> in 1981."
+org:founded_by(e1,e2)
+
+
+18840	"The event runs from 5 to 6pm in the <e1> UCL </e1> Faculty of Laws ( Bentham House ) in sunny <e2> Bloomsbury </e2>."
+org:city_of_headquarters(e1,e2)
+
+
+18843	"<e1> His </e1> term of office was only 50 days giving him the record for serving the shortest amount of time as prime minister of <e2> Sweden </e2>."
+per:employee_of(e1,e2)
+
+
+18844	"<e1> Cooper Firearms of Montana </e1> was founded in 1990 by <e2> Dan Cooper </e2> and two other former Kimber of Oregon employees."
+org:founded_by(e1,e2)
+
+
+18846	"<e1> Italy </e1> 's <e2> Marco Simoncelli </e2> on a Gilera won the Australian 250cc Grand Prix on Sunday when the race was stopped six laps from the finish by a crash."
+per:country_of_birth(e2,e1)
+
+
+18859	"In July 2005 went on a cross <e1> Canada </e1> mall and venue tour sponsored by Solo Mobile ( Bell ) EckoRed and SPC sponsored <e2> Chante </e2> 's tour across Canada which helped raise awareness for phone counseling service Kids Help Phone."
+per:countries_of_residence(e2,e1)
+
+
+18862	"The son of Thomas Grey 2nd Marquess of <e1> Dorset </e1> and of Margaret Wotton ; through his father he was a great-grandson of Elizabeth Woodville the queen of <e2> Edward IV of England </e2> by her first marriage to Sir John Grey of Groby."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+18863	"He founded <e1> Bad Boy </e1> Records with <e2> Sean Combs </e2> and it became the home of the Notorious B.I.G. Puffy Combs Mase 112 and Faith Evans."
+per:employee_of(e2,e1)
+
+
+18868	"New Soul was Mixed and Mastered by <e1> S. Husky </e1> at Groundlift Studios Reykjavik and <e2> Los Angeles </e2>."
+per:cities_of_residence(e1,e2)
+
+
+18869	"In October 2010 <e1> Cecilia Ibru </e1> the former head of <e2> Oceanic Bank </e2> was sentenced to eighteen months and ordered to forfeit over US$ 1 billion for fraud."
+org:top_members/employees(e2,e1)
+
+
+18876	"<e1> LJMU </e1> is a founding member of the Northern Consortium an educational charity owned by eleven universities in the north of <e2> England </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+18877	"<e1> She </e1> has also remained Director of the Center of Excellence for Women's Studies <e2> University of Karachi </e2>."
+per:employee_of(e1,e2)
+
+
+18879	"Brion later clarified the status of the album in an interview with MTV News in January 2005 : he said that <e1> Epic </e1> had desired material in the vein of <e2> Apple </e2> 's debut album Tidal ( 1996 ) but that when confronted by Machine it's just not the obvious easy sell to them."
+no_relation
+
+
+18884	"The Constitutional Court has restored one of the many legal points that had been taking away by the center-right said <e1> Infrastructure and Transport </e1> Minister <e2> Antonio Di Pietro </e2> a former Milan magistrate."
+per:employee_of(e2,e1)
+
+
+18885	"<e1> Smith </e1> was trained by Ted Betley in Winwick England before relocating to Calgary Alberta <e2> Canada </e2> to further his training under Stu Hart."
+per:countries_of_residence(e1,e2)
+
+
+18888	"<e1> Gabrielle Chanel </e1> worked until her death in <e2> January 1971 </e2> spending her last moments at her opulent private apartment in The Ritz."
+no_relation
+
+
+18907	"<e1> Winn-Dixie </e1> Stores Inc. is an American supermarket chain based in <e2> Jacksonville </e2> Florida."
+org:city_of_headquarters(e1,e2)
+
+
+18911	"L. J. <e1> Christen Middle School </e1> is a middle school located in Laredo Independent School District in Laredo <e2> Texas </e2>."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+18914	"<e1> China </e1> refused all high-level contact with Japan for five years until 2006 in anger at then prime minister <e2> Junichiro Koizumi </e2> 's annual visits to a Tokyo shrine that venerates Japanese war dead including war criminals."
+per:employee_of(e2,e1)
+
+
+18930	"The de Kooning <e1> Academy </e1> is a part of Hogeschool <e2> Rotterdam </e2> a university of applied sciences."
+org:subsidiaries(e2,e1)
+
+
+18931	"<e1> Dakota Power </e1> became a part of Black Hills Power and Light eventually becoming <e2> Black Hills Corporation </e2>."
+org:alternate_names(e2,e1)
+
+
+18939	"<e1> Nintendo </e1> 's president <e2> Satoru Iwata </e2> requested Masahiro Sakurai to be the director of the game after the conference."
+org:top_members/employees(e1,e2)
+
+
+18943	"Romney also personally intervened to help attract to the state or maintain within the state several large employers such as Bristol-Myers Squibb and the <e1> Gillette </e1> division of <e2> Procter Gamble </e2>."
+org:subsidiaries(e2,e1)
+
+
+18959	"In 1998 he won several rap battles against local emcees from rival <e1> Kansas City </e1> high schools <e2> Mac Lethal </e2>."
+per:cities_of_residence(e2,e1)
+
+
+18968	"After the 1999 season both Kreklows left the <e1> Cougars </e1> but did not go far two miles down the city's College Avenue to be exact where <e2> Wayne </e2> took the head coaching job with the Missouri Tigers and Susan became Director of Volleyball for Mizzou."
+no_relation
+
+
+18974	"Surat was also the constituency of the 7th Prime Minister of <e1> India </e1> <e2> Morarji Desai </e2> who has been an MP for this constituency for 5 terms."
+per:origin(e2,e1)
+
+
+18982	"In 2001 she and <e1> Chiaki Ishikawa </e1> reunited as <e2> See-Saw </e2>."
+per:employee_of(e1,e2)
+
+
+18983	"In 2004 after the death of his parents <e1> Youngman </e1> returned to Long Beach California and produced the <e2> Mutant Press </e2> album Idiots Rule with Steve Loria ( Spirit ) on bass guitar and Phil Cohen ( The Heaters ) on drums."
+per:employee_of(e1,e2)
+
+
+18984	"Paul Berenger remained Deputy Prime Minister of <e1> Mauritius </e1> for three years and following the agreement <e2> Anerood Jugnauth </e2> resigned in September 2003 after serving for three years."
+per:employee_of(e2,e1)
+
+
+18997	"He was also Defence Minister of <e1> Pakistan </e1> in the short-lived government of <e2> Ibrahim Ismail Chundrigar </e2> in 1957."
+per:countries_of_residence(e2,e1)
+
+
+19003	"Already the world's biggest producers of computer components <e1> Taiwan </e1> companies like <e2> Compal Electronics </e2> in addition to Hon Hai and Quanta have used their expertise to branch out into new markets that use many of the same products."
+org:country_of_headquarters(e2,e1)
+
+
+19015	"The 2008 Champions The Griffons won their first <e1> Currie Cup </e1> First Division trophy by winning the Currie Cup First Division Final against the Platinum <e2> Leopards </e2> in Potchefstroom on 10 October 2008 by 31 26."
+no_relation
+
+
+19027	"On 7 May the Nationalist opposition ( hitherto led by John Latham ) the six Labor dissidents ( who had formed the All for <e1> Australia League </e1> ) and former Prime Minister <e2> Billy Hughes </e2> ' Australian Party ( a group of former Nationalists who had been expelled for crossing the floor and bringing down Stanley Bruce's Nationalist government in 1929 ) merged to form the UAP."
+no_relation
+
+
+19028	"She was the elder of two children of Albert Gore Sr. a U.S. Representative who later served as a U.S. Senator from <e1> Tennessee </e1> and <e2> Pauline LaFon Gore </e2> one of the first women to graduate from Vanderbilt University Law School."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+19030	"He taught at Vanderbilt University's school of medicine at what was then the Bowman Gray School of Medicine at Wake Forest University in North Carolina and at what is today the <e1> University of Texas Southwestern Medical School </e1> in <e2> Dallas </e2> Texas."
+org:city_of_headquarters(e1,e2)
+
+
+19035	"<e1> Akzo Nobel </e1> has today made a compelling offer which delivers full value for ICI reflecting <e2> ICI </e2> 's strong future growth prospects and strategic opportunities said ICI chief executive John McAdam."
+org:top_members/employees(e2,e1)
+
+
+19055	"<e1> Kleiner Perkins Caufield Byers </e1> ( KPCB ) is a venture capital firm located on Sand Hill Road in <e2> Menlo Park </e2> in Silicon Valley."
+org:city_of_headquarters(e1,e2)
+
+
+19056	"<e1> Iron Horse Middle School </e1> is located at 12601 Alcosta Blvd. ; <e2> San Ramon </e2> CA 34583."
+org:city_of_headquarters(e1,e2)
+
+
+19057	"Mazzantini is married with <e1> Elisa </e1> Facchini a veterinary surgeon who also plays as wing for <e2> Italy </e2> women's national rugby union team and the Red Panthers Benetton Treviso's female team."
+per:countries_of_residence(e1,e2)
+
+
+19061	"Meanwhile in late 2011 <e1> Ahmad Zia Massoud </e1> Haji Mohammad Mohaqiq and Abdul Rashid Dostum created the National Front of <e2> Afghanistan </e2> as a reformation of the United Front ( Northern Alliance ) to oppose a return of the Taliban to power and to demand reforms from the Karzai government."
+per:countries_of_residence(e1,e2)
+
+
+19062	"<e1> Keating </e1> was first elected to the House of Representatives at the 1969 election as the Labor member for <e2> Blaxland </e2> in New South Wales."
+per:cities_of_residence(e1,e2)
+
+
+19069	"The first confirmed <e1> European </e1> landing in the continental U.S. was by Juan Ponce de who landed in 1513 at a lush shore <e2> he </e2> christened La Florida."
+per:origin(e2,e1)
+
+
+19070	"No departments of critical psychology exist with the exception of the Bachelor's Completion Program with a minor in Critical Psychology offered at the <e1> California Institute of Integral Studies </e1> in <e2> San Francisco </e2> though critical perspectives are sometimes encountered in traditional universities perhaps especially within community psychology programs."
+org:city_of_headquarters(e1,e2)
+
+
+19073	"At the <e1> George Washington </e1> Birthplace National Monument in <e2> Westmoreland County </e2> Virginia and at Mount Vernon visitors are treated to birthday celebrations throughout the federal holiday weekend and through February 22."
+no_relation
+
+
+19081	"A series of concerts with <e1> Lani Misalucha </e1> started with a tour of the US and Canada in September 2008 before moving to <e2> Manila </e2> in 2009."
+no_relation
+
+
+19084	"Most domestic federal taxes are administered by the <e1> Internal Revenue Service </e1> which is part of the <e2> Department of the Treasury </e2>."
+org:subsidiaries(e2,e1)
+
+
+19094	"In the February 13 2006 issue of Western Standard a column by Ric Dolphin quoted an unnamed fishing buddy of <e1> Ralph Klein </e1> 's as saying Once she ( <e2> Colleen Klein </e2> ) stops being the premier's wife she goes back to being just another Indian."
+per:spouse(e1,e2)
+
+
+19096	"<e1> Homewood-Flossmoor High School </e1> opened its doors in <e2> 1959 </e2>."
+org:founded(e1,e2)
+
+
+19106	"- Democratic Senators Chuck Schumer of New York <e1> John Breaux </e1> of <e2> Louisiana </e2> and Jeff Bingaman of New Mexico -- chair of the Senate Energy Committee -- are among the top beneficiaries of Enron's political donations."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19110	"Mystery films thrillers drama films and horror films tend toward strong plots and premises such as Last Tango in <e1> Paris </e1> ( 1972 ) Dressed to Kill ( 1980 ) Body Heat ( 1981 ) Angel Heart ( 1987 ) Basic <e2> Instinct </e2> ( 1992 ) Single White Female ( 1992 ) Color of Night ( 1994 ) Showgirls ( 1995 ) Leaving Las Vegas ( 1995 ) Different Strokes ( 1997 ) Wild Things ( 1998 ) Eyes Wide Shut ( 1999 ) and In the Cut ( 2003 )."
+no_relation
+
+
+19120	"Some channels were not launched on 1 September <e1> 1993 </e1> but got added later ; including <e2> QVC </e2> which launched on 1 October 1993 and VH1 which launched on 1 October 1994."
+org:founded(e2,e1)
+
+
+19123	"<e1> Brian May </e1> of <e2> Queen </e2> Slash of Guns N ' Roses and Velvet Revolver The Edge of U2 Johnny Marr of The Smiths all cite Gallagher as major infuences on their playing while Clapton credits him for getting him back into the blues."
+org:founded_by(e2,e1)
+
+
+19135	"During the 1980s the label also had a hip-hop subsidiary named <e1> Reality </e1> Records which released the first two albums by <e2> Doug E. Fresh </e2> among others."
+per:employee_of(e2,e1)
+
+
+19140	"The song Demons is sung by <e1> Brian McFadden </e1> an Irish pop star who rose to fame in Europe and Australia as part of the mega-successful boyband <e2> Westlife </e2>."
+per:employee_of(e1,e2)
+
+
+19142	"King can continue at <e1> CNN </e1> for as long as he has breath in his body -- CNN News Group President <e2> Jim Walton </e2> said as much to TV critics a few months ago in Pasadena Calif."
+org:top_members/employees(e1,e2)
+
+
+19150	"In the 1980s a decision was made to renovate Government Buildings in <e1> Dublin </e1> the office of the <e2> Taoiseach </e2>."
+per:cities_of_residence(e2,e1)
+
+
+19152	"On July 10 2012 during contract negotiations over raising carrier rates the U.S. satellite TV provider DirecTV's executives approached Viacom with a new proposal and a request to continue broadcasting 17 of <e1> Viacom </e1> 's television networks ( including Nickelodeon MTV Logo and <e2> Comedy Central </e2> ) during talks but received no response and thus Viacom ceased transmission to DirecTV's 20 million subscribers."
+org:subsidiaries(e1,e2)
+
+
+19165	"<e1> Her </e1> car was parked close to her <e2> Paris </e2> apartment in the 16th arrondissement."
+per:cities_of_residence(e1,e2)
+
+
+19189	"Franks said he was honored when the Georgia Music Hall of Fame and Museum in Macon featured an exhibit on his career in the Skillet Licker beside other <e1> Georgia </e1> notables Alan Jackson <e2> Travis Tritt </e2> and Trisha Yearwood which was highlighted from 1996-2007."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+19197	"After graduation <e1> Walton </e1> became a member of the law firm which represented Wal-Mart ; Conner and Winters in Tulsa <e2> Oklahoma </e2>."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19208	"At least 795 people have died in the earthquake and tsunami that struck <e1> Chile </e1> according to a new toll released Tuesday by President <e2> Michelle Bachelet </e2>."
+per:countries_of_residence(e2,e1)
+
+
+19228	"Formerly he was <e1> James Monroe </e1> Distinguished Professor of Law Professor of History and Elizabeth D. and Richard A. Merrill Research Professor at the University of <e2> Virginia </e2> School of Law."
+per:employee_of(e1,e2)
+
+
+19229	"On June 21 2012 Community Communications - the owners of WMFE - announced that it planned to sell all of WMFE-TV's assets except the studio facilities to <e1> UCF </e1> allowing channel 24 to resume its status as Central <e2> Florida </e2> 's PBS outlet."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19262	"Until June 25 2008 he served as the <e1> Quebec </e1> Minister for Health and Social Services in the government of <e2> Jean Charest </e2>."
+per:employee_of(e2,e1)
+
+
+19265	"However he did eventually become ordained and performed wedding ceremonies for Matt Deis of CKY and Erica Beckmann in November 2005 and <e1> Bam Margera </e1> and <e2> Melissa </e2> Rothstein in February 2007."
+per:spouse(e1,e2)
+
+
+19266	"She also appeared with <e1> Troy Donahue </e1> to whom <e2> she </e2> was married for eight months in 1964 in the 1962 romantic drama Rome Adventure and the 1964 western A Distant Trumpet."
+per:spouse(e2,e1)
+
+
+19268	"The <e1> 2nd Division </e1> was formed in Sendai Miyagi in January 1871 as the one of six regional commands created in the fledgling <e2> Imperial Japanese Army </e2>."
+org:subsidiaries(e2,e1)
+
+
+19283	"<e1> Erika Jo </e1> Heriges ( born November 2 1986 in Angleton Texas ) known simply by the stage name Erika Jo is an American country music recording artist who was declared winner of the 2005 season of the <e2> Nashville Star </e2> television program."
+per:employee_of(e1,e2)
+
+
+19289	"He also became the director of the House of Benefit of <e1> San Juan </e1> until the day of <e2> his </e2> death."
+per:cities_of_residence(e2,e1)
+
+
+19297	"The two <e1> John Fogerty </e1> penned songs were You Do n't Owe Me and Back in the Hills ( <e2> Fantasy </e2> F-710 )."
+no_relation
+
+
+19335	"He was made an honorary Knight Grand Cross of the Royal Victorian Order by <e1> King </e1> <e2> George V of the United Kingdom </e2> on 8 June 1910."
+per:title(e2,e1)
+
+
+19339	"<e1> Wath Comprehensive School </e1> : A Language College is a co-educational secondary school on Sandygate in Wath-upon-Dearne in the Metropolitan Borough of <e2> Rotherham </e2> South Yorkshire England."
+org:city_of_headquarters(e1,e2)
+
+
+19343	"<e1> Spring Arbor University </e1> is located in <e2> Spring Arbor </e2>."
+org:city_of_headquarters(e1,e2)
+
+
+19349	"Before starting <e1> Broadcom </e1> <e2> Henry Samueli </e2> ran the department of engineering at the University of California Los Angeles and the couple continues to support the UCLA School of Engineering and Applied Science and the Henry Samueli School of Engineering at the University of California Irvine."
+org:founded_by(e1,e2)
+
+
+19350	"Starting with initial funding of CN to open a workshop for the production of bottle lids in Beijiao Shunde in <e1> 1968 </e1> He Xiangjian ( ) the founder of the company has since <e2> turned </e2> Midea into one of the most successful private companies in China with sales revenue for the entire Group declared at US$ 22.2 billion for 2011."
+org:founded(e2,e1)
+
+
+19364	"Disgraced British sprinter Dwain Chambers looks set to turn his back on athletics after signing on Saturday to play for <e1> NFL Europa </e1> side <e2> Hamburg Sea Devils </e2>."
+org:members(e1,e2)
+
+
+19379	"Since then has quickly risen in the <e1> Puerto Rican Independence Party </e1> ( PIP ) hierarchy serving as a Legislative Adviser for Senator <e2> Manuel Orellana </e2> and Fernando before being elected to serve as Party Commissioner in Municipality Affairs and PIP Secretary General."
+per:employee_of(e2,e1)
+
+
+19382	"Hillsborough was the birthplace in 1804 of <e1> Franklin Pierce </e1> 14th president of the <e2> United States </e2> and the only president from New Hampshire."
+per:country_of_birth(e1,e2)
+
+
+19391	"China and <e1> Vanuatu </e1> on Tuesday vowed to expand their cooperation during Vanuatu president <e2> Kalkot Mataskelekele </e2> 's state visit to China."
+per:employee_of(e2,e1)
+
+
+19399	"Bargheer visited <e1> Switzerland </e1> in 1935 and met <e2> Paul Klee </e2> there."
+per:countries_of_residence(e2,e1)
+
+
+19400	"The United States Air Force's <e1> 119th Command and Control Squadron </e1> ( 119 CACS ) is a space control unit located at McGhee Tyson ANGB <e2> Tennessee </e2>."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19402	"Edmonton is the headquarters of the only major Canadian banks west of <e1> Toronto </e1> : <e2> Canadian Western Bank </e2> and ATB Financial as well as the only province-wide credit union Servus."
+org:city_of_headquarters(e2,e1)
+
+
+19406	"When he moved to <e1> Seattle </e1> eight years ago authorities were warning of a resurgence in gang crimes but <e2> Brad </e2> could find little local information on what gangs were driving the trend."
+per:cities_of_residence(e2,e1)
+
+
+19431	"<e1> Clapton </e1> brought guitar-led blues influences to the forefront of the group ; he had left <e2> The Yardbirds </e2> in order to concentrate on the blues."
+per:employee_of(e1,e2)
+
+
+19433	"The <e1> Chokkanatha Nayak </e1> Palace now officially known as Rani <e2> Mangammal </e2> Mahal is a mid seventeenth century Palace built by the Madurai Nayak rulers."
+per:alternate_names(e2,e1)
+
+
+19436	"Tolinski is also the Editorial Director of <e1> Future US </e1> music division which includes Guitar Aficionado and <e2> Revolver </e2>."
+org:subsidiaries(e1,e2)
+
+
+19441	"At the French municipal elections held in March 2008 several prominent mayors who are member of the Flosse-Temaru coalition lost their offices in key municipalities of <e1> French Polynesia </e1> which was interpreted as a disapproval of the way <e2> Gaston Tong Sang </e2> whose party French Polynesian voters had placed first in the territorial elections the month before had been prevented from becoming president of French Polynesia by the last minute alliance between Flosse and Temaru's parties."
+per:country_of_birth(e2,e1)
+
+
+19444	"<e1> Jerry Lewis </e1> ( born March 16 1926 ) is an American comedian <e2> actor </e2> singer film producer screenwriter and film director."
+per:title(e1,e2)
+
+
+19447	"In the May 10 1953 edition of the <e1> Tulsa </e1> Daily World <e2> McGuirk </e2> said He has a fine chance to get into the big money brackets."
+no_relation
+
+
+19449	"During his career Mason served as the Chairman and CEO of the Kelvinator Corporation ( 1928-1937 ) Chairman and CEO of the Nash-Kelvinator Corporation ( 1937-1954 ) and Chairman and CEO of <e1> American Motors </e1> Corporation ( <e2> 1954 </e2> )."
+no_relation
+
+
+19470	"Despite this CSN Philadelphia is available to New York DMA/ADI <e1> Comcast </e1> and Verizon FiOS subscribers in Ocean County to Cablevision customers in nearby Allentown in Monmouth County Comcast's Lambertville area system in Hunterdon County and <e2> Service Electric </e2> 's Phillipsburg area system in Warren County."
+no_relation
+
+
+19476	"<e1> Morocco </e1> 's Prime Minister <e2> Abbas El Fassi </e2> meanwhile came in a light plane."
+per:employee_of(e2,e1)
+
+
+19479	"After the unit sustained heavy casualties during the Battle of Shiloh and Bragg's Kentucky Campaign the unit spent most of the rest of the war field consolidated with the <e1> 6th Arkansas Infantry </e1> Regiment to form the 6th/7th Arkansas <e2> Infantry </e2> Regiment."
+org:members(e2,e1)
+
+
+19494	"It is known for the first Kenyan president <e1> Jomo Kenyatta </e1> who was from this area as well as his son Uhuru Kenyatta now 4th President of <e2> Kenya </e2> and former Member of Parliament representing Gatundu South Constituency."
+per:country_of_birth(e1,e2)
+
+
+19503	"Ginx TV was launched in August 2008 on <e1> Romania </e1> 's <e2> Boom TV </e2> satellite television platform."
+org:country_of_headquarters(e2,e1)
+
+
+19515	"In 2004 the Newcom Group undertook feasibility research into starting up new domestic air transport services in Mongolia : in January <e1> 2006 </e1> they founded <e2> Eznis Airways </e2> a wholly owned subsidiary."
+org:founded(e2,e1)
+
+
+19516	"It also resulted in the convictions of <e1> Enron </e1> 's founder Kenneth Lay and former chief executive <e2> Jeffrey Skilling </e2> for fraud conspiracy and other charges."
+org:top_members/employees(e1,e2)
+
+
+19535	"<e1> Mary Louise Wilson </e1> ( born November 12 1931 New Haven Connecticut ) is a Tony and <e2> Drama Desk Award-winning </e2> American stage film and television actress."
+per:title(e1,e2)
+
+
+19547	"Shahid Khudiram Metro Station is a station of the of <e1> Kolkata Metro </e1> in Garia a southern neighbourhood of <e2> Kolkata </e2> India."
+org:city_of_headquarters(e1,e2)
+
+
+19548	"Among them were New York City Mayor Fiorello La Guardia columnist Franklin Pierce Adams actor-director George M. Cohan playwright-director George S. Kaufman <e1> New York </e1> World editor Herbert Bayard Swope columnist Walter Winchell and actress <e2> Tallulah Bankhead </e2>."
+per:employee_of(e2,e1)
+
+
+19583	"It is for upper sixth formers to study a semester at The College of <e1> William and Mary </e1> and for a William and Mary graduate to teach at The <e2> Royal Hospital School </e2> for a year."
+no_relation
+
+
+19584	"<e1> Indian Institute of Technology Roorkee </e1> ( commonly known as IIT <e2> Roorkee </e2> or IITR ) formerly the University of Roorkee ( 1948-2001 ) and the Thomason College of Civil Engineering ( 1853-1948 ) is a public university located in Roorkee Uttarakhand India."
+org:alternate_names(e1,e2)
+
+
+19594	"Jackson attended <e1> Butte College </e1> in <e2> California </e2> in 2000 where he was an All-Conference player recording 35 receptions for 899 yards and 8 touchdowns."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19595	"<e1> China CITIC Bank </e1> Corporation is the banking arm of China's largest investment firm <e2> CITIC Group </e2> and one of the large commercial lenders in China."
+org:subsidiaries(e2,e1)
+
+
+19598	"Over 85 airlines operate at the two-terminal airport and it is the primary hub of <e1> Cathay Pacific </e1> Dragonair <e2> Air Hong Kong </e2> Hong Kong Airlines and Hong Kong Express."
+no_relation
+
+
+19601	"He declined to say how much <e1> Tata Motors </e1> has diverted to <e2> Jaguar Land Rover </e2> since it bought the brands from Ford Motor Co. for $ 2.3 billion in June."
+org:subsidiaries(e1,e2)
+
+
+19611	"Sunny Boy turned down the offer and went on to sign with <e1> Mshasho </e1> Records which is owned by <e2> The Dogg </e2> a long time friend of Gazza."
+org:members(e1,e2)
+
+
+19612	"<e1> Qureshi </e1> tells Dawn News television Monday that <e2> Pakistan </e2> will not negotiate with those it considers terrorists."
+per:countries_of_residence(e1,e2)
+
+
+19620	"The channel is owned and operated by <e1> Doordarshan </e1> a television network of Prasar Bharati <e2> Broadcasting </e2> Corporation and is based in New Delhi India."
+org:subsidiaries(e2,e1)
+
+
+19622	"<e1> Smith </e1> had three younger sisters and they were the basis for his autobiographical play Michael Margaret Pat and Kate originally presented at the Victory Gardens in <e2> Chicago </e2>."
+per:cities_of_residence(e1,e2)
+
+
+19625	"The 2012 Wagner <e1> Seahawks </e1> football team represented <e2> Wagner College </e2> in the 2012 NCAA Division I FCS football season."
+org:subsidiaries(e2,e1)
+
+
+19634	"Released the same year as Replicas ( under the name Tubeway Army ) The Pleasure Principle also went to number 1 in the <e1> United Kingdom </e1> and paved the way to chart success for a string of synthpop acts such as Ultravox <e2> The Human League </e2> Depeche Mode and Orchestral Manoeuvres in the Dark."
+per:country_of_birth(e2,e1)
+
+
+19637	"Among these is <e1> Sadiq al-Mahdi </e1> leader of the Sudanese National <e2> Umma Party </e2>."
+per:employee_of(e1,e2)
+
+
+19644	"Van Nistelrooy who has scored 28 goals in 54 internationals has not played for the <e1> Netherlands </e1> since <e2> Van Basten </e2> left him on the bench in a 1-0 defeat to Portugal that ended Oranje's World Cup in Germany."
+per:countries_of_residence(e2,e1)
+
+
+19649	"Doctors at <e1> Norfolk and Norwich University Hospital </e1> in eastern <e2> England </e2> looked at the outcome of six trials in which either nylon stitches or staples were used to seal 683 wounds."
+org:country_of_headquarters(e1,e2)
+
+
+19653	"Inspired by her teacher physicist <e1> Ludwig Boltzmann </e1> Meitner studied physics and became the second woman to obtain a doctoral degree in physics at the <e2> University of Vienna </e2> in 1905 ( im inhomogenen )."
+per:employee_of(e1,e2)
+
+
+19659	"Although <e1> she </e1> never managed a breakthrough in a foreign language she remained respected and highly popular in <e2> Finland </e2> even when spending much or nearly all of her time abroad."
+per:country_of_birth(e1,e2)
+
+
+19663	"In addition to their usual ensemble of vocalist and a battery of percussion instruments ( snares tom toms cymbals beer bottles cans and so forth ) the group culled together a number of local musicians including pianist Willie Tee and <e1> guitarist </e1> <e2> Snooks Eaglin </e2> as their backing band called the New Orleans Project."
+per:title(e2,e1)
+
+
+19664	"Since then the two have consulted and managed campaigns throughout Europe and the Middle East including the successful campaigns of Prime Minister of Israel Ariel Sharon Chancellor of Austria Alfred Gusenbauer Prime Minister of <e1> Bulgaria </e1> <e2> Sergey Stanishev </e2> Prime Minister of Romania C?lin Popescu-T?riceanu Prime Minister of Kosovo Hashim and President of Serbia Boris Tadic."
+per:countries_of_residence(e2,e1)
+
+
+19673	"She is a professor at <e1> John Jay College of Criminal Justice </e1> of the City University of New York in the Department of Physical Education and Athletics teaching fitness and swimming to <e2> New York </e2> City police and firefighters."
+org:city_of_headquarters(e1,e2)
+
+
+19683	"<e1> Caspar Weinberger </e1> initially worked for a <e2> San Francisco </e2> law firm."
+per:cities_of_residence(e1,e2)
+
+
+19685	"A hand-painted full-size replica of the Bayeux Tapestry is at the <e1> University of West Georgia </e1> <e2> Carrollton </e2> Georgia United States."
+org:city_of_headquarters(e1,e2)
+
+
+19691	"<e1> His </e1> daughter Jackie Frazier-Lyde is a lawyer and worked on her father behalf in pursuit of money they claimed he was owed in a <e2> Pennsylvania </e2> land deal."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19697	"This move will give <e1> Notre Dame </e1> more power over finances and curriculum as power is moved away from <e2> Norfolk </e2> County Council."
+org:members(e2,e1)
+
+
+19711	"<e1> He </e1> had originally planned to build around a twenty room home but after visiting several other mansions in central <e2> Kentucky </e2> he decided to build a much larger home."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+19718	"The Jacob's brand is owned by Valeo Foods in Ireland and <e1> United Biscuits </e1> in the <e2> United Kingdom </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+19724	"<e1> Craitor </e1> was re-elected for a third time as Member for <e2> Niagara Falls </e2> during the 2011 Ontario Election defeating Progressive Conservative candidate George Lepp by 551 votes."
+per:cities_of_residence(e1,e2)
+
+
+19729	"In 2009 <e1> Air Jamaica </e1> relinquished the title sponsorship to the <e2> Jamaica </e2> Tourist Board and the festival became known as the Jamaica Jazz and Blues Festival."
+no_relation
+
+
+19743	"Born and raised in Kfarshima <e1> Lebanon </e1> she began her musical career in the early 1970s when <e2> she </e2> participated in the talent show Studio El Fan on Liban at the age of 16 and won the gold medal for best female singer."
+per:country_of_birth(e2,e1)
+
+
+19748	"It was home to the <e1> Bayer </e1> Giants <e2> Leverkusen </e2> basketball team."
+org:members(e2,e1)
+
+
+19765	"He was employed by the Office of Chief Counsel for the <e1> Internal Revenue Service </e1> <e2> Dallas District Counsel </e2> 1975 78 ; Baltimore District Counsel 1978 86 ; Office of Associate Chief Counsel International 1986-94."
+org:members(e1,e2)
+
+
+19772	"In July 2008 <e1> Navteq </e1> closed a $ 8.1 B gross cash sale to <e2> Nokia </e2> generating a positive 255 % return to shareholders in at the time of Navteq's IPO."
+org:subsidiaries(e2,e1)
+
+
+19777	"<e1> Shahn </e1> began his path to becoming an <e2> artist </e2> in New York where he was first trained as a lithographer."
+per:title(e1,e2)
+
+
+19778	"On October 26 <e1> 2004 </e1> <e2> Wireless </e2> was acquired by Cingular Wireless a joint venture of SBC Communications and BellSouth to form the largest wireless carrier in the United States at the time."
+no_relation
+
+
+19786	"The Models band were signed to <e1> Mushroom Records </e1> and <e2> Freud </e2> became a close family friend of label boss Michael Gudinski who paid tribute to the musician."
+per:employee_of(e2,e1)
+
+
+19792	"On March 7 1995 a year after BN came to power in <e1> Sabah </e1> <e2> Musa </e2> became the director of Sabah Foundation ( Yayasan Sabah ) a Sabah statutory body."
+per:employee_of(e2,e1)
+
+
+19796	"Inspired by John Lewis Gaddis and Paul Kennedy's Grand Strategy Program at Yale University Hertog funded similar programs at Duke University <e1> William E. Macaulay Honors College </e1> at <e2> CUNY </e2> and elsewhere."
+org:subsidiaries(e2,e1)
+
+
+19805	"The <e1> YTL Corporation </e1> ( YTL Corp ) was founded by Tan Sri Dato ' Seri ( Dr. ) <e2> Yeoh Tiong Lay </e2> in 1955."
+org:founded_by(e1,e2)
+
+
+19814	"The Official Opposition was formed by first the <e1> Canadian Alliance </e1> led by <e2> Stockwell Day </e2> and then by Stephen Harper and then by its successor party the Conservative Party also led by Harper."
+org:members(e1,e2)
+
+
+19815	"-- U.S. Sen. <e1> David Vitter </e1> a <e2> Louisiana </e2> Republican acknowledged in July that his Washington phone number was among those called several years ago by an escort service."
+per:employee_of(e1,e2)
+
+
+19830	"US Airways Group operate <e1> US </e1> Airways along with its subsidiaries <e2> PSA Airlines </e2> Inc. and Piedmont Airlines Inc. which are wholly owned but marketed under the branding of US Airways Express."
+org:subsidiaries(e1,e2)
+
+
+19831	"<e1> Florida </e1> Atlantic University played its first-ever intercollegiate basketball contest on November 18 1988 against fellow local Division II school <e2> Palm Beach Atlantic University </e2>."
+no_relation
+
+
+19833	"In the lead-up to the <e1> 2008 </e1> Olympics in Beijing he is poised to become perhaps the best <e2> sprinter </e2> the United States has produced."
+no_relation
+
+
+19842	"In 1987 after the United Nations had declared <e1> Burma </e1> a Least Developed Country <e2> Ne Win </e2> resigned on 23 July 1988 as chairman of the ruling Burma Socialist Programme Party at the height of the uprising against one-party rule."
+per:employee_of(e2,e1)
+
+
+19852	"I want to help humanity take a step forward by improving our level of knowledge 28-year-old Belgian Jerome Clevers said at the <e1> European Space Agency </e1> 's ( ESA ) offices in Noordwijk in the western <e2> Netherlands </e2> of his quest to be part of the isolation study."
+org:country_of_headquarters(e1,e2)
+
+
+19855	"After four separate setback losses two IBF eliminators and a no contest Cornelius Bundrage finally got his questionable title fight with former Undisputed Welterweight Champion and then current IBF Light Middleweight Champion <e1> Cory Spinks </e1> on August 7 2010 at the Scottrade Center Saint Louis <e2> Missouri </e2> United States."
+no_relation
+
+
+19857	"<e1> Liberty </e1> Mutual was founded in 1912 as the Massachusetts Employees Insurance Association ( MEIA ) following passage of a <e2> Massachusetts </e2> state law requiring employers to protect their employees with workers compensation insurance in 1911."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19861	"The <e1> Utah Army National Guard </e1> is a component of the <e2> United States </e2> Army and the United States National Guard."
+org:members(e2,e1)
+
+
+19864	"Gable found work with several second-class theater companies and thus made his way across the Midwest to Portland <e1> Oregon </e1> where he then took work as a necktie salesman in the <e2> Meier Frank </e2> department store."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+19867	"A leader of the French <e1> du travail </e1> ( <e2> CGT </e2> ) in West Africa Bassirou had begun to promote the idea that African trade unionists should make themselves independent from the French centres."
+org:alternate_names(e1,e2)
+
+
+19873	"<e1> Omni Air International </e1> Inc. is a United States charter airline with its headquarters in Hangar 19 on the grounds of Tulsa International Airport in Tulsa <e2> Oklahoma </e2> USA."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+19900	"Bunny Wailer ( born Neville O'Riley Livingston 10 April 1947 Jamaica ) also known as Bunny Livingston and affectionately as Jah B is a singer songwriter and percussionist and was an original member of reggae group <e1> The Wailers </e1> along with Bob Marley and <e2> Peter Tosh </e2>."
+per:employee_of(e2,e1)
+
+
+19907	"Kramer's daughter Rona E. Kramer represented <e1> Maryland </e1> 's 14th District in the State Senate from 2003 to 2011 and his son <e2> Benjamin F. Kramer </e2> has represented Maryland's 19th District in the House of Delegates since 2007."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+19926	"Jack Rapke is an American film <e1> producer </e1> who has produced such films as the 2000 <e2> Robert Zemeckis </e2> film Cast Away."
+per:title(e2,e1)
+
+
+19930	"The current President of <e1> Sierra Leone </e1> is <e2> Ernest Bai Koroma </e2>."
+per:origin(e2,e1)
+
+
+19944	"In 1992 <e1> he </e1> formed his own label <e2> Fie </e2> !"
+per:employee_of(e1,e2)
+
+
+19956	"The <e1> hospital </e1> is designed as the super tertiary care medical center in the lower northern region of <e2> Thailand </e2>."
+per:countries_of_residence(e1,e2)
+
+
+19960	"He was <e1> one </e1> of the founders of the study of palynology which would later be developed by <e2> Lennart von Post </e2> as well as a pioneer in the early Swedish natural conservation and ecology movements."
+per:alternate_names(e2,e1)
+
+
+19961	"The Stony Brook University Track is the track/field at Stony Brook University serving as the home of the <e1> Stony Brook Seawolves </e1> men's and women's Track Field <e2> Division I </e2> program."
+org:members(e2,e1)
+
+
+19975	"( Also on the journey were <e1> Ted Danson </e1> and wife <e2> Mary Steenburgen </e2> . )."
+per:spouse(e2,e1)
+
+
+19990	"He also played with vocalist Rudy Torres and drummer <e1> Audie Desbrow </e1> ( <e2> Great White </e2> ) in Riff Raff a very popular band around southern California in the early days of hard rock and heavy metal."
+per:employee_of(e1,e2)
+
+
+19993	"Schumann's 22.4 % was the best result for a minor party candidate in Mayo and lost to <e1> Downer </e1> on a two party preferred basis by only 1.7 % transforming Mayo into one of the more marginal electorates in <e2> Australia </e2>."
+per:countries_of_residence(e1,e2)
+
+
+19998	"In 2006 Johnson played for the <e1> North Sydney Bears </e1> in the <e2> NSWRL </e2> Premier League."
+org:members(e2,e1)
+
+
+19999	"On October 21 <e1> Minnesota </e1> Republican <e2> Rod Grams </e2> introduced a bill in the Senate also calling for the mintage of a newly designed dollar coin."
+per:employee_of(e2,e1)
+
+
+20000	"He was born in Germany where he spent most of his childhood years and later moved to <e1> Greece </e1> Sommer attended the <e2> German School of Athens </e2>."
+org:country_of_headquarters(e2,e1)
+
+
+20011	"Some artists on the <e1> Ghost Box Music </e1> label like Belbury Poly and <e2> The Focus Group </e2> draw heavily on Machen."
+org:members(e1,e2)
+
+
+20016	"One of the notable firm in this field the familiar <e1> Canadian Tire </e1> began operations in Toronto in <e2> 1922 </e2> and has become one of Canada's largest retailers."
+org:founded(e1,e2)
+
+
+20019	"On Saturday morning the massive landslide in El-Deweiqa area close to the eastern <e1> Cairo </e1> suburb of <e2> Nasr </e2> City leveled a number of shanties in the slum area."
+org:subsidiaries(e1,e2)
+
+
+20021	"Scranton West Scranton <e1> Scranton Prep </e1> and Holy Cross all compete athletically in Pennsylvania's Lackawanna League which is a part of District 2 of the <e2> Pennsylvania </e2> Interscholastic Athletic Association."
+no_relation
+
+
+20023	"<e1> Gimson </e1> was the first Governor of <e2> Singapore </e2> from 1946 to 1952 who reinstalled the civil administration in Singapore."
+per:countries_of_residence(e1,e2)
+
+
+20028	"<e1> Liverpool </e1> produced a number of nationally and internationally successful popular singers in the 1950s including traditional pop stars Frankie Vaughan and <e2> Lita Roza </e2> and one of the most successful British rock and roll stars in Billy Fury."
+no_relation
+
+
+20054	"In that clip <e1> he </e1> spoke of surfing at San Onofre with James Arness of Gunsmoke fame and guys with nicknames like Hammerhead after he arrived in <e2> Los Angeles </e2> as a young man in the 1950s before surfing was a craze."
+per:cities_of_residence(e1,e2)
+
+
+20056	"Aminul Huq a member of the Bangladesh Nationalist Party led by former Prime Minister <e1> Khaleda Zia </e1> was found guilty of aiding the Jumatul Mujahedeen <e2> Bangladesh </e2> group which has conducted bombings in recent years."
+per:country_of_birth(e1,e2)
+
+
+20063	"STRAC was a designation given to the <e1> XVIII Airborne Corps </e1> at <e2> Fort Bragg </e2> North Carolina in 1958."
+org:city_of_headquarters(e1,e2)
+
+
+20065	"On September 15 2007 a new programming block : <e1> KEWLopolis </e1> premiered a joint venture between DIC CBS and <e2> American Greetings </e2>."
+org:subsidiaries(e2,e1)
+
+
+20067	"<e1> Sharada </e1> Srinivasan Professor National Institute of Advanced Studies Bangalore <e2> India </e2> works in the field of inter-disciplinary scientific studies in art archaeology archaeometallurgy and culture and is also an acclaimed exponent of classical Bharata Natyam dance."
+per:countries_of_residence(e1,e2)
+
+
+20072	"With the first two projects I did everything in <e1> Arizona </e1> which made it very convenient for <e2> me </e2> to just drive down to the studio."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+20073	"Ultimately Radle was best known for his lifetime association with Eric Clapton starting in 1969 with Delaney and Bonnie and Friends and 1970 with <e1> Derek and the Dominos </e1> recording alongside drummer <e2> Jim Gordon </e2> guitarist Duane Allman and keyboardist Bobby Whitlock."
+per:employee_of(e2,e1)
+
+
+20075	"Clean Air Network ( <e1> CAN </e1> ) is an independent non-governmental organization exclusively focused on the issue of air pollution in <e2> Hong Kong </e2>."
+no_relation
+
+
+20082	"He was co-president of the <e1> Union for Europe of the Nations </e1> group in the European Parliament in which <e2> Fianna </e2> sat until it joined the ELDR and by extension ALDE."
+org:members(e1,e2)
+
+
+20084	"The essays grew from Joseph's earlier briefing notes to <e1> Henry Pelham </e1> first Lord of the Treasury and Chancellor of the <e2> Exchequer </e2> to whom Joseph refers anonymously in the text only as ' the great and good man '."
+per:employee_of(e1,e2)
+
+
+20092	"While addressing a joint press conference co-chaired by Pakistani Foreign Minister <e1> Shah Mehmood Qureshi </e1> Walter said his country wants to strengthen bilateral ties with <e2> Pakistan </e2>."
+per:employee_of(e1,e2)
+
+
+20115	"When Howard Hampton announced he was stepping down as leader of the Ontario <e1> New Democratic Party </e1> in June 2008 DiNovo was one of four MPPs along with Michael Prue Peter Tabuns and <e2> Andrea Horwath </e2> whose names were suggested by party insiders as potential candidates in the 2009 Ontario NDP leadership convention."
+per:employee_of(e2,e1)
+
+
+20122	"He came to <e1> Tokyo </e1> intending to become a painter and studied under the famous Fujishima Takeji and <e2> Kuroda Seiki </e2> but had to give up an artistic career due to his father sudden death."
+per:cities_of_residence(e2,e1)
+
+
+20124	"Da REAList is the third studio album by American rapper <e1> Plies </e1> released by <e2> Atlantic Records </e2> on December 16 2008 in North America."
+per:employee_of(e1,e2)
+
+
+20129	"Brown attended <e1> Granby High School </e1> in <e2> Norfolk </e2> Virginia and was a student and a letterman in football and basketball."
+org:city_of_headquarters(e1,e2)
+
+
+20139	"The National Science Foundation awarded two grants totaling over $ 1 million to <e1> Bellevue College </e1> to support this approach and to develop similar programs in <e2> Washington </e2> state other community and technical colleges."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20152	"She had no job offers in <e1> Arkansas </e1> and only got hired by the <e2> University of Arkansas </e2> Law School at Fayetteville because Bill was already teaching there."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20159	"The soundtrack also contains the songs Longing and Redemption by Japanese musician and actor <e1> Gackt </e1> and was released through the artist's ex label <e2> Nippon Crown </e2>."
+per:employee_of(e1,e2)
+
+
+20161	"<e1> KVCC </e1> 's Arcadia Commons Campus in downtown <e2> Kalamazoo </e2> includes Anna Whitten Hall the Center for New Media and the Kalamazoo Valley Museum."
+org:city_of_headquarters(e1,e2)
+
+
+20174	"<e1> Crosby </e1> recorded the former title as a duet with Johnny Mercer for <e2> Decca </e2> Records."
+per:employee_of(e1,e2)
+
+
+20190	"33-year old Alberto Gutierrez sued the Los Angeles Unified School District saying that the principal of the <e1> San Fernando High School </e1> where he was assigned retaliated against him when <e2> Gutierrez </e2> asked students to think critically about the role of the United States in the Iraq War."
+org:top_members/employees(e1,e2)
+
+
+20192	"Prominent contributors to <e1> Essendon </e1> 's 1924 Premiership success included back pocket <e2> Clyde Donaldson </e2> follower Norm Beckton half back flanker Roy Laing follower Charlie May and rover Charlie Hardy."
+per:employee_of(e2,e1)
+
+
+20193	"The origin of the university dated back to <e1> 1928 </e1> when <e2> Anhui University </e2> was founded."
+org:founded(e2,e1)
+
+
+20194	"Early groups of Ulivists were formed in 1995 1996 during the campaign for the 1996 general election by close supporters of <e1> Romano Prodi </e1> who as him were not members of any party of <e2> The Olive Tree </e2>."
+no_relation
+
+
+20195	"Along with Paul Ginsborg Marcello Flores Sergio Luzzato Claudio Pavone Enzo Traverso etc. Ginzburg signed a call in January 2002 against a law project presented by <e1> Justice </e1> Minister <e2> Clemente Mastella </e2> which was to specifically penalize Holocaust denial."
+per:title(e2,e1)
+
+
+20199	"<e1> Samuel Prentiss </e1> ( March 31 1782 January 15 1857 ) was a United States Senator from <e2> Vermont </e2> and later a United States federal judge."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20209	"The <e1> Caracas Stock Exchange </e1> or Bolsa de Valores de <e2> Caracas </e2> ( BVC ) is a stock exchange located in Caracas Venezuela."
+org:alternate_names(e1,e2)
+
+
+20211	"However since the final version was n't ready by the filming of the finale ( which was actually filmed first due to the tight budget ) Previte and Capelli's much lighter and youthful version was used as a backing track so that the actors <e1> Patrick Swayze </e1> and Jennifer Grey and the dancers could have something to dance to ( <e2> Swayze </e2> had later remarked it was his favorite version even of all of the subsequent remakes since )."
+per:alternate_names(e1,e2)
+
+
+20220	"It is one of two nearest stations to <e1> Osaka University of Economics </e1> as well as Zuiko Yonchome Station on the <e2> Osaka </e2> Municipal Subway Imazatosuji Line."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20224	"( Last fall Alexandra Robbins chronicled a similar phenomenon in The Overachievers a book based on the year she spent following students at her alma mater <e1> Walt Whitman High School </e1> in <e2> Bethesda </e2> Md. )."
+org:city_of_headquarters(e1,e2)
+
+
+20225	"Environmental groups called the measure co-sponsored by Kerry's fellow Democratic Senator <e1> Ron Wyden </e1> of <e2> Oregon </e2> a watershed moment in the fight against illegal logging."
+per:employee_of(e1,e2)
+
+
+20227	"Currently at the <e1> University of Waterloo </e1> he teaches Canadian History the American impact on <e2> Canada </e2> and Canada's foreign economic policy in the 20th Century."
+no_relation
+
+
+20237	"Kweller stated in an Australian magazine that he has recently parted ways with <e1> ATO </e1> and plans to release <e2> his </e2> upcoming LP solely on The Noise Co.."
+per:employee_of(e2,e1)
+
+
+20239	"His personal favorites Take it There ( featuring <e1> Proof </e1> of <e2> D12 </e2> ) and Baby Girls a love letter to his daughters exhibit an elevated level in subject matter as well as overall musicianship."
+org:members(e1,e2)
+
+
+20261	"A Royal Stuart Society paper calls <e1> Louisa Maria </e1> the <e2> Princess </e2> over the Water an allusion to the informal title King over the Water of the Jacobite pretenders none of whom had any other legitimate daughters."
+per:title(e1,e2)
+
+
+20264	"According to the DVD commentary neither <e1> Roger Moore </e1> an uncredited co-producer nor Robert S. Baker the credited <e2> producer </e2> ever had a contract other than a handshake with Lew Grade."
+per:employee_of(e1,e2)
+
+
+20268	"After founding <e1> Aftermath </e1> Entertainment in 1996 Dr. Dre took on producer <e2> Mel-Man </e2> as a co-producer and his music took on a more synthesizer-based sound using fewer vocal samples ( as he had used on Lil ' Ghetto Boy and Let Me Ride on The Chronic for example )."
+per:employee_of(e2,e1)
+
+
+20277	"Following Reagan's death the <e1> United States </e1> Postal Service issued a President <e2> Ronald Reagan </e2> commemorative postage stamp in 2005."
+per:country_of_birth(e2,e1)
+
+
+20285	"At the 2007 election <e1> Labor </e1> leader <e2> Kevin Rudd </e2> 's promise to tackle the great moral challenge of our time helped hand him victory."
+per:employee_of(e2,e1)
+
+
+20292	"<e1> A. Philip Randolph Academies of Technology </e1> formerly known as Northside Skills Center is one of twelve high schools in <e2> Jacksonville </e2> Florida ( of nineteen in the Duval County Public Schools network ) to offer the advanced curriculum and skills training of Duval County's MAGNET programs."
+org:city_of_headquarters(e1,e2)
+
+
+20294	"At first the couple lived at <e1> Frida Kahlo </e1> family home called La Casa Azul ( The Blue House ) which is located in the borough of <e2> Mexico </e2> City."
+per:cities_of_residence(e1,e2)
+
+
+20296	"Antislavery event coming to <e1> Adrian College </e1> Adrian <e2> MI </e2> USA Professor David Batstone will present talks on slavery and human trafficking and show clips from his film A Concert End to Slavery."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20297	"In May 2011 prior to first season episodes of My Babysitter's a Vampire airing on Disney Channel ( in the United States ) and after certain episodes aired as sneak peeks on Teletoon/T ( in <e1> Canada </e1> ) ; Secret Location with support from the Bell Broadcast and New Media Fund began developing a video game for <e2> Teletoon </e2> and MBAV called Humans vs. Vampires in 3D."
+org:country_of_headquarters(e2,e1)
+
+
+20301	"According to architectural writer Walt Lockley The Foundation and the Fellowship would not exist in any form if <e1> Wright </e1> had n't gone to the opera with a friend one Sunday afternoon in 1924 Chicago and sat near to the dark-haired Montenegrin <e2> dancer </e2>."
+no_relation
+
+
+20306	"Relations between Lima and Tokyo have been warming since 2007 when Peru's former president <e1> Alberto Fujimori </e1> ended a seven-year exile in <e2> Japan </e2>."
+per:countries_of_residence(e1,e2)
+
+
+20311	"The 2012 <e1> Connecticut Huskies </e1> football team represented the University of Connecticut in the 2012 NCAA <e2> Division I FBS </e2> football season as a member of the Big East Conference."
+org:members(e2,e1)
+
+
+20319	"<e1> Mitsuda </e1> was born in Shunan Yamaguchi <e2> Japan </e2> on January 21 1972 and was raised in Kumage District."
+per:country_of_birth(e1,e2)
+
+
+20328	"In January 1928 Skelly bought the Mid-Continent Aircraft Company of <e1> Tulsa </e1> and renamed it the <e2> Spartan Aircraft Company </e2>."
+org:alternate_names(e2,e1)
+
+
+20347	"Next they were picked up as the first band on <e1> Tim Armstrong </e1> 's new Epitaph affiliate <e2> Hellcat </e2> Records for a 4 record deal."
+per:employee_of(e1,e2)
+
+
+20353	"<e1> Robert E. Lee High School </e1> is a public secondary school in Montgomery <e2> Alabama </e2> USA serving grades 9 12."
+org:stateorprovince_of_headquarters(e1,e2)
+
+
+20357	"Hammond later told Robert Shelton that he decided to sign <e1> Dylan </e1> on the spot and invited him to the <e2> Columbia </e2> offices for a more formal audition recording."
+per:employee_of(e1,e2)
+
+
+20361	"1974 : Acting for President Chiang Kai-shek Vice President <e1> Yen Chia-kan </e1> accepts the credentials of Maj. Gen. Ismael D. Lapus as the Philippines ambassador to the <e2> Republic </e2> of China."
+no_relation
+
+
+20365	"In <e1> 2000 </e1> he created the equivalent of the federal <e2> Bloc Pot </e2> Marijuana Party which ran candidates in federal elections."
+org:founded(e2,e1)
+
+
+20371	"After all winning over the likes of insurance executive <e1> Tom Petway </e1> and developer John Rood can catapult a statewide campaign in <e2> Florida </e2> and produce millions in campaign contributions."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20375	"On 24 June 2010 when Julia Gillard became Prime Minister of Australia and <e1> Leader </e1> of the Labor Party following the resignation of <e2> Kevin Rudd </e2> Swan was elected unopposed to become Deputy Leader of the Labor Party and was subsequently sworn in as the 14th Deputy Prime Minister of Australia."
+per:title(e2,e1)
+
+
+20381	"She plays for the club RK <e1> Podravka </e1> <e2> Koprivnica </e2>."
+org:alternate_names(e1,e2)
+
+
+20389	"Rather than accompanying Sherman however he and troopers were attached to Maj. Gen. <e1> George H. Thomas </e1> 's <e2> Army of the Cumberland </e2> for the Franklin-Nashville Campaign in November and December 1864."
+org:top_members/employees(e2,e1)
+
+
+20394	"/ And in tribute to their Union / the <e1> National Association of Letter Carriers </e1> / founded across Plankinton Avenue / from this site on August 30 <e2> 1889 </e2>."
+org:founded(e1,e2)
+
+
+20409	"During an athletics history that traces its roots to the 1920s Towson has sent <e1> teams </e1> and individual student-athletes to <e2> NCAA </e2> post-season competition in baseball basketball football golf gymnastics lacrosse soccer swimming track field and volleyball."
+org:members(e2,e1)
+
+
+20410	"It merged with Leonard Fairclough Son in <e1> 1982 </e1> to form <e2> AMEC </e2>."
+org:founded(e2,e1)
+
+
+20411	"In the <e1> University of </e1> Kohlrausch documented <e2> his </e2> practical experiments resulting in the book Leitfaden der praktischen Physik ( Guidelines to Practical Physics ) which was published in 1870 as the first book of its type in Germany."
+per:employee_of(e2,e1)
+
+
+20415	"Six Republicans and one Democrat <e1> Jeff Merkley </e1> of <e2> Oregon </e2> were opposed."
+per:employee_of(e1,e2)
+
+
+20416	"They are represented in the Canadian House of Commons by <e1> Conservative </e1> Party Members of Parliament Dick Harris and <e2> Jay Hill </e2>."
+per:employee_of(e2,e1)
+
+
+20417	"Before becoming the U.S. State Department's No. 2 official <e1> Negroponte </e1> was U.S. ambassador to the <e2> United Nations </e2> and Iraq."
+per:employee_of(e1,e2)
+
+
+20422	"Yonhap news agency and other media reported earlier that the younger Lee an executive at <e1> Samsung Electronics </e1> Co. the conglomerate's flagship was to be queried about alleged shady dealings involving the <e2> group </e2> 's corporate structure."
+org:alternate_names(e2,e1)
+
+
+20439	"On 14 November 2007 <e1> Lothian and Borders Police </e1> confirmed that human remains found in the back garden of 50 Irvine Drive a house in <e2> Margate </e2> occupied by Tobin in 1991 were those of Vicky Hamilton."
+org:city_of_headquarters(e1,e2)
+
+
+20444	"We are gathered in <e1> Bangkok </e1> Thailand for the International Development Studies Conference on Mainstreaming Human Security : The Asian Contribution held on 4-5 October 2007 at <e2> Chulalongkorn University </e2>."
+org:city_of_headquarters(e2,e1)
+
+
+20455	"Wonder makes a brief reference to <e1> singer </e1> <e2> Minnie Riperton </e2> in the song Positivity."
+per:title(e2,e1)
+
+
+20461	"South Sudan on Friday urged <e1> Kenya </e1> 's former president <e2> Daniel arap Moi </e2> to intervene and prevent the deal from unravelling accusing Khartoum of not implementing its side of the peace bargain."
+no_relation
+
+
+20466	"John Wood is an English sound engineer and producer best known for his work with <e1> Fairport Convention </e1> John Martyn Cat Stevens <e2> Sandy Denny </e2> Nick Drake the Incredible String Band Pink Floyd Nico and Squeeze."
+no_relation
+
+
+20468	"His wife <e1> Muriel Humphrey </e1> was appointed by <e2> Minnesota </e2> 's governor Rudy Perpich to serve in the US Senate until a special election to fill the term was held."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20475	"The most prominent of these is the <e1> United Liberation Front of Asom </e1> ( <e2> ULFA </e2> )."
+org:alternate_names(e1,e2)
+
+
+20477	"<e1> Sun Caged </e1> is the debut full-length studio album by the Dutch progressive metal band Sun Caged released on 22 October 2003 by <e2> Lion Music </e2>."
+org:members(e2,e1)
+
+
+20482	"( Undated ) -- Peter S. Rummell who has led the transformation of <e1> St. Joe Company </e1> from paper-maker to place-maker is stepping down as chief executive of the <e2> Jacksonville </e2> company in mid-May."
+org:city_of_headquarters(e1,e2)
+
+
+20504	"In 2000 he was working with the French boys band 2Be3 and when doing some publicity for their album in Paris one of the bandmates introduced him to house musician and <e1> producer </e1> <e2> David Guetta </e2>."
+per:title(e2,e1)
+
+
+20509	"He was the editor of Mountain <e1> Bike </e1> Action Magazine from 1986 to 1993 when he moved to Rodale's Mountain <e2> Bike magazine </e2> until he was fired in 2004."
+no_relation
+
+
+20513	"Upon returning to <e1> Antwerp </e1> after a stay of three years he became a frequent collaborator with <e2> Peter Paul Rubens </e2> until 1620."
+per:cities_of_residence(e2,e1)
+
+
+20514	"Originally granted as New Chester in 1753 the town took the name Hill in 1837 in honor of <e1> Isaac Hill </e1> governor of <e2> New Hampshire </e2> from 1836 to 1839."
+per:employee_of(e1,e2)
+
+
+20520	"<e1> Bernard Makuza </e1> ( born 30 September 1961 ) is a Rwandan politician who was <e2> Prime Minister </e2> of Rwanda from 8 March 2000 to 6 October 2011."
+per:title(e1,e2)
+
+
+20522	"By the time <e1> Kean College </e1> of New Jersey became a university in <e2> 1997 </e2> under President Ronald L. Applbaum the institution had achieved a higher level of academic and public recognition."
+org:founded(e1,e2)
+
+
+20526	"Her sister <e1> Susie </e1> was the proprietor and Principal of the Netherwood School for girls in Rothesay <e2> New Brunswick </e2>."
+per:stateorprovinces_of_residence(e1,e2)
+
+
+20538	"<e1> McFadden </e1> was born in Dublin <e2> Ireland </e2> and was raised Catholic."
+per:country_of_birth(e1,e2)
+
+
+20542	"The privatisation programme also covers the entrance of private capital into the shipyards Viana do Castelo and the sale of shares in companies in the industrial and defence sectors the opening of the capital <e1> TAP Portugal </e1> airline and the sale of Aeroports du <e2> Portugal </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+20550	"The following day they launched an attack against Japanese positions located on <e1> two hills </e1> dubbed Helen and <e2> Sadie </e2> by the Australians."
+no_relation
+
+
+20553	"Asper's stations ( including CKVU-TV in Vancouver Saskatchewan stations CFRE-TV/Regina and CFSK-TV/Saskatoon CKND-TV in <e1> Winnipeg </e1> and CIHF-TV in Halifax ) formed a mini-network for a number of years that was known as the <e2> Canwest </e2> Global System which eventually evolved into the present-day Global and all of the stations began using the Global brand ( in addition to CIII ) in 1997."
+org:city_of_headquarters(e2,e1)
+
+
+20557	"It took another 30 years before the implementation of this initial plan would begin with <e1> Simon Fraser University </e1> agreeing to transfer more than 320 hectares of university-owned land to the City of Burnaby to more than double the size of the <e2> Burnaby </e2> Mountain Conservation Area."
+no_relation
+
+
+20570	"There are 581 corporate stores in <e1> Quebec </e1> under the names Couche-Tard Provi-Soir and 7 jours ( acquired from <e2> Metro Inc. </e2> ) as well as 298 affiliated stores such as Tabatou."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20571	"The <e1> college </e1> has three campuses for sixteen - to nineteen-year-old students : <e2> Eastbourne </e2> Vocational Park and Lewes 6th Form College."
+org:subsidiaries(e1,e2)
+
+
+20580	"He is on leave from <e1> New Delhi </e1> 's <e2> Jawaharlal Nehru University </e2> where he serves as a Professor of International Studies."
+org:city_of_headquarters(e2,e1)
+
+
+20587	"The transport ministry in <e1> Baghdad </e1> on Thursday confirmed that <e2> Iraqi Airways </e2> chief Kifah Hassan's travel document was taken away after papers were served by lawyers acting for Kuwait Airways which says it is owed 1.2 billion dollars."
+org:city_of_headquarters(e2,e1)
+
+
+20590	"<e1> Wynonna </e1> and Naomi briefly reunited for a commercial for the retail chain Kmart performing as the <e2> Judds </e2> on the song Changing For the Better."
+per:employee_of(e1,e2)
+
+
+20591	"This is a list of tribute albums of American singer-songwriter <e1> actress </e1> director dancer and entrepreneur <e2> Madonna </e2>."
+per:title(e2,e1)
+
+
+20599	"<e1> He </e1> began testifying last Wednesday about Taylor's rise to power in <e2> Liberia </e2> and links between his regime and the government of Libya."
+per:countries_of_residence(e1,e2)
+
+
+20604	"Enver Pasha the <e1> Ottoman Empire </e1> began to move forward with the newly established Army of <e2> Islam </e2>."
+org:country_of_headquarters(e2,e1)
+
+
+20622	"He was the uncle of <e1> William Adams Richardson </e1> who was United States Secretary of the <e2> Treasury </e2> from 1873 to 1874."
+per:title(e1,e2)
+
+
+20630	"Color of Soul stylized as COLOR OF SOUL is a song by Japenese singer <e1> Kumi Koda </e1> released as her third single in <e2> Japan </e2>."
+per:countries_of_residence(e1,e2)
+
+
+20633	"Steger also said he would not step down and at Tuesday's press conference <e1> John Marshall </e1> secretary of public safety in <e2> Virginia </e2> came to Steger's side."
+per:employee_of(e1,e2)
+
+
+20643	"Andrew <e1> John Lees </e1> ( born in 1947 in Merseyside <e2> England </e2> ) is an English neurologist."
+per:country_of_birth(e1,e2)
+
+
+20652	"It was a staggering suggestion roughly along the lines of Abraham Lincoln inviting <e1> Jefferson Davis </e1> president of the <e2> Confederate States </e2> of America to be president of the United States of America -- in order to avoid the carnage of the Civil War."
+per:employee_of(e1,e2)
+
+
+20659	"Born and hailing from East-Pakistan Suhrawardy as many of his <e1> Muslim League </e1> peers educated from Calcutta University and Oxford University and upon <e2> his </e2> return to India in 1921."
+org:members(e1,e2)
+
+
+20674	"In 1974 acquired <e1> Princess </e1> Cruises a North American cruise line founded in 1966 by <e2> Stanley McDonald </e2>."
+org:founded_by(e1,e2)
+
+
+20677	"Democrats remained in control after November 25 2002 despite a Republican majority resulting from <e1> Jim Talent </e1> 's special election victory in <e2> Missouri </e2>."
+per:employee_of(e1,e2)
+
+
+20683	"<e1> Burberry </e1> set for star-studded <e2> London </e2> show."
+per:cities_of_residence(e1,e2)
+
+
+20686	"Prevented from running a fourth conservative term as mayor Atienza's party nominated his son Ali Atienza for the mayoral race but he was beaten by then Senator Alfredo Lim Atienza's predecessor as mayor ( Lim resigned his Senate seat and <e1> Atienza </e1> was later appointed by President Gloria Macapagal-Arroyo as <e2> Environment and Natural Resources </e2> Secretary )."
+per:employee_of(e1,e2)
+
+
+20694	"The results were going to impress the whole world : small <e1> Mauritius </e1> under Prime-ministership de Sir <e2> Anerood Jugnauth </e2> carried out an economic miracle."
+per:countries_of_residence(e2,e1)
+
+
+20721	"Following two thrashings of the Springboks by the All Blacks in New Zealand both refereed by Irishmen Alan Lewis and Alain Rolland de Villiers questioned their rulings on <e1> Fox Sports </e1> ' ' Rugby Club ' program in <e2> Australia </e2> on July 21."
+org:country_of_headquarters(e1,e2)
+
+
+20727	"Comments like those and the plot uncovered are inevitable as the region still struggles with its past said Dan Fountain assistant professor of history at <e1> Meredith College </e1> in <e2> Raleigh </e2> North Carolina."
+org:city_of_headquarters(e1,e2)
+
+
+20734	"Sir Peter Hugh Morrison PC ( 2 June 1944 13 July 1995 ) was a <e1> British </e1> Conservative politician MP for Chester from 1974 to 1992 and Parliamentary Private Secretary ( PPS ) to Prime Minister <e2> Margaret Thatcher </e2>."
+per:origin(e2,e1)
+
+
+20747	"He attended the Instituto Superior de de Instituto Nacional Superior Saint Joseph's University in Philadelphia and <e1> Chapman University </e1> in <e2> Orange </e2> County California."
+org:city_of_headquarters(e1,e2)
+
+
+20749	"Earlier he had already met the new Polish prime minister Kazimierz Marcinkiewicz and the president of <e1> Lithuania </e1> <e2> Valdas Adamkus </e2>."
+per:origin(e2,e1)
+
+
+20755	"U.S. Presidents Franklin D. Roosevelt Dwight D. Eisenhower and John F. Kennedy all stayed at The Kimball - some before and some after the 1940s transition into the Sheraton-Kimball <e1> Hotel </e1> operated by <e2> Sheraton Hotels and Resorts </e2>."
+org:alternate_names(e2,e1)
+
+
+20766	"Toronto FC are operated by <e1> Maple Leaf Sports Entertainment </e1> Ltd. who also own and operate the Toronto Maple Leafs the Toronto Raptors and the <e2> Toronto Marlies </e2> along with sports ventures like Leafs TV NBA TV Canada and GolTV Canada."
+org:subsidiaries(e1,e2)
+
+
+20775	"He moved to <e1> England </e1> in the early 1990s where he worked as a teacher and coached rowing at <e2> Latymer Upper School </e2> Hammersmith."
+org:country_of_headquarters(e2,e1)
+
+
+20780	"The US Department of Energy has supported the efforts of Wilmington <e1> Delaware </e1> - based <e2> DuPont </e2> and Genencor a leading industrial biotechnology company through multiple grants totaling more than 60 million dollars since 2002 they noted."
+org:stateorprovince_of_headquarters(e2,e1)
+
+
+20789	"It's an ancient order that follow the spiritual leader His Holiness <e1> Sakya Trizin </e1> a king from ancient <e2> Tibet </e2>."
+no_relation
+
+
+20795	"Segregation was in effect in that region and he went to an all black school until he attended college at <e1> Wiley College </e1> in <e2> Marshall </e2> Texas."
+org:city_of_headquarters(e1,e2)
+
+
+20807	"According to Who's Who In Australia Power was educated at <e1> Barker College </e1> in <e2> Hornsby </e2> an Anglican Church school."
+org:city_of_headquarters(e1,e2)
+
+
+20832	"Looking for Love is a song released under <e1> Karen Carpenter </e1> 's name regarded as the first release by what was to become The <e2> Carpenters </e2>."
+per:employee_of(e1,e2)
+
+
+20843	"He left the Academie Ny Antsika in January 2008 and moved to Mueang Thong NongJork United in the Thailand Division 1 League after 6 months left in July Thailand and moved to SO Romorantin in the <e1> France </e1> <e2> Championnat National </e2>."
+org:country_of_headquarters(e2,e1)
+
+
+20849	"The <e1> National Film and Television School </e1> ( NFTS ) was established in 1971 and is based at Beaconsfield Studios in Beaconsfield <e2> Buckinghamshire </e2> and it is located close to Pinewood Studios."
+org:city_of_headquarters(e1,e2)
+
+
+20851	"The largest of said money changers at the time ( the late Sheikh Salem Bin Mahfouz ) eventually founded <e1> Saudi Arabia </e1> 's first bank the <e2> National Commercial Bank </e2> ( NCB )."
+org:country_of_headquarters(e2,e1)
+
+
+20876	"Eugene Joseph Wright ( born May 29 1923 ) nicknamed The Senator is an American jazz bassist best known for his work as a member of The <e1> Dave Brubeck </e1> Quartet in particular on the group's most famous album Time Out ( 1959 ) with <e2> pianist </e2> Brubeck drummer Joe Morello and saxophonist Paul Desmond."
+per:title(e1,e2)
+
+
+20882	"SingTel to take 30 percent stake in <e1> Pakistan </e1> 's <e2> Warid Telecom </e2>."
+org:country_of_headquarters(e2,e1)
+
+
+20892	"On September 4 2009 Ashton announced his candidacy to succeed <e1> Gary Doer </e1> as leader of the <e2> Manitoba </e2> NDP."
+per:employee_of(e1,e2)
+
+
+20901	"Two of her books The Wind Has <e1> Wings </e1> : Poems from <e2> Canada </e2> and The Loon's Necklace were recognized with the Amelia Frances Howard-Gibbon Illustrator's Award for the outstanding illustrations in Canadian children's literature."
+no_relation
+
+
+20910	"It features songs such as It's Going to Take Some Time ( <e1> US </e1> No. 12 by The Carpenters ) Sweet Seasons a No. 9 hit for Carole <e2> King </e2> and Brother Brother."
+per:stateorprovinces_of_residence(e2,e1)
+
+
+20916	"<e1> Serneholt </e1> was a judge on X factor in <e2> Sweden </e2> where she was the mentor for the groups."
+per:countries_of_residence(e1,e2)
+
+
+20927	"The <e1> Academy </e1> was founded in <e2> 1907 </e2> ; its mission is to educate young men and women within a nurturing community based upon Christian values."
+org:founded(e1,e2)
+
+
+20934	"In <e1> Hosley </e1> ten years with <e2> BMC </e2> sales grew from under one million to more than $ 100 million and employees from two ( Hosley and Moores ) to over 500 people."
+org:founded_by(e2,e1)
+
+
+20966	"<e1> Hoyte </e1> was born in <e2> Guyana </e2> 's capital Georgetown."
+per:country_of_birth(e1,e2)
+
+
+20968	"Rutelli led the party until it merged into the <e1> Democratic Party </e1> on <e2> 14 October 2007 </e2>."
+org:founded(e1,e2)
+
+
+20975	"The Hospital is located within <e1> Macquarie University </e1> and is the first private hospital to be located on a university campus in <e2> Australia </e2>."
+org:country_of_headquarters(e1,e2)
+
+
+20978	"A member of the <e1> Pakistan </e1> Peoples Party ( PPP ) he had served also as a minister in the caretaker cabinet of Prime Minister <e2> Muhammad Mian Soomro </e2> under Pervez Musharraf."
+no_relation
+
+
+20994	"A Chilean judge Wednesday rejected Lima's request to extradite former Peruvian president <e1> Alberto Fujimori </e1> to <e2> Peru </e2> where he faces corruption and human rights charges."
+no_relation
+
+
+21000	"Square <e1> Enix </e1> is a Japanese video game development and publishing company formed from the merger on <e2> April 1 2003 </e2> of video game developer Square and publisher Enix."
+org:founded(e1,e2)
+
+
+21006	"Another notable contributor to the Douglass Park and Community Center is <e1> Memphis </e1> Park Commission employee Maurice Goode Sr. a former Douglass resident along with mother numerous brothers sisters and graduate of <e2> Douglass High </e2>."
+org:city_of_headquarters(e2,e1)
+
+
+21008	"Since the office of President pro tempore was occupied by a Republican Senator <e1> Thomas W. Ferry </e1> of <e2> Michigan </e2> this method would have favored Hayes."
+per:employee_of(e1,e2)
+
+
+21009	"<e1> Manmohan Singh </e1> could become a Rajya Sabha member and thereby a prime minister chiefly by falsely claiming that he was a resident of Hiteswar Saikia's house in <e2> Guwahati </e2>."
+per:cities_of_residence(e1,e2)
+
+
+21024	"<e1> His </e1> interest in paleontology and Geology led to his moving to <e2> Vernal </e2> Utah."
+per:cities_of_residence(e1,e2)
+
+
+21032	"I regret a lot the exit of <e1> Blair </e1> who has always been a man who sought compromise in Europe and who brought the <e2> United Kingdom </e2> into Europe the French leader added."
+per:employee_of(e1,e2)
+
+
+21033	"It became a codeshare partner with <e1> Continental Micronesia </e1> in December 1992 and took over flights to <e2> Guam </e2> Rota and Saipan."
+org:subsidiaries(e2,e1)
+
+
+21040	"In 2005 <e1> Matt Ellis </e1> left Australia with his latest album in hand and embarked upon a tour across Canada and the <e2> USA </e2> which included shows in and around Vancouver Hornby Denman Islands and at the North by Northeast ( NxNE ) Festival in Toronto."
+per:countries_of_residence(e1,e2)
+
+
+21041	"But Tuesday said Bill Strickland an assistant athletic director at <e1> UMass </e1> Dr. Joel Gore the director of cardiovascular medicine at the <e2> center </e2> told John Calipari the coach of the Minutemen that Camby could play."
+no_relation
+
+
+21043	"With <e1> NAZA </e1> FC he won the <e2> Malaysia </e2> Premier League 2007-08 championship."
+org:members(e2,e1)
+
