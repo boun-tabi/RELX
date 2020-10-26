@@ -1,7 +1,7 @@
 # RELX
 The RELX Dataset and Matching the Multilingual Blanks for Cross-lingual Relation Classification, EMNLP-Findings 2020.
 
-Paper: 
+Paper: https://arxiv.org/abs/2010.09381
 
 
 ## RELX & RELX-Distant Datasets
