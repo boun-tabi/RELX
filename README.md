@@ -1,7 +1,7 @@
 # RELX
 The RELX Dataset and Matching the Multilingual Blanks for Cross-lingual Relation Classification, EMNLP-Findings 2020.
 
-Paper: https://arxiv.org/abs/2010.09381
+Paper: https://www.aclweb.org/anthology/2020.findings-emnlp.32/
 
 
 ## RELX & RELX-Distant Datasets
@@ -41,5 +41,17 @@ F1 scores of 10 runs. See paper for more details.
 * Please cite the following paper if you use any part of this work:
 
 ```
-Paper details
+@inproceedings{koksal-ozgur-2020-relx,
+    title = "The {RELX} Dataset and Matching the Multilingual Blanks for Cross-Lingual Relation Classification",
+    author = {K{\"o}ksal, Abdullatif  and
+      {\"O}zg{\"u}r, Arzucan},
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.findings-emnlp.32",
+    doi = "10.18653/v1/2020.findings-emnlp.32",
+    pages = "340--350",
+}
 ```
