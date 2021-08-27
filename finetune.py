@@ -32,7 +32,7 @@ class Model(nn.Module):
         if base_model == "mbert":
             self.net_bert = BertModel.from_pretrained('bert-base-multilingual-cased')
         elif base_model == "mtmb":
-            model = AutoModel.from_pretrained("akoksal/MTMB")
+            self.net_bert = AutoModel.from_pretrained("akoksal/MTMB")
         self.has_layer_norm = has_layer_norm
         self.has_dropout = has_dropout
         self.no_classes = no_classes
